@@ -1,6 +1,6 @@
 **Overview**
 
-Analyzing the impact of GDP and inflation on employment trends. We are looking to see how employment rates change when GDP and inflation fluctuate.
+Analyzing the impact of GDP and inflation on employment trends.
 
 **Research Question:**
 
@@ -8,7 +8,7 @@ Analyzing the impact of GDP and inflation on employment trends. We are looking t
 
 **Team:**
 
-Patrick Tauras (Data Engineer) and Justin Kutsor (Data Analyst). Patrick will gather and clean the data and allow Justin to use the data sets to see if changes in GDP and inflation impact employment trends. 
+Patrick Tauras (Data Engineer) and Justin Kutsor (Data Analyst). Patrick will gather the data and allow Justin to use the data sets to see if changes in GDP and inflation impact employment trends. 
 
 **Datasets:**
 
@@ -22,6 +22,6 @@ The Inflation Data from the Federal Reserve Economic Data (FRED) API includes a 
 
 Our project timeline is designed to hit all the key requirements in manageable steps. In Weeks 1-2, we’ll set up roles, organize our GitHub repo, and finalize our main research question. We’ll grab data from the FRED and BLS APIs, making sure each dataset has distinct licenses and formats, and we’ll add integrity checks to keep things reproducible.
 
-Moving to Weeks 3-4, we’ll focus on integrating the datasets with Python and document the process. Week 5 is for data profiling and cleanup, making sure everything’s ready for analysis. This may include some formatting changes, examining where there may be missing data, and more. From Weeks 6-7, we’ll dive into analysis and visualizations to explore how GDP and inflation impact employment trends, packaging it all in a reproducible format.
+Moving to Weeks 3-4, we’ll focus on integrating the datasets with Python and document the process. Week 5 is for data profiling and cleanup, making sure everything’s ready for analysis. From Weeks 6-7, we’ll dive into analysis and visualizations to explore how GDP and inflation impact employment trends, packaging it all in a reproducible format.
 
-In Weeks 8-9, we’ll build an automated workflow to run everything smoothly from start to finish. This may include a tool such as Snakemake or some other tool in order to seamlessly connect all of our code. For the final touches in Weeks 10-11, we’ll wrap up documentation, cite all our sources, create metadata, and archive the project on Zenodo for a persistent identifier. Our GitHub repo will track progress and contributions, keeping us organized and on target.
+In Weeks 8-9, we’ll build an automated workflow to run everything smoothly from start to finish. For the final touches in Weeks 10-11, we’ll wrap up documentation, cite all our sources, create metadata, and archive the project on Zenodo for a persistent identifier. Our GitHub repo will track progress and contributions, keeping us organized and on target.
