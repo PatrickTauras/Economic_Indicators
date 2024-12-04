@@ -1,5 +1,8 @@
 # Economic Indicators and Employment Trends
 
+## Research Question
+**How do changes in GDP and inflation impact employment trends across different industries in the United States?**
+
 ## Link to Archival Record
 [Zenodo Archive](https://doi.org/XXXX/zenodo.XXXXXX) (Add this once available)
 
@@ -99,11 +102,6 @@ We further quantified these relationships using a linear regression model, which
   - **Inflation**: **196.91**, indicating a strong and significant positive relationship with employment.
 
 The regression analysis reinforced our observations from the visualizations. While GDP is crucial for understanding broader economic health, inflation appears to have a more immediate and direct influence on employment trends. This was evident during the recovery from the pandemic when inflation surged alongside improving employment figures.
-
-### COVID-19: A Case Study in Economic Interdependence
-The pandemic years offered a unique case study in how these indicators interact during times of crisis and recovery. The sharp declines in GDP and employment in 2020 reflected the immediate effects of lockdowns, while inflation’s initial dip gave way to rapid increases as supply chain constraints and heightened demand took hold. By 2021, GDP had largely rebounded, driven by increased economic activity, while inflation surged due to supply shortages. Employment, however, struggled to recover at the same pace, reflecting deeper structural challenges.
-
-These findings underscore the complexity of economic recovery and the importance of analyzing multiple indicators to get a full picture of economic health. Policymakers and economists can use this analysis to better anticipate how various factors might respond to future crises, enabling more effective interventions to stabilize and support the economy.
 
 ---
 
