@@ -12,6 +12,6 @@ df = pd.DataFrame(data)
 df['date'] = pd.to_datetime(df['date'], unit='ms').dt.strftime('%Y-%m-%d')
 
 # Save the updated DataFrame back to a JSON file
-df.to_json("Cleaned_Integrated_Data.json", orient="records", indent=4)
+df.to_json("Cleaned_Integrated_Data_Readable.json", orient="records", indent=4)
 
-print("Date format updated to human-readable form in Cleaned_Integrated_Data_Human_Readable.json")
+print("Date format updated to human-readable form in Cleaned_Integrated_Data_Readable.json")

@@ -1,0 +1,11 @@
+1. For hash storage and comparison, must put all raw data files into a folder named raw_data
+so that the script can search through the folder and compute the hash for each set of the 
+raw data only ---- CHANGED IN SNAKEFILE SO IF RUN IN ORDER IT JUST RUNS THROUGH THE DATA 
+FOLDER WHICH ONLY SHOULD HAVE THESE FILES
+
+2. If running an integrity check with the hashes, you must manually input the initially
+calculated hashes in file_hashes.json to the according values in hash_integrity_check.py
+lines 37-39 for the hashes for each data file.
+
+3. NOT A MANUAL STEP BUT CHECK WITH PAT ON THE UPDATE DATE FORMAT- seems like never gets
+actually used or has not been run, maybe not needed?

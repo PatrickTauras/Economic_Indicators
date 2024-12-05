@@ -9,7 +9,7 @@ def compute_file_hash(file_path):
     return hash_object.hexdigest()
 
 # Compute hashes for all raw data files
-repo_path = "./raw_data" #moved data out of folder now after computing
+repo_path = "./Cleaning_datasets" #should be run when only the raw datasets are there, if need to run again, add raw data files to their own folder, and change this to the folder's name
 hashes = {}
 for root, _, files in os.walk(repo_path):
     for file_name in files:
