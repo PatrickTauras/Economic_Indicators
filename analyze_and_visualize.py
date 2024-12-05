@@ -5,7 +5,7 @@ from sklearn.linear_model import LinearRegression
 from sklearn.metrics import r2_score
 
 # Load dataset
-data = pd.read_json("Filtered_Data_Onward_2015-03-31.json")
+data = pd.read_json("Final_Data/Filtered_Data_Onward_2015-03-31.json")
 
 # Data Exploration
 print("Dataset Info:")
@@ -24,7 +24,7 @@ plt.title("Trends in Employment, GDP, and Inflation (2015 Onward)")
 plt.legend()
 plt.xticks(rotation=45)
 plt.tight_layout()
-plt.savefig("line_plot_trends.png")
+plt.savefig("Results/line_plot_trends.png")
 plt.close()
 print("Graph 1: Line Plot saved.")
 
@@ -35,7 +35,7 @@ plt.xlabel("GDP")
 plt.ylabel("Employment")
 plt.title("Relationship between GDP and Employment")
 plt.tight_layout()
-plt.savefig("scatter_gdp_vs_employment.png")
+plt.savefig("Results/scatter_gdp_vs_employment.png")
 plt.close()
 print("Graph 2: Scatter Plot (GDP vs Employment) saved.")
 
@@ -46,7 +46,7 @@ plt.xlabel("Inflation")
 plt.ylabel("Employment")
 plt.title("Relationship between Inflation and Employment")
 plt.tight_layout()
-plt.savefig("scatter_inflation_vs_employment.png")
+plt.savefig("Results/scatter_inflation_vs_employment.png")
 plt.close()
 print("Graph 3: Scatter Plot (Inflation vs Employment) saved.")
 
@@ -56,7 +56,7 @@ plt.figure(figsize=(8, 6))
 sns.heatmap(correlation_matrix, annot=True, cmap="coolwarm", fmt=".2f")
 plt.title("Correlation Matrix Heatmap")
 plt.tight_layout()
-plt.savefig("heatmap_correlations.png")
+plt.savefig("Results/heatmap_correlations.png")
 plt.close()
 print("Graph 4: Heatmap saved.")
 
@@ -68,7 +68,7 @@ plt.xlabel("GDP")
 plt.ylabel("Employment")
 plt.title("Bubble Plot: GDP vs Employment with Inflation")
 plt.tight_layout()
-plt.savefig("bubble_plot_gdp_vs_employment.png")
+plt.savefig("Results/bubble_plot_gdp_vs_employment.png")
 plt.close()
 print("Graph 5: Bubble Plot saved.")
 
@@ -84,7 +84,7 @@ plt.title("Time-Lagged Change in Employment and GDP")
 plt.legend()
 plt.xticks(rotation=45)
 plt.tight_layout()
-plt.savefig("time_lagged_trends.png")
+plt.savefig("Results/time_lagged_trends.png")
 plt.close()
 print("Graph 6: Time-Lagged Line Plot saved.")
 
@@ -102,7 +102,7 @@ ax2.tick_params(axis='y', labelcolor='red')
 
 plt.title("GDP and Inflation Over Time")
 fig.tight_layout()
-plt.savefig("dual_axis_gdp_inflation.png")
+plt.savefig("Results/dual_axis_gdp_inflation.png")
 plt.close()
 print("Graph 7: Dual Y-Axis Plot saved.")
 
@@ -117,7 +117,7 @@ plt.title("Employment Over Time with GDP and Inflation Shading")
 plt.legend()
 plt.xticks(rotation=45)
 plt.tight_layout()
-plt.savefig("employment_shaded_gdp_inflation.png")
+plt.savefig("Results/employment_shaded_gdp_inflation.png")
 plt.close()
 print("Graph 8: Employment Shaded by GDP and Inflation saved.")
 
@@ -132,7 +132,7 @@ y_pred = model.predict(X)
 r2 = r2_score(y, y_pred)
 
 # Save Results to Markdown
-analysis_results_file = "analysis_results.md"
+analysis_results_file = "Results/analysis_results.md"
 with open(analysis_results_file, "w") as f:
     f.write("# Analysis Results\n\n")
     f.write("## Correlation Matrix\n")

@@ -3,6 +3,8 @@ so that the script can search through the folder and compute the hash for each s
 raw data only ---- CHANGED IN SNAKEFILE SO IF RUN IN ORDER IT JUST RUNS THROUGH THE DATA 
 FOLDER WHICH ONLY SHOULD HAVE THESE FILES
 
+1. Instructions for getting API keys for TAs
+
 2. If running an integrity check with the hashes, you must manually input the initially
 calculated hashes in file_hashes.json to the according values in hash_integrity_check.py
 lines 37-39 for the hashes for each data file.

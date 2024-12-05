@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 
 # Load the JSON into a DataFrame
-df = pd.read_json("Data_Integration.json")
+df = pd.read_json("Cleaning_Data/Data_Integration.json")
 
 # Replace invalid GDP values
 df['value_gdp'] = pd.to_numeric(df['value_gdp'], errors='coerce')  # Converts "." to NaN
@@ -19,4 +19,4 @@ df['value_inflation'] = df['value_inflation'].interpolate(method='linear')
 df['date'] = pd.to_datetime(df['date'], unit='ms')
 
 # Save cleaned data
-df.to_json("Cleaned_Integrated_Data.json", orient="records", indent=4)
+df.to_json("Cleaning_Data/Cleaned_Integrated_Data.json", orient="records", indent=4)

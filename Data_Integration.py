@@ -2,15 +2,15 @@ import pandas as pd
 import json
 
 # Load Employment Data
-with open("Employment_data.json", "r") as employment_file:
+with open("Raw_Data/Employment_data.json", "r") as employment_file:
     employment_data = json.load(employment_file)
 
 # Load GDP Data
-with open("GDP_data.json", "r") as gdp_file:
+with open("Raw_Data/GDP_data.json", "r") as gdp_file:
     gdp_data = json.load(gdp_file)
 
 # Load Inflation Data
-with open("Inflation_data.json", "r") as inflation_file:
+with open("Raw_Data/Inflation_data.json", "r") as inflation_file:
     inflation_data = json.load(inflation_file)
 
 # Convert Employment Data into a DataFrame
@@ -55,7 +55,7 @@ integrated_df = pd.merge(employment_df, gdp_df[['date', 'value_gdp']], on="date"
 integrated_df = pd.merge(integrated_df, inflation_df[['date', 'value_inflation']], on="date", how="outer")
 
 # Save the Integrated Data to a JSON File
-integrated_df.to_json("Data_Integration.json", orient="records", indent=4)
+integrated_df.to_json("Cleaning_Data/Data_Integration.json", orient="records", indent=4)
 
 # Initial Profiling
 print("Missing Values Per Column:")

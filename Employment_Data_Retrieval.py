@@ -24,7 +24,7 @@ response = requests.post(url, headers=headers, data=payload)
 if response.status_code == 200:
     data = response.json()
     # Save the data to a JSON file with the specified name
-    with open("Employment_data.json", "w") as f:
+    with open("Raw_Data/Employment_data.json", "w") as f:
         json.dump(data, f, indent=4)
     print("Employment data saved successfully as Employment_data.json.")
 else:

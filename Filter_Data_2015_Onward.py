@@ -6,10 +6,12 @@ import os
 
 # Define the Results folder path
 results_folder = "Results"
+data_folder = "Final_Data"
+os.makedirs(data_folder, exist_ok=True)  # Ensure the folder exists
 os.makedirs(results_folder, exist_ok=True)  # Ensure the folder exists
 
 # Load the JSON file
-with open("Cleaned_Integrated_Data.json", "r") as f:
+with open("Cleaning_Data/Cleaned_Integrated_Data.json", "r") as f:
     data = json.load(f)
 
 # Convert the data into a DataFrame
@@ -35,7 +37,7 @@ base_year_cpi = 100
 filtered_df['value_inflation'] = ((filtered_df['value_inflation'] - base_year_cpi) / base_year_cpi) * 100
 
 # Save the filtered and formatted data to the Results folder
-filtered_data_file = os.path.join(results_folder, "Filtered_Data_Onward_2015-03-31.json")
+filtered_data_file = os.path.join(data_folder, "Filtered_Data_Onward_2015-03-31.json")
 filtered_df.to_json(filtered_data_file, orient="records", indent=4)
 print(f"Filtered data saved as '{filtered_data_file}'")
 

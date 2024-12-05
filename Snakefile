@@ -68,7 +68,7 @@ rule clean_integrated_data:
     shell:
         "python Cleaning_Datasets/Clean_Integrated_Data.py"
 
-#Check if this one is needed
+#Check if this one is needed # DELETE
 rule update_date_format:
     input:
         "Cleaning_datasets/Cleaned_Integration_Data.json"
