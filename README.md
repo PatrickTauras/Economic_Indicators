@@ -3,13 +3,6 @@
 ## Research Question
 **How do changes in GDP and inflation impact employment trends across different industries in the United States?**
 
-## Link to Archival Record
-[Zenodo Archive](https://doi.org/XXXX/zenodo.XXXXXX) (Add this once available)
-
-## Contributors
-- **Patrick Tauras (Data Engineer)**: Data acquisition, integration, cleaning, and workflow automation.
-- **Justin Kutsor (Data Analyst)**: Data analysis, visualizations, and research question evaluation.
-
 ## Summary
 
 This project explores the relationship between GDP, inflation, and employment trends in the United States, focusing on how these key economic indicators interact during times of upheaval and recovery. Using data from the Bureau of Labor Statistics (BLS) and the Federal Reserve Economic Data (FRED) APIs, we analyzed trends from 2015 to the present. We paid special attention to the years 2020 and 2021, which were deeply shaped by the economic turmoil of the COVID-19 pandemic. These two years provided a unique opportunity to study how the economy responded to one of the most significant global disruptions in recent history.
