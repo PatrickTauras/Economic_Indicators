@@ -1,7 +1,7 @@
 # Economic Indicators and Employment Trends
 
 ## Research Question
-**How do changes in GDP and inflation impact employment trends across different industries in the United States?**
+**How have changes in GDP and inflation influenced employment trends in the United States from 2015 onward, with a specific focus on the economic disruptions caused by the COVID-19 pandemic?**
 
 ## Summary
 
