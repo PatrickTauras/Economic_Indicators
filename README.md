@@ -137,9 +137,9 @@ By refining our analytical approach, future studies could capture the complexiti
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/illinois-data-curation/is477-fa24-TEAM_NAME.git
+   git clone https://github.com/illinois-data-curation/is477-fa24-Economic_Indicators.git
 2. Nagivate to project directory:
-    cd is477-fa24-TEAM_NAME
+    cd is477-fa24-Economic_Indicators
 3. Install dependencies:
     pip install -r requirements.txt (in terminal)
 4. Run the analysis and visualization script:
