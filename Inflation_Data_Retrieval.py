@@ -1,8 +1,10 @@
 import requests
 import json
 
-# Your FRED API key
-API_KEY = "935154deca7b4c3a957baa7a73359f1c"
+# FRED API key
+with open("api_keys/fred_apikey.txt", "r") as f:
+    api_key = f.readline().strip()
+
 
 # Define the series ID for CPI (inflation measure)
 series_id = "CPIAUCSL"  # Consumer Price Index for All Urban Consumers

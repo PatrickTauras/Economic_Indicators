@@ -2,7 +2,9 @@ import requests
 import json
 
 # Your BLS API key
-API_KEY = "7e29d10d5b784e40902a07f2e0cb272e"
+with open("api_keys/bls_apikey.txt", "r") as f:
+    api_key = f.readline().strip()
+
 
 # Define the series ID for employment data
 series_id = "CES0000000001"  # Example: Total nonfarm employment, U.S.

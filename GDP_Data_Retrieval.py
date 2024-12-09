@@ -1,8 +1,10 @@
 import requests
 import json
 
-# Replace with your actual FRED API key
-API_KEY = "935154deca7b4c3a957baa7a73359f1c"
+# FRED API key
+with open("api_keys/fred_apikey.txt", "r") as f:
+    api_key = f.readline().strip()
+
 
 # URL for GDP data
 series_id = "GDP"  # Change this to other series IDs for different indicators
