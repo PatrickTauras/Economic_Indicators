@@ -19,7 +19,6 @@ rule reproduce_all:
         "Results/dual_axis_gdp_inflation.png",
         "Results/employment_shaded_gdp_inflation.png",
         "Results/analysis_results.md"
-        
 
 
 rule inflation_data_retrieval:
@@ -96,12 +95,6 @@ rule clean_integrated_data:
         "python Clean_Integrated_Data.py"
 
 
-
-
-
-
-
-
 rule filter_data_2015_onward:
     input:
         "Cleaning_data/Cleaned_Integrated_Data.json"
@@ -112,6 +105,10 @@ rule filter_data_2015_onward:
         "Results/kde_distribution_inflation_employment.png"
     shell:
         "python Filter_Data_2015_Onward.py"
+
+
+
+
 
 
 rule analyze_and_visualize:
