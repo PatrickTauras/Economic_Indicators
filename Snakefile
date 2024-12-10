@@ -23,6 +23,8 @@ rule reproduce_all:
 
 
 rule inflation_data_retrieval:
+    input:
+        "api_keys/fred_apikey.txt"
     output:
         "Raw_Data/Inflation_data.json"
     shell:
@@ -30,6 +32,8 @@ rule inflation_data_retrieval:
 
 
 rule GDP_data_retrieval:
+    input:
+        "api_keys/fred_apikey.txt"
     output:
         "Raw_Data/GDP_data.json"
     shell:
@@ -37,6 +41,8 @@ rule GDP_data_retrieval:
 
 
 rule employment_data_retrieval:
+    input:
+        "api_keys/bls_apikey.txt"
     output:
         "Raw_Data/Employment_data.json"
     shell:
@@ -56,7 +62,7 @@ rule hash_api_check:
     shell:
         "python hash_api_check.py"
 
-#Check if need an output file here or if just printing out the values is alright
+
 rule hash_integrity_check:
     input:
         "Raw_data/Inflation_data.json",
