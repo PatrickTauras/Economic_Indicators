@@ -1,11 +1,11 @@
 rule reproduce_all:
     input:
-        "Raw_data/Inflation_data.json",
-        "Raw_data/GDP_data.json",
-        "Raw_data/Employment_data.json",
+        "Raw_Data/Inflation_data.json",
+        "Raw_Data/GDP_data.json",
+        "Raw_Data/Employment_data.json",
         "hash_storage/file_hashes.json",    
         "Cleaning_Data/Data_Integration.json",
-        "Cleaning_Data/Cleaned_Integration_Data.json",
+        "Cleaning_Data/Cleaned_Integrated_Data.json",
         "Final_Data/Filtered_Data_Onward_2015-03-31.json",
         "Results/scatter_inflation_vs_employment_with_trendline.png",
         "Results/dual_axis_inflation_vs_employment.png",
@@ -53,9 +53,9 @@ rule employment_data_retrieval:
 
 rule hash_api_check:
     input:
-        "Raw_data/Inflation_data.json",
-        "Raw_data/GDP_data.json",
-        "Raw_data/Employment_data.json"
+        "Raw_Data/Inflation_data.json",
+        "Raw_Data/GDP_data.json",
+        "Raw_Data/Employment_data.json"
     output:
         "hash_storage/file_hashes.json"
     shell:
@@ -71,15 +71,11 @@ rule hash_integrity_check:
         "python hash_api_check.py"
 
 
-
-
-
-
 rule data_integration:
     input:
-        "Raw_data/Inflation_data.json",
-        "Raw_data/GDP_data.json",
-        "Raw_data/Employment_data.json"
+        "Raw_Data/Inflation_data.json",
+        "Raw_Data/GDP_data.json",
+        "Raw_Data/Employment_data.json"
     output:
         "Cleaning_Data/Data_Integration.json"
     shell:
@@ -88,16 +84,16 @@ rule data_integration:
 
 rule clean_integrated_data:
     input:
-        "Cleaning_data/Data_Integration.json"
+        "Cleaning_Data/Data_Integration.json"
     output:
-        "Cleaning_Data/Cleaned_Integration_Data.json"
+        "Cleaning_Data/Cleaned_Integrated_Data.json"
     shell:
         "python Clean_Integrated_Data.py"
 
 
 rule filter_data_2015_onward:
     input:
-        "Cleaning_data/Cleaned_Integrated_Data.json"
+        "Cleaning_Data/Cleaned_Integrated_Data.json"
     output:
         "Final_Data/Filtered_Data_Onward_2015-03-31.json",
         "Results/scatter_inflation_vs_employment_with_trendline.png",
@@ -105,10 +101,6 @@ rule filter_data_2015_onward:
         "Results/kde_distribution_inflation_employment.png"
     shell:
         "python Filter_Data_2015_Onward.py"
-
-
-
-
 
 
 rule analyze_and_visualize:

@@ -10,7 +10,7 @@ with open("api_keys/fred_apikey.txt", "r") as f:
 series_id = "CPIAUCSL"  # Consumer Price Index for All Urban Consumers
 
 # Set up the FRED API request
-url = f"https://api.stlouisfed.org/fred/series/observations?series_id={series_id}&api_key={API_KEY}&file_type=json"
+url = f"https://api.stlouisfed.org/fred/series/observations?series_id={series_id}&api_key={api_key}&file_type=json"
 
 # Make the API request
 response = requests.get(url)

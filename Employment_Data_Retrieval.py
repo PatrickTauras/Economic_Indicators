@@ -16,7 +16,7 @@ payload = json.dumps({
     "seriesid": [series_id],
     "startyear": "2015",  # Adjust the year range based on your project needs
     "endyear": "2023",
-    "registrationkey": API_KEY
+    "registrationkey": api_key
 })
 
 # Make the API request

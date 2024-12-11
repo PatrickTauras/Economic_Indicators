@@ -10,12 +10,16 @@ df['value_gdp'] = pd.to_numeric(df['value_gdp'], errors='coerce')  # Converts ".
 # Drop rows where all key metrics are NaN
 df.dropna(subset=['value_emp', 'value_gdp', 'value_inflation'], how='all', inplace=True)
 
+
 # Optionally interpolate missing values (linear interpolation)
 df['value_emp'] = df['value_emp'].interpolate(method='linear')
 df['value_gdp'] = df['value_gdp'].interpolate(method='linear')
 df['value_inflation'] = df['value_inflation'].interpolate(method='linear')
 
-# Convert timestamp to human-readable date
+#remove remaining null values
+df.dropna(subset=['value_gdp', 'value_inflation'], how='all', inplace=True)
+
+# Convert timestamp
 df['date'] = pd.to_datetime(df['date'], unit='ms')
 
 # Save cleaned data

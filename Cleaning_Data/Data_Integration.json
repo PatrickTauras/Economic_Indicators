@@ -1,5 +1,221 @@
 [
     {
+        "date":1427760000000,
+        "value_emp":140772.6666666667,
+        "value_gdp":null,
+        "value_inflation":null
+    },
+    {
+        "date":1435622400000,
+        "value_emp":141478.6666666667,
+        "value_gdp":null,
+        "value_inflation":null
+    },
+    {
+        "date":1443571200000,
+        "value_emp":142128.0,
+        "value_gdp":null,
+        "value_inflation":null
+    },
+    {
+        "date":1451520000000,
+        "value_emp":142825.6666666667,
+        "value_gdp":null,
+        "value_inflation":null
+    },
+    {
+        "date":1459382400000,
+        "value_emp":143424.3333333333,
+        "value_gdp":null,
+        "value_inflation":null
+    },
+    {
+        "date":1467244800000,
+        "value_emp":143969.6666666667,
+        "value_gdp":null,
+        "value_inflation":null
+    },
+    {
+        "date":1475193600000,
+        "value_emp":144713.3333333333,
+        "value_gdp":null,
+        "value_inflation":null
+    },
+    {
+        "date":1483142400000,
+        "value_emp":145222.3333333333,
+        "value_gdp":null,
+        "value_inflation":null
+    },
+    {
+        "date":1490918400000,
+        "value_emp":145820.0,
+        "value_gdp":null,
+        "value_inflation":null
+    },
+    {
+        "date":1498780800000,
+        "value_emp":146383.3333333333,
+        "value_gdp":null,
+        "value_inflation":null
+    },
+    {
+        "date":1506729600000,
+        "value_emp":146892.6666666667,
+        "value_gdp":null,
+        "value_inflation":null
+    },
+    {
+        "date":1514678400000,
+        "value_emp":147347.3333333333,
+        "value_gdp":null,
+        "value_inflation":null
+    },
+    {
+        "date":1522454400000,
+        "value_emp":148000.3333333333,
+        "value_gdp":null,
+        "value_inflation":null
+    },
+    {
+        "date":1530316800000,
+        "value_emp":148716.3333333333,
+        "value_gdp":null,
+        "value_inflation":null
+    },
+    {
+        "date":1538265600000,
+        "value_emp":149219.3333333333,
+        "value_gdp":null,
+        "value_inflation":null
+    },
+    {
+        "date":1546214400000,
+        "value_emp":149650.3333333333,
+        "value_gdp":null,
+        "value_inflation":null
+    },
+    {
+        "date":1553990400000,
+        "value_emp":150141.0,
+        "value_gdp":null,
+        "value_inflation":null
+    },
+    {
+        "date":1561852800000,
+        "value_emp":150695.3333333333,
+        "value_gdp":null,
+        "value_inflation":null
+    },
+    {
+        "date":1569801600000,
+        "value_emp":151149.0,
+        "value_gdp":null,
+        "value_inflation":null
+    },
+    {
+        "date":1577750400000,
+        "value_emp":151638.6666666667,
+        "value_gdp":null,
+        "value_inflation":null
+    },
+    {
+        "date":1585612800000,
+        "value_emp":151750.6666666667,
+        "value_gdp":null,
+        "value_inflation":null
+    },
+    {
+        "date":1593475200000,
+        "value_emp":133705.3333333333,
+        "value_gdp":null,
+        "value_inflation":null
+    },
+    {
+        "date":1601424000000,
+        "value_emp":140611.3333333333,
+        "value_gdp":null,
+        "value_inflation":null
+    },
+    {
+        "date":1609372800000,
+        "value_emp":142590.6666666667,
+        "value_gdp":null,
+        "value_inflation":null
+    },
+    {
+        "date":1617148800000,
+        "value_emp":143544.3333333333,
+        "value_gdp":null,
+        "value_inflation":null
+    },
+    {
+        "date":1625011200000,
+        "value_emp":145153.0,
+        "value_gdp":null,
+        "value_inflation":null
+    },
+    {
+        "date":1632960000000,
+        "value_emp":147231.0,
+        "value_gdp":null,
+        "value_inflation":null
+    },
+    {
+        "date":1640908800000,
+        "value_emp":149175.3333333333,
+        "value_gdp":null,
+        "value_inflation":null
+    },
+    {
+        "date":1648684800000,
+        "value_emp":150753.3333333333,
+        "value_gdp":null,
+        "value_inflation":null
+    },
+    {
+        "date":1656547200000,
+        "value_emp":151972.6666666667,
+        "value_gdp":null,
+        "value_inflation":null
+    },
+    {
+        "date":1664496000000,
+        "value_emp":153285.0,
+        "value_gdp":null,
+        "value_inflation":null
+    },
+    {
+        "date":1672444800000,
+        "value_emp":154114.3333333333,
+        "value_gdp":null,
+        "value_inflation":null
+    },
+    {
+        "date":1680220800000,
+        "value_emp":155013.0,
+        "value_gdp":null,
+        "value_inflation":null
+    },
+    {
+        "date":1688083200000,
+        "value_emp":155766.0,
+        "value_gdp":null,
+        "value_inflation":null
+    },
+    {
+        "date":1696032000000,
+        "value_emp":156433.0,
+        "value_gdp":null,
+        "value_inflation":null
+    },
+    {
+        "date":1703980800000,
+        "value_emp":157050.0,
+        "value_gdp":null,
+        "value_inflation":null
+    },
+    {
         "date":-757382400000,
         "value_emp":null,
         "value_gdp":null,
@@ -30,6 +246,1866 @@
         "value_inflation":21.48
     },
     {
+        "date":-718070400000,
+        "value_emp":null,
+        "value_gdp":245.968,
+        "value_inflation":22.0
+    },
+    {
+        "date":-710208000000,
+        "value_emp":null,
+        "value_gdp":249.585,
+        "value_inflation":22.23
+    },
+    {
+        "date":-702259200000,
+        "value_emp":null,
+        "value_gdp":259.745,
+        "value_inflation":22.91
+    },
+    {
+        "date":-694310400000,
+        "value_emp":null,
+        "value_gdp":265.742,
+        "value_inflation":23.68
+    },
+    {
+        "date":-686448000000,
+        "value_emp":null,
+        "value_gdp":272.567,
+        "value_inflation":23.82
+    },
+    {
+        "date":-678585600000,
+        "value_emp":null,
+        "value_gdp":279.196,
+        "value_inflation":24.4
+    },
+    {
+        "date":-670636800000,
+        "value_emp":null,
+        "value_gdp":280.366,
+        "value_inflation":24.31
+    },
+    {
+        "date":-662688000000,
+        "value_emp":null,
+        "value_gdp":275.034,
+        "value_inflation":24.01
+    },
+    {
+        "date":-654912000000,
+        "value_emp":null,
+        "value_gdp":271.351,
+        "value_inflation":23.92
+    },
+    {
+        "date":-647049600000,
+        "value_emp":null,
+        "value_gdp":272.889,
+        "value_inflation":23.7
+    },
+    {
+        "date":-639100800000,
+        "value_emp":null,
+        "value_gdp":270.627,
+        "value_inflation":23.67
+    },
+    {
+        "date":-631152000000,
+        "value_emp":null,
+        "value_gdp":280.828,
+        "value_inflation":23.51
+    },
+    {
+        "date":-623376000000,
+        "value_emp":null,
+        "value_gdp":290.383,
+        "value_inflation":23.65
+    },
+    {
+        "date":-615513600000,
+        "value_emp":null,
+        "value_gdp":308.153,
+        "value_inflation":24.07
+    },
+    {
+        "date":-607564800000,
+        "value_emp":null,
+        "value_gdp":319.945,
+        "value_inflation":24.5
+    },
+    {
+        "date":-599616000000,
+        "value_emp":null,
+        "value_gdp":336.0,
+        "value_inflation":25.38
+    },
+    {
+        "date":-591840000000,
+        "value_emp":null,
+        "value_gdp":344.09,
+        "value_inflation":25.92
+    },
+    {
+        "date":-583977600000,
+        "value_emp":null,
+        "value_gdp":351.385,
+        "value_inflation":25.91
+    },
+    {
+        "date":-576028800000,
+        "value_emp":null,
+        "value_gdp":356.178,
+        "value_inflation":26.16
+    },
+    {
+        "date":-568080000000,
+        "value_emp":null,
+        "value_gdp":359.82,
+        "value_inflation":26.45
+    },
+    {
+        "date":-560217600000,
+        "value_emp":null,
+        "value_gdp":361.03,
+        "value_inflation":26.46
+    },
+    {
+        "date":-552355200000,
+        "value_emp":null,
+        "value_gdp":367.701,
+        "value_inflation":26.68
+    },
+    {
+        "date":-544406400000,
+        "value_emp":null,
+        "value_gdp":380.812,
+        "value_inflation":26.69
+    },
+    {
+        "date":-536457600000,
+        "value_emp":null,
+        "value_gdp":387.98,
+        "value_inflation":26.64
+    },
+    {
+        "date":-528681600000,
+        "value_emp":null,
+        "value_gdp":391.749,
+        "value_inflation":26.69
+    },
+    {
+        "date":-520819200000,
+        "value_emp":null,
+        "value_gdp":391.171,
+        "value_inflation":26.79
+    },
+    {
+        "date":-512870400000,
+        "value_emp":null,
+        "value_gdp":385.97,
+        "value_inflation":26.95
+    },
+    {
+        "date":-504921600000,
+        "value_emp":null,
+        "value_gdp":385.345,
+        "value_inflation":26.94
+    },
+    {
+        "date":-497145600000,
+        "value_emp":null,
+        "value_gdp":386.121,
+        "value_inflation":26.86
+    },
+    {
+        "date":-489283200000,
+        "value_emp":null,
+        "value_gdp":390.996,
+        "value_inflation":26.86
+    },
+    {
+        "date":-481334400000,
+        "value_emp":null,
+        "value_gdp":399.734,
+        "value_inflation":26.72
+    },
+    {
+        "date":-473385600000,
+        "value_emp":null,
+        "value_gdp":413.073,
+        "value_inflation":26.77
+    },
+    {
+        "date":-465609600000,
+        "value_emp":null,
+        "value_gdp":421.532,
+        "value_inflation":26.79
+    },
+    {
+        "date":-457747200000,
+        "value_emp":null,
+        "value_gdp":430.221,
+        "value_inflation":26.76
+    },
+    {
+        "date":-449798400000,
+        "value_emp":null,
+        "value_gdp":437.092,
+        "value_inflation":26.82
+    },
+    {
+        "date":-441849600000,
+        "value_emp":null,
+        "value_gdp":439.746,
+        "value_inflation":26.83
+    },
+    {
+        "date":-433987200000,
+        "value_emp":null,
+        "value_gdp":446.01,
+        "value_inflation":26.93
+    },
+    {
+        "date":-426124800000,
+        "value_emp":null,
+        "value_gdp":451.191,
+        "value_inflation":27.29
+    },
+    {
+        "date":-418176000000,
+        "value_emp":null,
+        "value_gdp":460.463,
+        "value_inflation":27.51
+    },
+    {
+        "date":-410227200000,
+        "value_emp":null,
+        "value_gdp":469.779,
+        "value_inflation":27.67
+    },
+    {
+        "date":-402451200000,
+        "value_emp":null,
+        "value_gdp":472.025,
+        "value_inflation":27.93
+    },
+    {
+        "date":-394588800000,
+        "value_emp":null,
+        "value_gdp":479.49,
+        "value_inflation":28.19
+    },
+    {
+        "date":-386640000000,
+        "value_emp":null,
+        "value_gdp":474.864,
+        "value_inflation":28.32
+    },
+    {
+        "date":-378691200000,
+        "value_emp":null,
+        "value_gdp":467.54,
+        "value_inflation":28.64
+    },
+    {
+        "date":-370915200000,
+        "value_emp":null,
+        "value_gdp":471.978,
+        "value_inflation":28.94
+    },
+    {
+        "date":-363052800000,
+        "value_emp":null,
+        "value_gdp":485.841,
+        "value_inflation":28.89
+    },
+    {
+        "date":-355104000000,
+        "value_emp":null,
+        "value_gdp":499.555,
+        "value_inflation":28.91
+    },
+    {
+        "date":-347155200000,
+        "value_emp":null,
+        "value_gdp":510.33,
+        "value_inflation":29.01
+    },
+    {
+        "date":-339379200000,
+        "value_emp":null,
+        "value_gdp":522.653,
+        "value_inflation":28.98
+    },
+    {
+        "date":-331516800000,
+        "value_emp":null,
+        "value_gdp":525.034,
+        "value_inflation":29.15
+    },
+    {
+        "date":-323568000000,
+        "value_emp":null,
+        "value_gdp":528.6,
+        "value_inflation":29.35
+    },
+    {
+        "date":-315619200000,
+        "value_emp":null,
+        "value_gdp":542.648,
+        "value_inflation":29.37
+    },
+    {
+        "date":-307756800000,
+        "value_emp":null,
+        "value_gdp":541.08,
+        "value_inflation":29.54
+    },
+    {
+        "date":-299894400000,
+        "value_emp":null,
+        "value_gdp":545.604,
+        "value_inflation":29.55
+    },
+    {
+        "date":-291945600000,
+        "value_emp":null,
+        "value_gdp":540.197,
+        "value_inflation":29.75
+    },
+    {
+        "date":-283996800000,
+        "value_emp":null,
+        "value_gdp":545.018,
+        "value_inflation":29.84
+    },
+    {
+        "date":-276220800000,
+        "value_emp":null,
+        "value_gdp":555.545,
+        "value_inflation":29.81
+    },
+    {
+        "date":-268358400000,
+        "value_emp":null,
+        "value_gdp":567.664,
+        "value_inflation":29.92
+    },
+    {
+        "date":-260409600000,
+        "value_emp":null,
+        "value_gdp":580.612,
+        "value_inflation":29.98
+    },
+    {
+        "date":-252460800000,
+        "value_emp":null,
+        "value_gdp":594.013,
+        "value_inflation":30.04
+    },
+    {
+        "date":-244684800000,
+        "value_emp":null,
+        "value_gdp":600.366,
+        "value_inflation":30.21
+    },
+    {
+        "date":-236822400000,
+        "value_emp":null,
+        "value_gdp":609.027,
+        "value_inflation":30.22
+    },
+    {
+        "date":-228873600000,
+        "value_emp":null,
+        "value_gdp":612.28,
+        "value_inflation":30.38
+    },
+    {
+        "date":-220924800000,
+        "value_emp":null,
+        "value_gdp":621.672,
+        "value_inflation":30.44
+    },
+    {
+        "date":-213148800000,
+        "value_emp":null,
+        "value_gdp":629.752,
+        "value_inflation":30.48
+    },
+    {
+        "date":-205286400000,
+        "value_emp":null,
+        "value_gdp":644.444,
+        "value_inflation":30.69
+    },
+    {
+        "date":-197337600000,
+        "value_emp":null,
+        "value_gdp":653.938,
+        "value_inflation":30.75
+    },
+    {
+        "date":-189388800000,
+        "value_emp":null,
+        "value_gdp":669.822,
+        "value_inflation":30.94
+    },
+    {
+        "date":-181526400000,
+        "value_emp":null,
+        "value_gdp":678.674,
+        "value_inflation":30.95
+    },
+    {
+        "date":-173664000000,
+        "value_emp":null,
+        "value_gdp":692.031,
+        "value_inflation":31.02
+    },
+    {
+        "date":-165715200000,
+        "value_emp":null,
+        "value_gdp":697.319,
+        "value_inflation":31.12
+    },
+    {
+        "date":-157766400000,
+        "value_emp":null,
+        "value_gdp":717.79,
+        "value_inflation":31.28
+    },
+    {
+        "date":-149990400000,
+        "value_emp":null,
+        "value_gdp":730.191,
+        "value_inflation":31.38
+    },
+    {
+        "date":-142128000000,
+        "value_emp":null,
+        "value_gdp":749.323,
+        "value_inflation":31.58
+    },
+    {
+        "date":-134179200000,
+        "value_emp":null,
+        "value_gdp":771.857,
+        "value_inflation":31.65
+    },
+    {
+        "date":-126230400000,
+        "value_emp":null,
+        "value_gdp":795.734,
+        "value_inflation":31.88
+    },
+    {
+        "date":-118454400000,
+        "value_emp":null,
+        "value_gdp":804.981,
+        "value_inflation":32.28
+    },
+    {
+        "date":-110592000000,
+        "value_emp":null,
+        "value_gdp":819.638,
+        "value_inflation":32.45
+    },
+    {
+        "date":-102643200000,
+        "value_emp":null,
+        "value_gdp":833.302,
+        "value_inflation":32.85
+    },
+    {
+        "date":-94694400000,
+        "value_emp":null,
+        "value_gdp":844.17,
+        "value_inflation":32.9
+    },
+    {
+        "date":-86918400000,
+        "value_emp":null,
+        "value_gdp":848.983,
+        "value_inflation":33.1
+    },
+    {
+        "date":-79056000000,
+        "value_emp":null,
+        "value_gdp":865.233,
+        "value_inflation":33.4
+    },
+    {
+        "date":-71107200000,
+        "value_emp":null,
+        "value_gdp":881.439,
+        "value_inflation":33.7
+    },
+    {
+        "date":-63158400000,
+        "value_emp":null,
+        "value_gdp":909.387,
+        "value_inflation":34.1
+    },
+    {
+        "date":-55296000000,
+        "value_emp":null,
+        "value_gdp":934.344,
+        "value_inflation":34.4
+    },
+    {
+        "date":-47433600000,
+        "value_emp":null,
+        "value_gdp":950.825,
+        "value_inflation":34.9
+    },
+    {
+        "date":-39484800000,
+        "value_emp":null,
+        "value_gdp":968.03,
+        "value_inflation":35.3
+    },
+    {
+        "date":-31536000000,
+        "value_emp":null,
+        "value_gdp":993.337,
+        "value_inflation":35.7
+    },
+    {
+        "date":-23760000000,
+        "value_emp":null,
+        "value_gdp":1009.02,
+        "value_inflation":36.3
+    },
+    {
+        "date":-15897600000,
+        "value_emp":null,
+        "value_gdp":1029.956,
+        "value_inflation":36.8
+    },
+    {
+        "date":-7948800000,
+        "value_emp":null,
+        "value_gdp":1038.147,
+        "value_inflation":37.3
+    },
+    {
+        "date":0,
+        "value_emp":null,
+        "value_gdp":1051.2,
+        "value_inflation":37.9
+    },
+    {
+        "date":7776000000,
+        "value_emp":null,
+        "value_gdp":1067.375,
+        "value_inflation":38.5
+    },
+    {
+        "date":15638400000,
+        "value_emp":null,
+        "value_gdp":1086.059,
+        "value_inflation":38.9
+    },
+    {
+        "date":23587200000,
+        "value_emp":null,
+        "value_gdp":1088.608,
+        "value_inflation":39.4
+    },
+    {
+        "date":31536000000,
+        "value_emp":null,
+        "value_gdp":1135.156,
+        "value_inflation":39.9
+    },
+    {
+        "date":39312000000,
+        "value_emp":null,
+        "value_gdp":1156.271,
+        "value_inflation":40.1
+    },
+    {
+        "date":47174400000,
+        "value_emp":null,
+        "value_gdp":1177.675,
+        "value_inflation":40.6
+    },
+    {
+        "date":55123200000,
+        "value_emp":null,
+        "value_gdp":1190.297,
+        "value_inflation":40.9
+    },
+    {
+        "date":63072000000,
+        "value_emp":null,
+        "value_gdp":1230.609,
+        "value_inflation":41.2
+    },
+    {
+        "date":70934400000,
+        "value_emp":null,
+        "value_gdp":1266.369,
+        "value_inflation":41.5
+    },
+    {
+        "date":78796800000,
+        "value_emp":null,
+        "value_gdp":1290.566,
+        "value_inflation":41.8
+    },
+    {
+        "date":86745600000,
+        "value_emp":null,
+        "value_gdp":1328.904,
+        "value_inflation":42.2
+    },
+    {
+        "date":94694400000,
+        "value_emp":null,
+        "value_gdp":1377.49,
+        "value_inflation":42.7
+    },
+    {
+        "date":102470400000,
+        "value_emp":null,
+        "value_gdp":1413.887,
+        "value_inflation":43.7
+    },
+    {
+        "date":110332800000,
+        "value_emp":null,
+        "value_gdp":1433.838,
+        "value_inflation":44.2
+    },
+    {
+        "date":118281600000,
+        "value_emp":null,
+        "value_gdp":1476.289,
+        "value_inflation":45.6
+    },
+    {
+        "date":126230400000,
+        "value_emp":null,
+        "value_gdp":1491.209,
+        "value_inflation":46.8
+    },
+    {
+        "date":134006400000,
+        "value_emp":null,
+        "value_gdp":1530.056,
+        "value_inflation":48.1
+    },
+    {
+        "date":141868800000,
+        "value_emp":null,
+        "value_gdp":1560.026,
+        "value_inflation":49.3
+    },
+    {
+        "date":149817600000,
+        "value_emp":null,
+        "value_gdp":1599.679,
+        "value_inflation":51.0
+    },
+    {
+        "date":157766400000,
+        "value_emp":null,
+        "value_gdp":1616.116,
+        "value_inflation":52.3
+    },
+    {
+        "date":165542400000,
+        "value_emp":null,
+        "value_gdp":1651.853,
+        "value_inflation":53.0
+    },
+    {
+        "date":173404800000,
+        "value_emp":null,
+        "value_gdp":1709.82,
+        "value_inflation":54.0
+    },
+    {
+        "date":181353600000,
+        "value_emp":null,
+        "value_gdp":1761.831,
+        "value_inflation":54.9
+    },
+    {
+        "date":189302400000,
+        "value_emp":null,
+        "value_gdp":1820.487,
+        "value_inflation":55.8
+    },
+    {
+        "date":197164800000,
+        "value_emp":null,
+        "value_gdp":1852.332,
+        "value_inflation":56.1
+    },
+    {
+        "date":205027200000,
+        "value_emp":null,
+        "value_gdp":1886.558,
+        "value_inflation":57.0
+    },
+    {
+        "date":212976000000,
+        "value_emp":null,
+        "value_gdp":1934.273,
+        "value_inflation":57.9
+    },
+    {
+        "date":220924800000,
+        "value_emp":null,
+        "value_gdp":1988.648,
+        "value_inflation":58.7
+    },
+    {
+        "date":228700800000,
+        "value_emp":null,
+        "value_gdp":2055.909,
+        "value_inflation":60.0
+    },
+    {
+        "date":236563200000,
+        "value_emp":null,
+        "value_gdp":2118.473,
+        "value_inflation":60.8
+    },
+    {
+        "date":244512000000,
+        "value_emp":null,
+        "value_gdp":2164.27,
+        "value_inflation":61.6
+    },
+    {
+        "date":252460800000,
+        "value_emp":null,
+        "value_gdp":2202.76,
+        "value_inflation":62.7
+    },
+    {
+        "date":260236800000,
+        "value_emp":null,
+        "value_gdp":2331.633,
+        "value_inflation":63.9
+    },
+    {
+        "date":268099200000,
+        "value_emp":null,
+        "value_gdp":2395.053,
+        "value_inflation":65.5
+    },
+    {
+        "date":276048000000,
+        "value_emp":null,
+        "value_gdp":2476.949,
+        "value_inflation":67.1
+    },
+    {
+        "date":283996800000,
+        "value_emp":null,
+        "value_gdp":2526.61,
+        "value_inflation":68.5
+    },
+    {
+        "date":291772800000,
+        "value_emp":null,
+        "value_gdp":2591.247,
+        "value_inflation":70.6
+    },
+    {
+        "date":299635200000,
+        "value_emp":null,
+        "value_gdp":2667.565,
+        "value_inflation":73.0
+    },
+    {
+        "date":307584000000,
+        "value_emp":null,
+        "value_gdp":2723.883,
+        "value_inflation":75.2
+    },
+    {
+        "date":315532800000,
+        "value_emp":null,
+        "value_gdp":2789.842,
+        "value_inflation":78.0
+    },
+    {
+        "date":323395200000,
+        "value_emp":null,
+        "value_gdp":2797.352,
+        "value_inflation":80.9
+    },
+    {
+        "date":331257600000,
+        "value_emp":null,
+        "value_gdp":2856.483,
+        "value_inflation":82.6
+    },
+    {
+        "date":339206400000,
+        "value_emp":null,
+        "value_gdp":2985.557,
+        "value_inflation":84.7
+    },
+    {
+        "date":347155200000,
+        "value_emp":null,
+        "value_gdp":3124.206,
+        "value_inflation":87.2
+    },
+    {
+        "date":354931200000,
+        "value_emp":null,
+        "value_gdp":3162.532,
+        "value_inflation":89.1
+    },
+    {
+        "date":362793600000,
+        "value_emp":null,
+        "value_gdp":3260.609,
+        "value_inflation":91.5
+    },
+    {
+        "date":370742400000,
+        "value_emp":null,
+        "value_gdp":3280.818,
+        "value_inflation":93.4
+    },
+    {
+        "date":378691200000,
+        "value_emp":null,
+        "value_gdp":3274.302,
+        "value_inflation":94.4
+    },
+    {
+        "date":386467200000,
+        "value_emp":null,
+        "value_gdp":3331.972,
+        "value_inflation":95.0
+    },
+    {
+        "date":394329600000,
+        "value_emp":null,
+        "value_gdp":3366.322,
+        "value_inflation":97.5
+    },
+    {
+        "date":402278400000,
+        "value_emp":null,
+        "value_gdp":3402.561,
+        "value_inflation":98.1
+    },
+    {
+        "date":410227200000,
+        "value_emp":null,
+        "value_gdp":3473.413,
+        "value_inflation":97.9
+    },
+    {
+        "date":418003200000,
+        "value_emp":null,
+        "value_gdp":3578.848,
+        "value_inflation":98.8
+    },
+    {
+        "date":425865600000,
+        "value_emp":null,
+        "value_gdp":3689.179,
+        "value_inflation":99.8
+    },
+    {
+        "date":433814400000,
+        "value_emp":null,
+        "value_gdp":3794.706,
+        "value_inflation":100.8
+    },
+    {
+        "date":441763200000,
+        "value_emp":null,
+        "value_gdp":3908.054,
+        "value_inflation":102.1
+    },
+    {
+        "date":449625600000,
+        "value_emp":null,
+        "value_gdp":4009.601,
+        "value_inflation":103.3
+    },
+    {
+        "date":457488000000,
+        "value_emp":null,
+        "value_gdp":4084.25,
+        "value_inflation":104.1
+    },
+    {
+        "date":465436800000,
+        "value_emp":null,
+        "value_gdp":4148.551,
+        "value_inflation":105.1
+    },
+    {
+        "date":473385600000,
+        "value_emp":null,
+        "value_gdp":4230.168,
+        "value_inflation":105.7
+    },
+    {
+        "date":481161600000,
+        "value_emp":null,
+        "value_gdp":4294.887,
+        "value_inflation":107.0
+    },
+    {
+        "date":489024000000,
+        "value_emp":null,
+        "value_gdp":4386.773,
+        "value_inflation":107.7
+    },
+    {
+        "date":496972800000,
+        "value_emp":null,
+        "value_gdp":4444.094,
+        "value_inflation":108.5
+    },
+    {
+        "date":504921600000,
+        "value_emp":null,
+        "value_gdp":4507.894,
+        "value_inflation":109.9
+    },
+    {
+        "date":512697600000,
+        "value_emp":null,
+        "value_gdp":4545.34,
+        "value_inflation":108.7
+    },
+    {
+        "date":520560000000,
+        "value_emp":null,
+        "value_gdp":4607.669,
+        "value_inflation":109.5
+    },
+    {
+        "date":528508800000,
+        "value_emp":null,
+        "value_gdp":4657.627,
+        "value_inflation":110.2
+    },
+    {
+        "date":536457600000,
+        "value_emp":null,
+        "value_gdp":4722.156,
+        "value_inflation":111.4
+    },
+    {
+        "date":544233600000,
+        "value_emp":null,
+        "value_gdp":4806.16,
+        "value_inflation":112.7
+    },
+    {
+        "date":552096000000,
+        "value_emp":null,
+        "value_gdp":4884.555,
+        "value_inflation":113.8
+    },
+    {
+        "date":560044800000,
+        "value_emp":null,
+        "value_gdp":5007.994,
+        "value_inflation":115.0
+    },
+    {
+        "date":567993600000,
+        "value_emp":null,
+        "value_gdp":5073.372,
+        "value_inflation":116.0
+    },
+    {
+        "date":575856000000,
+        "value_emp":null,
+        "value_gdp":5190.036,
+        "value_inflation":117.2
+    },
+    {
+        "date":583718400000,
+        "value_emp":null,
+        "value_gdp":5282.835,
+        "value_inflation":118.5
+    },
+    {
+        "date":591667200000,
+        "value_emp":null,
+        "value_gdp":5399.509,
+        "value_inflation":119.9
+    },
+    {
+        "date":599616000000,
+        "value_emp":null,
+        "value_gdp":5511.253,
+        "value_inflation":121.2
+    },
+    {
+        "date":607392000000,
+        "value_emp":null,
+        "value_gdp":5612.463,
+        "value_inflation":123.1
+    },
+    {
+        "date":615254400000,
+        "value_emp":null,
+        "value_gdp":5695.365,
+        "value_inflation":124.5
+    },
+    {
+        "date":623203200000,
+        "value_emp":null,
+        "value_gdp":5747.237,
+        "value_inflation":125.4
+    },
+    {
+        "date":631152000000,
+        "value_emp":null,
+        "value_gdp":5872.701,
+        "value_inflation":127.5
+    },
+    {
+        "date":638928000000,
+        "value_emp":null,
+        "value_gdp":5960.028,
+        "value_inflation":128.9
+    },
+    {
+        "date":646790400000,
+        "value_emp":null,
+        "value_gdp":6015.116,
+        "value_inflation":130.5
+    },
+    {
+        "date":654739200000,
+        "value_emp":null,
+        "value_gdp":6004.733,
+        "value_inflation":133.4
+    },
+    {
+        "date":662688000000,
+        "value_emp":null,
+        "value_gdp":6035.178,
+        "value_inflation":134.7
+    },
+    {
+        "date":670464000000,
+        "value_emp":null,
+        "value_gdp":6126.862,
+        "value_inflation":135.1
+    },
+    {
+        "date":678326400000,
+        "value_emp":null,
+        "value_gdp":6205.937,
+        "value_inflation":136.2
+    },
+    {
+        "date":686275200000,
+        "value_emp":null,
+        "value_gdp":6264.54,
+        "value_inflation":137.2
+    },
+    {
+        "date":694224000000,
+        "value_emp":null,
+        "value_gdp":6363.102,
+        "value_inflation":138.3
+    },
+    {
+        "date":702086400000,
+        "value_emp":null,
+        "value_gdp":6470.763,
+        "value_inflation":139.4
+    },
+    {
+        "date":709948800000,
+        "value_emp":null,
+        "value_gdp":6566.641,
+        "value_inflation":140.5
+    },
+    {
+        "date":717897600000,
+        "value_emp":null,
+        "value_gdp":6680.803,
+        "value_inflation":141.7
+    },
+    {
+        "date":725846400000,
+        "value_emp":null,
+        "value_gdp":6729.459,
+        "value_inflation":142.8
+    },
+    {
+        "date":733622400000,
+        "value_emp":null,
+        "value_gdp":6808.939,
+        "value_inflation":143.8
+    },
+    {
+        "date":741484800000,
+        "value_emp":null,
+        "value_gdp":6882.098,
+        "value_inflation":144.5
+    },
+    {
+        "date":749433600000,
+        "value_emp":null,
+        "value_gdp":7013.738,
+        "value_inflation":145.6
+    },
+    {
+        "date":757382400000,
+        "value_emp":null,
+        "value_gdp":7115.652,
+        "value_inflation":146.3
+    },
+    {
+        "date":765158400000,
+        "value_emp":null,
+        "value_gdp":7246.931,
+        "value_inflation":147.2
+    },
+    {
+        "date":773020800000,
+        "value_emp":null,
+        "value_gdp":7331.075,
+        "value_inflation":148.4
+    },
+    {
+        "date":780969600000,
+        "value_emp":null,
+        "value_gdp":7455.288,
+        "value_inflation":149.4
+    },
+    {
+        "date":788918400000,
+        "value_emp":null,
+        "value_gdp":7522.289,
+        "value_inflation":150.5
+    },
+    {
+        "date":796694400000,
+        "value_emp":null,
+        "value_gdp":7580.997,
+        "value_inflation":151.8
+    },
+    {
+        "date":804556800000,
+        "value_emp":null,
+        "value_gdp":7683.125,
+        "value_inflation":152.6
+    },
+    {
+        "date":812505600000,
+        "value_emp":null,
+        "value_gdp":7772.586,
+        "value_inflation":153.5
+    },
+    {
+        "date":820454400000,
+        "value_emp":null,
+        "value_gdp":7868.468,
+        "value_inflation":154.7
+    },
+    {
+        "date":828316800000,
+        "value_emp":null,
+        "value_gdp":8032.84,
+        "value_inflation":156.1
+    },
+    {
+        "date":836179200000,
+        "value_emp":null,
+        "value_gdp":8131.408,
+        "value_inflation":157.0
+    },
+    {
+        "date":844128000000,
+        "value_emp":null,
+        "value_gdp":8259.771,
+        "value_inflation":158.2
+    },
+    {
+        "date":852076800000,
+        "value_emp":null,
+        "value_gdp":8362.655,
+        "value_inflation":159.4
+    },
+    {
+        "date":859852800000,
+        "value_emp":null,
+        "value_gdp":8518.825,
+        "value_inflation":159.9
+    },
+    {
+        "date":867715200000,
+        "value_emp":null,
+        "value_gdp":8662.823,
+        "value_inflation":160.4
+    },
+    {
+        "date":875664000000,
+        "value_emp":null,
+        "value_gdp":8765.907,
+        "value_inflation":161.5
+    },
+    {
+        "date":883612800000,
+        "value_emp":null,
+        "value_gdp":8866.48,
+        "value_inflation":162.0
+    },
+    {
+        "date":891388800000,
+        "value_emp":null,
+        "value_gdp":8969.699,
+        "value_inflation":162.2
+    },
+    {
+        "date":899251200000,
+        "value_emp":null,
+        "value_gdp":9121.097,
+        "value_inflation":163.2
+    },
+    {
+        "date":907200000000,
+        "value_emp":null,
+        "value_gdp":9293.991,
+        "value_inflation":163.9
+    },
+    {
+        "date":915148800000,
+        "value_emp":null,
+        "value_gdp":9411.682,
+        "value_inflation":164.7
+    },
+    {
+        "date":922924800000,
+        "value_emp":null,
+        "value_gdp":9526.21,
+        "value_inflation":165.9
+    },
+    {
+        "date":930787200000,
+        "value_emp":null,
+        "value_gdp":9686.626,
+        "value_inflation":166.7
+    },
+    {
+        "date":938736000000,
+        "value_emp":null,
+        "value_gdp":9900.169,
+        "value_inflation":168.1
+    },
+    {
+        "date":946684800000,
+        "value_emp":null,
+        "value_gdp":10002.179,
+        "value_inflation":169.3
+    },
+    {
+        "date":954547200000,
+        "value_emp":null,
+        "value_gdp":10247.72,
+        "value_inflation":170.9
+    },
+    {
+        "date":962409600000,
+        "value_emp":null,
+        "value_gdp":10318.165,
+        "value_inflation":172.7
+    },
+    {
+        "date":970358400000,
+        "value_emp":null,
+        "value_gdp":10435.744,
+        "value_inflation":173.9
+    },
+    {
+        "date":978307200000,
+        "value_emp":null,
+        "value_gdp":10470.231,
+        "value_inflation":175.6
+    },
+    {
+        "date":986083200000,
+        "value_emp":null,
+        "value_gdp":10599.0,
+        "value_inflation":176.4
+    },
+    {
+        "date":993945600000,
+        "value_emp":null,
+        "value_gdp":10598.02,
+        "value_inflation":177.4
+    },
+    {
+        "date":1001894400000,
+        "value_emp":null,
+        "value_gdp":10660.465,
+        "value_inflation":177.6
+    },
+    {
+        "date":1009843200000,
+        "value_emp":null,
+        "value_gdp":10783.5,
+        "value_inflation":177.7
+    },
+    {
+        "date":1017619200000,
+        "value_emp":null,
+        "value_gdp":10887.46,
+        "value_inflation":179.3
+    },
+    {
+        "date":1025481600000,
+        "value_emp":null,
+        "value_gdp":10984.04,
+        "value_inflation":180.0
+    },
+    {
+        "date":1033430400000,
+        "value_emp":null,
+        "value_gdp":11061.433,
+        "value_inflation":181.2
+    },
+    {
+        "date":1041379200000,
+        "value_emp":null,
+        "value_gdp":11174.129,
+        "value_inflation":182.6
+    },
+    {
+        "date":1049155200000,
+        "value_emp":null,
+        "value_gdp":11312.766,
+        "value_inflation":183.2
+    },
+    {
+        "date":1057017600000,
+        "value_emp":null,
+        "value_gdp":11566.669,
+        "value_inflation":183.7
+    },
+    {
+        "date":1064966400000,
+        "value_emp":null,
+        "value_gdp":11772.234,
+        "value_inflation":184.9
+    },
+    {
+        "date":1072915200000,
+        "value_emp":null,
+        "value_gdp":11923.447,
+        "value_inflation":186.3
+    },
+    {
+        "date":1080777600000,
+        "value_emp":null,
+        "value_gdp":12112.815,
+        "value_inflation":187.4
+    },
+    {
+        "date":1088640000000,
+        "value_emp":null,
+        "value_gdp":12305.307,
+        "value_inflation":189.1
+    },
+    {
+        "date":1096588800000,
+        "value_emp":null,
+        "value_gdp":12527.214,
+        "value_inflation":190.8
+    },
+    {
+        "date":1104537600000,
+        "value_emp":null,
+        "value_gdp":12767.286,
+        "value_inflation":191.6
+    },
+    {
+        "date":1112313600000,
+        "value_emp":null,
+        "value_gdp":12922.656,
+        "value_inflation":193.7
+    },
+    {
+        "date":1120176000000,
+        "value_emp":null,
+        "value_gdp":13142.642,
+        "value_inflation":194.9
+    },
+    {
+        "date":1128124800000,
+        "value_emp":null,
+        "value_gdp":13324.204,
+        "value_inflation":199.1
+    },
+    {
+        "date":1136073600000,
+        "value_emp":null,
+        "value_gdp":13599.16,
+        "value_inflation":199.3
+    },
+    {
+        "date":1143849600000,
+        "value_emp":null,
+        "value_gdp":13753.424,
+        "value_inflation":200.7
+    },
+    {
+        "date":1151712000000,
+        "value_emp":null,
+        "value_gdp":13870.188,
+        "value_inflation":202.9
+    },
+    {
+        "date":1159660800000,
+        "value_emp":null,
+        "value_gdp":14039.56,
+        "value_inflation":201.9
+    },
+    {
+        "date":1167609600000,
+        "value_emp":null,
+        "value_gdp":14215.651,
+        "value_inflation":203.437
+    },
+    {
+        "date":1175385600000,
+        "value_emp":null,
+        "value_gdp":14402.082,
+        "value_inflation":205.904
+    },
+    {
+        "date":1183248000000,
+        "value_emp":null,
+        "value_gdp":14564.117,
+        "value_inflation":207.603
+    },
+    {
+        "date":1191196800000,
+        "value_emp":null,
+        "value_gdp":14715.058,
+        "value_inflation":209.19
+    },
+    {
+        "date":1199145600000,
+        "value_emp":null,
+        "value_gdp":14706.538,
+        "value_inflation":212.174
+    },
+    {
+        "date":1207008000000,
+        "value_emp":null,
+        "value_gdp":14865.701,
+        "value_inflation":213.942
+    },
+    {
+        "date":1214870400000,
+        "value_emp":null,
+        "value_gdp":14898.999,
+        "value_inflation":219.016
+    },
+    {
+        "date":1222819200000,
+        "value_emp":null,
+        "value_gdp":14608.209,
+        "value_inflation":216.995
+    },
+    {
+        "date":1230768000000,
+        "value_emp":null,
+        "value_gdp":14430.902,
+        "value_inflation":211.933
+    },
+    {
+        "date":1238544000000,
+        "value_emp":null,
+        "value_gdp":14381.236,
+        "value_inflation":212.709
+    },
+    {
+        "date":1246406400000,
+        "value_emp":null,
+        "value_gdp":14448.882,
+        "value_inflation":214.726
+    },
+    {
+        "date":1254355200000,
+        "value_emp":null,
+        "value_gdp":14651.249,
+        "value_inflation":216.509
+    },
+    {
+        "date":1262304000000,
+        "value_emp":null,
+        "value_gdp":14764.61,
+        "value_inflation":217.488
+    },
+    {
+        "date":1270080000000,
+        "value_emp":null,
+        "value_gdp":14980.193,
+        "value_inflation":217.403
+    },
+    {
+        "date":1277942400000,
+        "value_emp":null,
+        "value_gdp":15141.607,
+        "value_inflation":217.605
+    },
+    {
+        "date":1285891200000,
+        "value_emp":null,
+        "value_gdp":15309.474,
+        "value_inflation":219.035
+    },
+    {
+        "date":1293840000000,
+        "value_emp":null,
+        "value_gdp":15351.448,
+        "value_inflation":221.187
+    },
+    {
+        "date":1301616000000,
+        "value_emp":null,
+        "value_gdp":15557.539,
+        "value_inflation":224.093
+    },
+    {
+        "date":1309478400000,
+        "value_emp":null,
+        "value_gdp":15647.68,
+        "value_inflation":225.395
+    },
+    {
+        "date":1317427200000,
+        "value_emp":null,
+        "value_gdp":15842.259,
+        "value_inflation":226.75
+    },
+    {
+        "date":1325376000000,
+        "value_emp":null,
+        "value_gdp":16068.805,
+        "value_inflation":227.842
+    },
+    {
+        "date":1333238400000,
+        "value_emp":null,
+        "value_gdp":16207.115,
+        "value_inflation":229.187
+    },
+    {
+        "date":1341100800000,
+        "value_emp":null,
+        "value_gdp":16319.541,
+        "value_inflation":228.59
+    },
+    {
+        "date":1349049600000,
+        "value_emp":null,
+        "value_gdp":16420.419,
+        "value_inflation":231.638
+    },
+    {
+        "date":1356998400000,
+        "value_emp":null,
+        "value_gdp":16648.189,
+        "value_inflation":231.679
+    },
+    {
+        "date":1364774400000,
+        "value_emp":null,
+        "value_gdp":16728.687,
+        "value_inflation":231.797
+    },
+    {
+        "date":1372636800000,
+        "value_emp":null,
+        "value_gdp":16953.838,
+        "value_inflation":232.9
+    },
+    {
+        "date":1380585600000,
+        "value_emp":null,
+        "value_gdp":17192.019,
+        "value_inflation":233.669
+    },
+    {
+        "date":1388534400000,
+        "value_emp":null,
+        "value_gdp":17197.738,
+        "value_inflation":235.288
+    },
+    {
+        "date":1396310400000,
+        "value_emp":null,
+        "value_gdp":17518.508,
+        "value_inflation":236.468
+    },
+    {
+        "date":1404172800000,
+        "value_emp":null,
+        "value_gdp":17804.228,
+        "value_inflation":237.498
+    },
+    {
+        "date":1412121600000,
+        "value_emp":null,
+        "value_gdp":17912.079,
+        "value_inflation":237.43
+    },
+    {
+        "date":1420070400000,
+        "value_emp":null,
+        "value_gdp":18063.529,
+        "value_inflation":234.747
+    },
+    {
+        "date":1427846400000,
+        "value_emp":null,
+        "value_gdp":18279.784,
+        "value_inflation":236.222
+    },
+    {
+        "date":1435708800000,
+        "value_emp":null,
+        "value_gdp":18401.626,
+        "value_inflation":238.034
+    },
+    {
+        "date":1443657600000,
+        "value_emp":null,
+        "value_gdp":18435.137,
+        "value_inflation":237.733
+    },
+    {
+        "date":1451606400000,
+        "value_emp":null,
+        "value_gdp":18525.933,
+        "value_inflation":237.652
+    },
+    {
+        "date":1459468800000,
+        "value_emp":null,
+        "value_gdp":18711.702,
+        "value_inflation":238.992
+    },
+    {
+        "date":1467331200000,
+        "value_emp":null,
+        "value_gdp":18892.639,
+        "value_inflation":240.101
+    },
+    {
+        "date":1475280000000,
+        "value_emp":null,
+        "value_gdp":19089.379,
+        "value_inflation":241.741
+    },
+    {
+        "date":1483228800000,
+        "value_emp":null,
+        "value_gdp":19280.084,
+        "value_inflation":243.618
+    },
+    {
+        "date":1491004800000,
+        "value_emp":null,
+        "value_gdp":19438.643,
+        "value_inflation":244.193
+    },
+    {
+        "date":1498867200000,
+        "value_emp":null,
+        "value_gdp":19692.595,
+        "value_inflation":244.243
+    },
+    {
+        "date":1506816000000,
+        "value_emp":null,
+        "value_gdp":20037.088,
+        "value_inflation":246.626
+    },
+    {
+        "date":1514764800000,
+        "value_emp":null,
+        "value_gdp":20328.553,
+        "value_inflation":248.859
+    },
+    {
+        "date":1522540800000,
+        "value_emp":null,
+        "value_gdp":20580.912,
+        "value_inflation":250.227
+    },
+    {
+        "date":1530403200000,
+        "value_emp":null,
+        "value_gdp":20798.73,
+        "value_inflation":251.214
+    },
+    {
+        "date":1538352000000,
+        "value_emp":null,
+        "value_gdp":20917.867,
+        "value_inflation":252.772
+    },
+    {
+        "date":1546300800000,
+        "value_emp":null,
+        "value_gdp":21111.6,
+        "value_inflation":252.561
+    },
+    {
+        "date":1554076800000,
+        "value_emp":null,
+        "value_gdp":21397.938,
+        "value_inflation":255.233
+    },
+    {
+        "date":1561939200000,
+        "value_emp":null,
+        "value_gdp":21717.171,
+        "value_inflation":255.802
+    },
+    {
+        "date":1569888000000,
+        "value_emp":null,
+        "value_gdp":21933.217,
+        "value_inflation":257.155
+    },
+    {
+        "date":1577836800000,
+        "value_emp":null,
+        "value_gdp":21727.657,
+        "value_inflation":258.906
+    },
+    {
+        "date":1585699200000,
+        "value_emp":null,
+        "value_gdp":19935.444,
+        "value_inflation":256.126
+    },
+    {
+        "date":1593561600000,
+        "value_emp":null,
+        "value_gdp":21684.551,
+        "value_inflation":258.408
+    },
+    {
+        "date":1601510400000,
+        "value_emp":null,
+        "value_gdp":22068.767,
+        "value_inflation":260.249
+    },
+    {
+        "date":1609459200000,
+        "value_emp":null,
+        "value_gdp":22656.793,
+        "value_inflation":262.518
+    },
+    {
+        "date":1617235200000,
+        "value_emp":null,
+        "value_gdp":23368.861,
+        "value_inflation":266.752
+    },
+    {
+        "date":1625097600000,
+        "value_emp":null,
+        "value_gdp":23921.991,
+        "value_inflation":271.994
+    },
+    {
+        "date":1633046400000,
+        "value_emp":null,
+        "value_gdp":24777.038,
+        "value_inflation":276.434
+    },
+    {
+        "date":1640995200000,
+        "value_emp":null,
+        "value_gdp":25215.491,
+        "value_inflation":282.39
+    },
+    {
+        "date":1648771200000,
+        "value_emp":null,
+        "value_gdp":25805.791,
+        "value_inflation":288.764
+    },
+    {
+        "date":1656633600000,
+        "value_emp":null,
+        "value_gdp":26272.011,
+        "value_inflation":294.977
+    },
+    {
+        "date":1664582400000,
+        "value_emp":null,
+        "value_gdp":26734.277,
+        "value_inflation":297.863
+    },
+    {
+        "date":1672531200000,
+        "value_emp":null,
+        "value_gdp":27164.359,
+        "value_inflation":300.356
+    },
+    {
+        "date":1680307200000,
+        "value_emp":null,
+        "value_gdp":27453.815,
+        "value_inflation":303.032
+    },
+    {
+        "date":1688169600000,
+        "value_emp":null,
+        "value_gdp":27967.697,
+        "value_inflation":304.628
+    },
+    {
+        "date":1696118400000,
+        "value_emp":null,
+        "value_gdp":28296.967,
+        "value_inflation":307.531
+    },
+    {
+        "date":1704067200000,
+        "value_emp":null,
+        "value_gdp":28624.069,
+        "value_inflation":309.685
+    },
+    {
+        "date":1711929600000,
+        "value_emp":null,
+        "value_gdp":29016.714,
+        "value_inflation":313.207
+    },
+    {
+        "date":1719792000000,
+        "value_emp":null,
+        "value_gdp":29354.321,
+        "value_inflation":313.534
+    },
+    {
         "date":-723168000000,
         "value_emp":null,
         "value_gdp":null,
@@ -39,12 +2115,6 @@
         "date":-720748800000,
         "value_emp":null,
         "value_gdp":null,
-        "value_inflation":22.0
-    },
-    {
-        "date":-718070400000,
-        "value_emp":null,
-        "value_gdp":245.968,
         "value_inflation":22.0
     },
     {
@@ -60,12 +2130,6 @@
         "value_inflation":22.08
     },
     {
-        "date":-710208000000,
-        "value_emp":null,
-        "value_gdp":249.585,
-        "value_inflation":22.23
-    },
-    {
         "date":-707529600000,
         "value_emp":null,
         "value_gdp":null,
@@ -76,12 +2140,6 @@
         "value_emp":null,
         "value_gdp":null,
         "value_inflation":22.84
-    },
-    {
-        "date":-702259200000,
-        "value_emp":null,
-        "value_gdp":259.745,
-        "value_inflation":22.91
     },
     {
         "date":-699580800000,
@@ -96,12 +2154,6 @@
         "value_inflation":23.41
     },
     {
-        "date":-694310400000,
-        "value_emp":null,
-        "value_gdp":265.742,
-        "value_inflation":23.68
-    },
-    {
         "date":-691632000000,
         "value_emp":null,
         "value_gdp":null,
@@ -112,12 +2164,6 @@
         "value_emp":null,
         "value_gdp":null,
         "value_inflation":23.5
-    },
-    {
-        "date":-686448000000,
-        "value_emp":null,
-        "value_gdp":272.567,
-        "value_inflation":23.82
     },
     {
         "date":-683856000000,
@@ -132,12 +2178,6 @@
         "value_inflation":24.15
     },
     {
-        "date":-678585600000,
-        "value_emp":null,
-        "value_gdp":279.196,
-        "value_inflation":24.4
-    },
-    {
         "date":-675907200000,
         "value_emp":null,
         "value_gdp":null,
@@ -148,12 +2188,6 @@
         "value_emp":null,
         "value_gdp":null,
         "value_inflation":24.36
-    },
-    {
-        "date":-670636800000,
-        "value_emp":null,
-        "value_gdp":280.366,
-        "value_inflation":24.31
     },
     {
         "date":-667958400000,
@@ -168,12 +2202,6 @@
         "value_inflation":24.05
     },
     {
-        "date":-662688000000,
-        "value_emp":null,
-        "value_gdp":275.034,
-        "value_inflation":24.01
-    },
-    {
         "date":-660009600000,
         "value_emp":null,
         "value_gdp":null,
@@ -184,12 +2212,6 @@
         "value_emp":null,
         "value_gdp":null,
         "value_inflation":23.91
-    },
-    {
-        "date":-654912000000,
-        "value_emp":null,
-        "value_gdp":271.351,
-        "value_inflation":23.92
     },
     {
         "date":-652320000000,
@@ -204,12 +2226,6 @@
         "value_inflation":23.92
     },
     {
-        "date":-647049600000,
-        "value_emp":null,
-        "value_gdp":272.889,
-        "value_inflation":23.7
-    },
-    {
         "date":-644371200000,
         "value_emp":null,
         "value_gdp":null,
@@ -220,12 +2236,6 @@
         "value_emp":null,
         "value_gdp":null,
         "value_inflation":23.75
-    },
-    {
-        "date":-639100800000,
-        "value_emp":null,
-        "value_gdp":270.627,
-        "value_inflation":23.67
     },
     {
         "date":-636422400000,
@@ -240,12 +2250,6 @@
         "value_inflation":23.61
     },
     {
-        "date":-631152000000,
-        "value_emp":null,
-        "value_gdp":280.828,
-        "value_inflation":23.51
-    },
-    {
         "date":-628473600000,
         "value_emp":null,
         "value_gdp":null,
@@ -256,12 +2260,6 @@
         "value_emp":null,
         "value_gdp":null,
         "value_inflation":23.64
-    },
-    {
-        "date":-623376000000,
-        "value_emp":null,
-        "value_gdp":290.383,
-        "value_inflation":23.65
     },
     {
         "date":-620784000000,
@@ -276,12 +2274,6 @@
         "value_inflation":23.88
     },
     {
-        "date":-615513600000,
-        "value_emp":null,
-        "value_gdp":308.153,
-        "value_inflation":24.07
-    },
-    {
         "date":-612835200000,
         "value_emp":null,
         "value_gdp":null,
@@ -292,12 +2284,6 @@
         "value_emp":null,
         "value_gdp":null,
         "value_inflation":24.34
-    },
-    {
-        "date":-607564800000,
-        "value_emp":null,
-        "value_gdp":319.945,
-        "value_inflation":24.5
     },
     {
         "date":-604886400000,
@@ -312,12 +2298,6 @@
         "value_inflation":24.98
     },
     {
-        "date":-599616000000,
-        "value_emp":null,
-        "value_gdp":336.0,
-        "value_inflation":25.38
-    },
-    {
         "date":-596937600000,
         "value_emp":null,
         "value_gdp":null,
@@ -328,12 +2308,6 @@
         "value_emp":null,
         "value_gdp":null,
         "value_inflation":25.88
-    },
-    {
-        "date":-591840000000,
-        "value_emp":null,
-        "value_gdp":344.09,
-        "value_inflation":25.92
     },
     {
         "date":-589248000000,
@@ -348,12 +2322,6 @@
         "value_inflation":25.93
     },
     {
-        "date":-583977600000,
-        "value_emp":null,
-        "value_gdp":351.385,
-        "value_inflation":25.91
-    },
-    {
         "date":-581299200000,
         "value_emp":null,
         "value_gdp":null,
@@ -364,12 +2332,6 @@
         "value_emp":null,
         "value_gdp":null,
         "value_inflation":26.03
-    },
-    {
-        "date":-576028800000,
-        "value_emp":null,
-        "value_gdp":356.178,
-        "value_inflation":26.16
     },
     {
         "date":-573350400000,
@@ -384,12 +2346,6 @@
         "value_inflation":26.47
     },
     {
-        "date":-568080000000,
-        "value_emp":null,
-        "value_gdp":359.82,
-        "value_inflation":26.45
-    },
-    {
         "date":-565401600000,
         "value_emp":null,
         "value_gdp":null,
@@ -400,12 +2356,6 @@
         "value_emp":null,
         "value_gdp":null,
         "value_inflation":26.39
-    },
-    {
-        "date":-560217600000,
-        "value_emp":null,
-        "value_gdp":361.03,
-        "value_inflation":26.46
     },
     {
         "date":-557625600000,
@@ -420,12 +2370,6 @@
         "value_inflation":26.53
     },
     {
-        "date":-552355200000,
-        "value_emp":null,
-        "value_gdp":367.701,
-        "value_inflation":26.68
-    },
-    {
         "date":-549676800000,
         "value_emp":null,
         "value_gdp":null,
@@ -436,12 +2380,6 @@
         "value_emp":null,
         "value_gdp":null,
         "value_inflation":26.63
-    },
-    {
-        "date":-544406400000,
-        "value_emp":null,
-        "value_gdp":380.812,
-        "value_inflation":26.69
     },
     {
         "date":-541728000000,
@@ -456,12 +2394,6 @@
         "value_inflation":26.71
     },
     {
-        "date":-536457600000,
-        "value_emp":null,
-        "value_gdp":387.98,
-        "value_inflation":26.64
-    },
-    {
         "date":-533779200000,
         "value_emp":null,
         "value_gdp":null,
@@ -472,12 +2404,6 @@
         "value_emp":null,
         "value_gdp":null,
         "value_inflation":26.63
-    },
-    {
-        "date":-528681600000,
-        "value_emp":null,
-        "value_gdp":391.749,
-        "value_inflation":26.69
     },
     {
         "date":-526089600000,
@@ -492,12 +2418,6 @@
         "value_inflation":26.77
     },
     {
-        "date":-520819200000,
-        "value_emp":null,
-        "value_gdp":391.171,
-        "value_inflation":26.79
-    },
-    {
         "date":-518140800000,
         "value_emp":null,
         "value_gdp":null,
@@ -508,12 +2428,6 @@
         "value_emp":null,
         "value_gdp":null,
         "value_inflation":26.89
-    },
-    {
-        "date":-512870400000,
-        "value_emp":null,
-        "value_gdp":385.97,
-        "value_inflation":26.95
     },
     {
         "date":-510192000000,
@@ -528,12 +2442,6 @@
         "value_inflation":26.87
     },
     {
-        "date":-504921600000,
-        "value_emp":null,
-        "value_gdp":385.345,
-        "value_inflation":26.94
-    },
-    {
         "date":-502243200000,
         "value_emp":null,
         "value_gdp":null,
@@ -544,12 +2452,6 @@
         "value_emp":null,
         "value_gdp":null,
         "value_inflation":26.93
-    },
-    {
-        "date":-497145600000,
-        "value_emp":null,
-        "value_gdp":386.121,
-        "value_inflation":26.86
     },
     {
         "date":-494553600000,
@@ -564,12 +2466,6 @@
         "value_inflation":26.94
     },
     {
-        "date":-489283200000,
-        "value_emp":null,
-        "value_gdp":390.996,
-        "value_inflation":26.86
-    },
-    {
         "date":-486604800000,
         "value_emp":null,
         "value_gdp":null,
@@ -582,12 +2478,6 @@
         "value_inflation":26.81
     },
     {
-        "date":-481334400000,
-        "value_emp":null,
-        "value_gdp":399.734,
-        "value_inflation":26.72
-    },
-    {
         "date":-478656000000,
         "value_emp":null,
         "value_gdp":null,
@@ -597,12 +2487,6 @@
         "date":-476064000000,
         "value_emp":null,
         "value_gdp":null,
-        "value_inflation":26.77
-    },
-    {
-        "date":-473385600000,
-        "value_emp":null,
-        "value_gdp":413.073,
         "value_inflation":26.77
     },
     {
@@ -618,12 +2502,6 @@
         "value_inflation":26.79
     },
     {
-        "date":-465609600000,
-        "value_emp":null,
-        "value_gdp":421.532,
-        "value_inflation":26.79
-    },
-    {
         "date":-463017600000,
         "value_emp":null,
         "value_gdp":null,
@@ -634,12 +2512,6 @@
         "value_emp":null,
         "value_gdp":null,
         "value_inflation":26.71
-    },
-    {
-        "date":-457747200000,
-        "value_emp":null,
-        "value_gdp":430.221,
-        "value_inflation":26.76
     },
     {
         "date":-455068800000,
@@ -654,12 +2526,6 @@
         "value_inflation":26.85
     },
     {
-        "date":-449798400000,
-        "value_emp":null,
-        "value_gdp":437.092,
-        "value_inflation":26.82
-    },
-    {
         "date":-447120000000,
         "value_emp":null,
         "value_gdp":null,
@@ -670,12 +2536,6 @@
         "value_emp":null,
         "value_gdp":null,
         "value_inflation":26.87
-    },
-    {
-        "date":-441849600000,
-        "value_emp":null,
-        "value_gdp":439.746,
-        "value_inflation":26.83
     },
     {
         "date":-439171200000,
@@ -690,12 +2550,6 @@
         "value_inflation":26.89
     },
     {
-        "date":-433987200000,
-        "value_emp":null,
-        "value_gdp":446.01,
-        "value_inflation":26.93
-    },
-    {
         "date":-431395200000,
         "value_emp":null,
         "value_gdp":null,
@@ -706,12 +2560,6 @@
         "value_emp":null,
         "value_gdp":null,
         "value_inflation":27.15
-    },
-    {
-        "date":-426124800000,
-        "value_emp":null,
-        "value_gdp":451.191,
-        "value_inflation":27.29
     },
     {
         "date":-423446400000,
@@ -726,12 +2574,6 @@
         "value_inflation":27.35
     },
     {
-        "date":-418176000000,
-        "value_emp":null,
-        "value_gdp":460.463,
-        "value_inflation":27.51
-    },
-    {
         "date":-415497600000,
         "value_emp":null,
         "value_gdp":null,
@@ -742,12 +2584,6 @@
         "value_emp":null,
         "value_gdp":null,
         "value_inflation":27.63
-    },
-    {
-        "date":-410227200000,
-        "value_emp":null,
-        "value_gdp":469.779,
-        "value_inflation":27.67
     },
     {
         "date":-407548800000,
@@ -762,12 +2598,6 @@
         "value_inflation":27.86
     },
     {
-        "date":-402451200000,
-        "value_emp":null,
-        "value_gdp":472.025,
-        "value_inflation":27.93
-    },
-    {
         "date":-399859200000,
         "value_emp":null,
         "value_gdp":null,
@@ -780,12 +2610,6 @@
         "value_inflation":28.11
     },
     {
-        "date":-394588800000,
-        "value_emp":null,
-        "value_gdp":479.49,
-        "value_inflation":28.19
-    },
-    {
         "date":-391910400000,
         "value_emp":null,
         "value_gdp":null,
@@ -795,12 +2619,6 @@
         "date":-389232000000,
         "value_emp":null,
         "value_gdp":null,
-        "value_inflation":28.32
-    },
-    {
-        "date":-386640000000,
-        "value_emp":null,
-        "value_gdp":474.864,
         "value_inflation":28.32
     },
     {
@@ -816,12 +2634,6 @@
         "value_inflation":28.47
     },
     {
-        "date":-378691200000,
-        "value_emp":null,
-        "value_gdp":467.54,
-        "value_inflation":28.64
-    },
-    {
         "date":-376012800000,
         "value_emp":null,
         "value_gdp":null,
@@ -832,12 +2644,6 @@
         "value_emp":null,
         "value_gdp":null,
         "value_inflation":28.87
-    },
-    {
-        "date":-370915200000,
-        "value_emp":null,
-        "value_gdp":471.978,
-        "value_inflation":28.94
     },
     {
         "date":-368323200000,
@@ -852,12 +2658,6 @@
         "value_inflation":28.91
     },
     {
-        "date":-363052800000,
-        "value_emp":null,
-        "value_gdp":485.841,
-        "value_inflation":28.89
-    },
-    {
         "date":-360374400000,
         "value_emp":null,
         "value_gdp":null,
@@ -867,12 +2667,6 @@
         "date":-357696000000,
         "value_emp":null,
         "value_gdp":null,
-        "value_inflation":28.91
-    },
-    {
-        "date":-355104000000,
-        "value_emp":null,
-        "value_gdp":499.555,
         "value_inflation":28.91
     },
     {
@@ -888,12 +2682,6 @@
         "value_inflation":28.97
     },
     {
-        "date":-347155200000,
-        "value_emp":null,
-        "value_gdp":510.33,
-        "value_inflation":29.01
-    },
-    {
         "date":-344476800000,
         "value_emp":null,
         "value_gdp":null,
@@ -904,12 +2692,6 @@
         "value_emp":null,
         "value_gdp":null,
         "value_inflation":28.97
-    },
-    {
-        "date":-339379200000,
-        "value_emp":null,
-        "value_gdp":522.653,
-        "value_inflation":28.98
     },
     {
         "date":-336787200000,
@@ -924,12 +2706,6 @@
         "value_inflation":29.11
     },
     {
-        "date":-331516800000,
-        "value_emp":null,
-        "value_gdp":525.034,
-        "value_inflation":29.15
-    },
-    {
         "date":-328838400000,
         "value_emp":null,
         "value_gdp":null,
@@ -940,12 +2716,6 @@
         "value_emp":null,
         "value_gdp":null,
         "value_inflation":29.25
-    },
-    {
-        "date":-323568000000,
-        "value_emp":null,
-        "value_gdp":528.6,
-        "value_inflation":29.35
     },
     {
         "date":-320889600000,
@@ -960,12 +2730,6 @@
         "value_inflation":29.41
     },
     {
-        "date":-315619200000,
-        "value_emp":null,
-        "value_gdp":542.648,
-        "value_inflation":29.37
-    },
-    {
         "date":-312940800000,
         "value_emp":null,
         "value_gdp":null,
@@ -976,12 +2740,6 @@
         "value_emp":null,
         "value_gdp":null,
         "value_inflation":29.41
-    },
-    {
-        "date":-307756800000,
-        "value_emp":null,
-        "value_gdp":541.08,
-        "value_inflation":29.54
     },
     {
         "date":-305164800000,
@@ -996,12 +2754,6 @@
         "value_inflation":29.61
     },
     {
-        "date":-299894400000,
-        "value_emp":null,
-        "value_gdp":545.604,
-        "value_inflation":29.55
-    },
-    {
         "date":-297216000000,
         "value_emp":null,
         "value_gdp":null,
@@ -1012,12 +2764,6 @@
         "value_emp":null,
         "value_gdp":null,
         "value_inflation":29.61
-    },
-    {
-        "date":-291945600000,
-        "value_emp":null,
-        "value_gdp":540.197,
-        "value_inflation":29.75
     },
     {
         "date":-289267200000,
@@ -1032,12 +2778,6 @@
         "value_inflation":29.81
     },
     {
-        "date":-283996800000,
-        "value_emp":null,
-        "value_gdp":545.018,
-        "value_inflation":29.84
-    },
-    {
         "date":-281318400000,
         "value_emp":null,
         "value_gdp":null,
@@ -1048,12 +2788,6 @@
         "value_emp":null,
         "value_gdp":null,
         "value_inflation":29.84
-    },
-    {
-        "date":-276220800000,
-        "value_emp":null,
-        "value_gdp":555.545,
-        "value_inflation":29.81
     },
     {
         "date":-273628800000,
@@ -1068,12 +2802,6 @@
         "value_inflation":29.84
     },
     {
-        "date":-268358400000,
-        "value_emp":null,
-        "value_gdp":567.664,
-        "value_inflation":29.92
-    },
-    {
         "date":-265680000000,
         "value_emp":null,
         "value_gdp":null,
@@ -1083,12 +2811,6 @@
         "date":-263001600000,
         "value_emp":null,
         "value_gdp":null,
-        "value_inflation":29.98
-    },
-    {
-        "date":-260409600000,
-        "value_emp":null,
-        "value_gdp":580.612,
         "value_inflation":29.98
     },
     {
@@ -1104,12 +2826,6 @@
         "value_inflation":30.01
     },
     {
-        "date":-252460800000,
-        "value_emp":null,
-        "value_gdp":594.013,
-        "value_inflation":30.04
-    },
-    {
         "date":-249782400000,
         "value_emp":null,
         "value_gdp":null,
@@ -1120,12 +2836,6 @@
         "value_emp":null,
         "value_gdp":null,
         "value_inflation":30.17
-    },
-    {
-        "date":-244684800000,
-        "value_emp":null,
-        "value_gdp":600.366,
-        "value_inflation":30.21
     },
     {
         "date":-242092800000,
@@ -1140,12 +2850,6 @@
         "value_inflation":30.21
     },
     {
-        "date":-236822400000,
-        "value_emp":null,
-        "value_gdp":609.027,
-        "value_inflation":30.22
-    },
-    {
         "date":-234144000000,
         "value_emp":null,
         "value_gdp":null,
@@ -1156,12 +2860,6 @@
         "value_emp":null,
         "value_gdp":null,
         "value_inflation":30.42
-    },
-    {
-        "date":-228873600000,
-        "value_emp":null,
-        "value_gdp":612.28,
-        "value_inflation":30.38
     },
     {
         "date":-226195200000,
@@ -1176,12 +2874,6 @@
         "value_inflation":30.38
     },
     {
-        "date":-220924800000,
-        "value_emp":null,
-        "value_gdp":621.672,
-        "value_inflation":30.44
-    },
-    {
         "date":-218246400000,
         "value_emp":null,
         "value_gdp":null,
@@ -1192,12 +2884,6 @@
         "value_emp":null,
         "value_gdp":null,
         "value_inflation":30.51
-    },
-    {
-        "date":-213148800000,
-        "value_emp":null,
-        "value_gdp":629.752,
-        "value_inflation":30.48
     },
     {
         "date":-210556800000,
@@ -1212,12 +2898,6 @@
         "value_inflation":30.61
     },
     {
-        "date":-205286400000,
-        "value_emp":null,
-        "value_gdp":644.444,
-        "value_inflation":30.69
-    },
-    {
         "date":-202608000000,
         "value_emp":null,
         "value_gdp":null,
@@ -1228,12 +2908,6 @@
         "value_emp":null,
         "value_gdp":null,
         "value_inflation":30.72
-    },
-    {
-        "date":-197337600000,
-        "value_emp":null,
-        "value_gdp":653.938,
-        "value_inflation":30.75
     },
     {
         "date":-194659200000,
@@ -1248,12 +2922,6 @@
         "value_inflation":30.88
     },
     {
-        "date":-189388800000,
-        "value_emp":null,
-        "value_gdp":669.822,
-        "value_inflation":30.94
-    },
-    {
         "date":-186710400000,
         "value_emp":null,
         "value_gdp":null,
@@ -1264,12 +2932,6 @@
         "value_emp":null,
         "value_gdp":null,
         "value_inflation":30.94
-    },
-    {
-        "date":-181526400000,
-        "value_emp":null,
-        "value_gdp":678.674,
-        "value_inflation":30.95
     },
     {
         "date":-178934400000,
@@ -1284,12 +2946,6 @@
         "value_inflation":31.01
     },
     {
-        "date":-173664000000,
-        "value_emp":null,
-        "value_gdp":692.031,
-        "value_inflation":31.02
-    },
-    {
         "date":-170985600000,
         "value_emp":null,
         "value_gdp":null,
@@ -1300,12 +2956,6 @@
         "value_emp":null,
         "value_gdp":null,
         "value_inflation":31.08
-    },
-    {
-        "date":-165715200000,
-        "value_emp":null,
-        "value_gdp":697.319,
-        "value_inflation":31.12
     },
     {
         "date":-163036800000,
@@ -1320,12 +2970,6 @@
         "value_inflation":31.25
     },
     {
-        "date":-157766400000,
-        "value_emp":null,
-        "value_gdp":717.79,
-        "value_inflation":31.28
-    },
-    {
         "date":-155088000000,
         "value_emp":null,
         "value_gdp":null,
@@ -1336,12 +2980,6 @@
         "value_emp":null,
         "value_gdp":null,
         "value_inflation":31.31
-    },
-    {
-        "date":-149990400000,
-        "value_emp":null,
-        "value_gdp":730.191,
-        "value_inflation":31.38
     },
     {
         "date":-147398400000,
@@ -1356,12 +2994,6 @@
         "value_inflation":31.61
     },
     {
-        "date":-142128000000,
-        "value_emp":null,
-        "value_gdp":749.323,
-        "value_inflation":31.58
-    },
-    {
         "date":-139449600000,
         "value_emp":null,
         "value_gdp":null,
@@ -1372,12 +3004,6 @@
         "value_emp":null,
         "value_gdp":null,
         "value_inflation":31.62
-    },
-    {
-        "date":-134179200000,
-        "value_emp":null,
-        "value_gdp":771.857,
-        "value_inflation":31.65
     },
     {
         "date":-131500800000,
@@ -1392,12 +3018,6 @@
         "value_inflation":31.85
     },
     {
-        "date":-126230400000,
-        "value_emp":null,
-        "value_gdp":795.734,
-        "value_inflation":31.88
-    },
-    {
         "date":-123552000000,
         "value_emp":null,
         "value_gdp":null,
@@ -1408,12 +3028,6 @@
         "value_emp":null,
         "value_gdp":null,
         "value_inflation":32.18
-    },
-    {
-        "date":-118454400000,
-        "value_emp":null,
-        "value_gdp":804.981,
-        "value_inflation":32.28
     },
     {
         "date":-115862400000,
@@ -1428,12 +3042,6 @@
         "value_inflation":32.38
     },
     {
-        "date":-110592000000,
-        "value_emp":null,
-        "value_gdp":819.638,
-        "value_inflation":32.45
-    },
-    {
         "date":-107913600000,
         "value_emp":null,
         "value_gdp":null,
@@ -1444,12 +3052,6 @@
         "value_emp":null,
         "value_gdp":null,
         "value_inflation":32.75
-    },
-    {
-        "date":-102643200000,
-        "value_emp":null,
-        "value_gdp":833.302,
-        "value_inflation":32.85
     },
     {
         "date":-99964800000,
@@ -1464,12 +3066,6 @@
         "value_inflation":32.92
     },
     {
-        "date":-94694400000,
-        "value_emp":null,
-        "value_gdp":844.17,
-        "value_inflation":32.9
-    },
-    {
         "date":-92016000000,
         "value_emp":null,
         "value_gdp":null,
@@ -1480,12 +3076,6 @@
         "value_emp":null,
         "value_gdp":null,
         "value_inflation":33.0
-    },
-    {
-        "date":-86918400000,
-        "value_emp":null,
-        "value_gdp":848.983,
-        "value_inflation":33.1
     },
     {
         "date":-84326400000,
@@ -1500,12 +3090,6 @@
         "value_inflation":33.3
     },
     {
-        "date":-79056000000,
-        "value_emp":null,
-        "value_gdp":865.233,
-        "value_inflation":33.4
-    },
-    {
         "date":-76377600000,
         "value_emp":null,
         "value_gdp":null,
@@ -1516,12 +3100,6 @@
         "value_emp":null,
         "value_gdp":null,
         "value_inflation":33.6
-    },
-    {
-        "date":-71107200000,
-        "value_emp":null,
-        "value_gdp":881.439,
-        "value_inflation":33.7
     },
     {
         "date":-68428800000,
@@ -1536,12 +3114,6 @@
         "value_inflation":34.0
     },
     {
-        "date":-63158400000,
-        "value_emp":null,
-        "value_gdp":909.387,
-        "value_inflation":34.1
-    },
-    {
         "date":-60480000000,
         "value_emp":null,
         "value_gdp":null,
@@ -1552,12 +3124,6 @@
         "value_emp":null,
         "value_gdp":null,
         "value_inflation":34.3
-    },
-    {
-        "date":-55296000000,
-        "value_emp":null,
-        "value_gdp":934.344,
-        "value_inflation":34.4
     },
     {
         "date":-52704000000,
@@ -1572,12 +3138,6 @@
         "value_inflation":34.7
     },
     {
-        "date":-47433600000,
-        "value_emp":null,
-        "value_gdp":950.825,
-        "value_inflation":34.9
-    },
-    {
         "date":-44755200000,
         "value_emp":null,
         "value_gdp":null,
@@ -1588,12 +3148,6 @@
         "value_emp":null,
         "value_gdp":null,
         "value_inflation":35.1
-    },
-    {
-        "date":-39484800000,
-        "value_emp":null,
-        "value_gdp":968.03,
-        "value_inflation":35.3
     },
     {
         "date":-36806400000,
@@ -1608,12 +3162,6 @@
         "value_inflation":35.6
     },
     {
-        "date":-31536000000,
-        "value_emp":null,
-        "value_gdp":993.337,
-        "value_inflation":35.7
-    },
-    {
         "date":-28857600000,
         "value_emp":null,
         "value_gdp":null,
@@ -1624,12 +3172,6 @@
         "value_emp":null,
         "value_gdp":null,
         "value_inflation":36.1
-    },
-    {
-        "date":-23760000000,
-        "value_emp":null,
-        "value_gdp":1009.02,
-        "value_inflation":36.3
     },
     {
         "date":-21168000000,
@@ -1644,12 +3186,6 @@
         "value_inflation":36.6
     },
     {
-        "date":-15897600000,
-        "value_emp":null,
-        "value_gdp":1029.956,
-        "value_inflation":36.8
-    },
-    {
         "date":-13219200000,
         "value_emp":null,
         "value_gdp":null,
@@ -1660,12 +3196,6 @@
         "value_emp":null,
         "value_gdp":null,
         "value_inflation":37.1
-    },
-    {
-        "date":-7948800000,
-        "value_emp":null,
-        "value_gdp":1038.147,
-        "value_inflation":37.3
     },
     {
         "date":-5270400000,
@@ -1680,12 +3210,6 @@
         "value_inflation":37.7
     },
     {
-        "date":0,
-        "value_emp":null,
-        "value_gdp":1051.2,
-        "value_inflation":37.9
-    },
-    {
         "date":2678400000,
         "value_emp":null,
         "value_gdp":null,
@@ -1696,12 +3220,6 @@
         "value_emp":null,
         "value_gdp":null,
         "value_inflation":38.3
-    },
-    {
-        "date":7776000000,
-        "value_emp":null,
-        "value_gdp":1067.375,
-        "value_inflation":38.5
     },
     {
         "date":10368000000,
@@ -1716,12 +3234,6 @@
         "value_inflation":38.8
     },
     {
-        "date":15638400000,
-        "value_emp":null,
-        "value_gdp":1086.059,
-        "value_inflation":38.9
-    },
-    {
         "date":18316800000,
         "value_emp":null,
         "value_gdp":null,
@@ -1732,12 +3244,6 @@
         "value_emp":null,
         "value_gdp":null,
         "value_inflation":39.2
-    },
-    {
-        "date":23587200000,
-        "value_emp":null,
-        "value_gdp":1088.608,
-        "value_inflation":39.4
     },
     {
         "date":26265600000,
@@ -1752,12 +3258,6 @@
         "value_inflation":39.8
     },
     {
-        "date":31536000000,
-        "value_emp":null,
-        "value_gdp":1135.156,
-        "value_inflation":39.9
-    },
-    {
         "date":34214400000,
         "value_emp":null,
         "value_gdp":null,
@@ -1768,12 +3268,6 @@
         "value_emp":null,
         "value_gdp":null,
         "value_inflation":40.0
-    },
-    {
-        "date":39312000000,
-        "value_emp":null,
-        "value_gdp":1156.271,
-        "value_inflation":40.1
     },
     {
         "date":41904000000,
@@ -1788,12 +3282,6 @@
         "value_inflation":40.5
     },
     {
-        "date":47174400000,
-        "value_emp":null,
-        "value_gdp":1177.675,
-        "value_inflation":40.6
-    },
-    {
         "date":49852800000,
         "value_emp":null,
         "value_gdp":null,
@@ -1804,12 +3292,6 @@
         "value_emp":null,
         "value_gdp":null,
         "value_inflation":40.8
-    },
-    {
-        "date":55123200000,
-        "value_emp":null,
-        "value_gdp":1190.297,
-        "value_inflation":40.9
     },
     {
         "date":57801600000,
@@ -1824,12 +3306,6 @@
         "value_inflation":41.1
     },
     {
-        "date":63072000000,
-        "value_emp":null,
-        "value_gdp":1230.609,
-        "value_inflation":41.2
-    },
-    {
         "date":65750400000,
         "value_emp":null,
         "value_gdp":null,
@@ -1840,12 +3316,6 @@
         "value_emp":null,
         "value_gdp":null,
         "value_inflation":41.4
-    },
-    {
-        "date":70934400000,
-        "value_emp":null,
-        "value_gdp":1266.369,
-        "value_inflation":41.5
     },
     {
         "date":73526400000,
@@ -1860,12 +3330,6 @@
         "value_inflation":41.7
     },
     {
-        "date":78796800000,
-        "value_emp":null,
-        "value_gdp":1290.566,
-        "value_inflation":41.8
-    },
-    {
         "date":81475200000,
         "value_emp":null,
         "value_gdp":null,
@@ -1876,12 +3340,6 @@
         "value_emp":null,
         "value_gdp":null,
         "value_inflation":42.1
-    },
-    {
-        "date":86745600000,
-        "value_emp":null,
-        "value_gdp":1328.904,
-        "value_inflation":42.2
     },
     {
         "date":89424000000,
@@ -1896,12 +3354,6 @@
         "value_inflation":42.5
     },
     {
-        "date":94694400000,
-        "value_emp":null,
-        "value_gdp":1377.49,
-        "value_inflation":42.7
-    },
-    {
         "date":97372800000,
         "value_emp":null,
         "value_gdp":null,
@@ -1914,12 +3366,6 @@
         "value_inflation":43.4
     },
     {
-        "date":102470400000,
-        "value_emp":null,
-        "value_gdp":1413.887,
-        "value_inflation":43.7
-    },
-    {
         "date":105062400000,
         "value_emp":null,
         "value_gdp":null,
@@ -1929,12 +3375,6 @@
         "date":107740800000,
         "value_emp":null,
         "value_gdp":null,
-        "value_inflation":44.2
-    },
-    {
-        "date":110332800000,
-        "value_emp":null,
-        "value_gdp":1433.838,
         "value_inflation":44.2
     },
     {
@@ -1950,12 +3390,6 @@
         "value_inflation":45.2
     },
     {
-        "date":118281600000,
-        "value_emp":null,
-        "value_gdp":1476.289,
-        "value_inflation":45.6
-    },
-    {
         "date":120960000000,
         "value_emp":null,
         "value_gdp":null,
@@ -1966,12 +3400,6 @@
         "value_emp":null,
         "value_gdp":null,
         "value_inflation":46.3
-    },
-    {
-        "date":126230400000,
-        "value_emp":null,
-        "value_gdp":1491.209,
-        "value_inflation":46.8
     },
     {
         "date":128908800000,
@@ -1986,12 +3414,6 @@
         "value_inflation":47.8
     },
     {
-        "date":134006400000,
-        "value_emp":null,
-        "value_gdp":1530.056,
-        "value_inflation":48.1
-    },
-    {
         "date":136598400000,
         "value_emp":null,
         "value_gdp":null,
@@ -2002,12 +3424,6 @@
         "value_emp":null,
         "value_gdp":null,
         "value_inflation":49.0
-    },
-    {
-        "date":141868800000,
-        "value_emp":null,
-        "value_gdp":1560.026,
-        "value_inflation":49.3
     },
     {
         "date":144547200000,
@@ -2022,12 +3438,6 @@
         "value_inflation":50.6
     },
     {
-        "date":149817600000,
-        "value_emp":null,
-        "value_gdp":1599.679,
-        "value_inflation":51.0
-    },
-    {
         "date":152496000000,
         "value_emp":null,
         "value_gdp":null,
@@ -2038,12 +3448,6 @@
         "value_emp":null,
         "value_gdp":null,
         "value_inflation":51.9
-    },
-    {
-        "date":157766400000,
-        "value_emp":null,
-        "value_gdp":1616.116,
-        "value_inflation":52.3
     },
     {
         "date":160444800000,
@@ -2058,12 +3462,6 @@
         "value_inflation":52.8
     },
     {
-        "date":165542400000,
-        "value_emp":null,
-        "value_gdp":1651.853,
-        "value_inflation":53.0
-    },
-    {
         "date":168134400000,
         "value_emp":null,
         "value_gdp":null,
@@ -2074,12 +3472,6 @@
         "value_emp":null,
         "value_gdp":null,
         "value_inflation":53.5
-    },
-    {
-        "date":173404800000,
-        "value_emp":null,
-        "value_gdp":1709.82,
-        "value_inflation":54.0
     },
     {
         "date":176083200000,
@@ -2094,12 +3486,6 @@
         "value_inflation":54.6
     },
     {
-        "date":181353600000,
-        "value_emp":null,
-        "value_gdp":1761.831,
-        "value_inflation":54.9
-    },
-    {
         "date":184032000000,
         "value_emp":null,
         "value_gdp":null,
@@ -2110,12 +3496,6 @@
         "value_emp":null,
         "value_gdp":null,
         "value_inflation":55.6
-    },
-    {
-        "date":189302400000,
-        "value_emp":null,
-        "value_gdp":1820.487,
-        "value_inflation":55.8
     },
     {
         "date":191980800000,
@@ -2130,12 +3510,6 @@
         "value_inflation":56.0
     },
     {
-        "date":197164800000,
-        "value_emp":null,
-        "value_gdp":1852.332,
-        "value_inflation":56.1
-    },
-    {
         "date":199756800000,
         "value_emp":null,
         "value_gdp":null,
@@ -2146,12 +3520,6 @@
         "value_emp":null,
         "value_gdp":null,
         "value_inflation":56.7
-    },
-    {
-        "date":205027200000,
-        "value_emp":null,
-        "value_gdp":1886.558,
-        "value_inflation":57.0
     },
     {
         "date":207705600000,
@@ -2166,12 +3534,6 @@
         "value_inflation":57.6
     },
     {
-        "date":212976000000,
-        "value_emp":null,
-        "value_gdp":1934.273,
-        "value_inflation":57.9
-    },
-    {
         "date":215654400000,
         "value_emp":null,
         "value_gdp":null,
@@ -2182,12 +3544,6 @@
         "value_emp":null,
         "value_gdp":null,
         "value_inflation":58.4
-    },
-    {
-        "date":220924800000,
-        "value_emp":null,
-        "value_gdp":1988.648,
-        "value_inflation":58.7
     },
     {
         "date":223603200000,
@@ -2202,12 +3558,6 @@
         "value_inflation":59.6
     },
     {
-        "date":228700800000,
-        "value_emp":null,
-        "value_gdp":2055.909,
-        "value_inflation":60.0
-    },
-    {
         "date":231292800000,
         "value_emp":null,
         "value_gdp":null,
@@ -2218,12 +3568,6 @@
         "value_emp":null,
         "value_gdp":null,
         "value_inflation":60.5
-    },
-    {
-        "date":236563200000,
-        "value_emp":null,
-        "value_gdp":2118.473,
-        "value_inflation":60.8
     },
     {
         "date":239241600000,
@@ -2238,12 +3582,6 @@
         "value_inflation":61.3
     },
     {
-        "date":244512000000,
-        "value_emp":null,
-        "value_gdp":2164.27,
-        "value_inflation":61.6
-    },
-    {
         "date":247190400000,
         "value_emp":null,
         "value_gdp":null,
@@ -2254,12 +3592,6 @@
         "value_emp":null,
         "value_gdp":null,
         "value_inflation":62.3
-    },
-    {
-        "date":252460800000,
-        "value_emp":null,
-        "value_gdp":2202.76,
-        "value_inflation":62.7
     },
     {
         "date":255139200000,
@@ -2274,12 +3606,6 @@
         "value_inflation":63.4
     },
     {
-        "date":260236800000,
-        "value_emp":null,
-        "value_gdp":2331.633,
-        "value_inflation":63.9
-    },
-    {
         "date":262828800000,
         "value_emp":null,
         "value_gdp":null,
@@ -2290,12 +3616,6 @@
         "value_emp":null,
         "value_gdp":null,
         "value_inflation":65.0
-    },
-    {
-        "date":268099200000,
-        "value_emp":null,
-        "value_gdp":2395.053,
-        "value_inflation":65.5
     },
     {
         "date":270777600000,
@@ -2310,12 +3630,6 @@
         "value_inflation":66.5
     },
     {
-        "date":276048000000,
-        "value_emp":null,
-        "value_gdp":2476.949,
-        "value_inflation":67.1
-    },
-    {
         "date":278726400000,
         "value_emp":null,
         "value_gdp":null,
@@ -2326,12 +3640,6 @@
         "value_emp":null,
         "value_gdp":null,
         "value_inflation":67.9
-    },
-    {
-        "date":283996800000,
-        "value_emp":null,
-        "value_gdp":2526.61,
-        "value_inflation":68.5
     },
     {
         "date":286675200000,
@@ -2346,12 +3654,6 @@
         "value_inflation":69.9
     },
     {
-        "date":291772800000,
-        "value_emp":null,
-        "value_gdp":2591.247,
-        "value_inflation":70.6
-    },
-    {
         "date":294364800000,
         "value_emp":null,
         "value_gdp":null,
@@ -2362,12 +3664,6 @@
         "value_emp":null,
         "value_gdp":null,
         "value_inflation":72.2
-    },
-    {
-        "date":299635200000,
-        "value_emp":null,
-        "value_gdp":2667.565,
-        "value_inflation":73.0
     },
     {
         "date":302313600000,
@@ -2382,12 +3678,6 @@
         "value_inflation":74.4
     },
     {
-        "date":307584000000,
-        "value_emp":null,
-        "value_gdp":2723.883,
-        "value_inflation":75.2
-    },
-    {
         "date":310262400000,
         "value_emp":null,
         "value_gdp":null,
@@ -2398,12 +3688,6 @@
         "value_emp":null,
         "value_gdp":null,
         "value_inflation":76.9
-    },
-    {
-        "date":315532800000,
-        "value_emp":null,
-        "value_gdp":2789.842,
-        "value_inflation":78.0
     },
     {
         "date":318211200000,
@@ -2418,12 +3702,6 @@
         "value_inflation":80.1
     },
     {
-        "date":323395200000,
-        "value_emp":null,
-        "value_gdp":2797.352,
-        "value_inflation":80.9
-    },
-    {
         "date":325987200000,
         "value_emp":null,
         "value_gdp":null,
@@ -2434,12 +3712,6 @@
         "value_emp":null,
         "value_gdp":null,
         "value_inflation":82.5
-    },
-    {
-        "date":331257600000,
-        "value_emp":null,
-        "value_gdp":2856.483,
-        "value_inflation":82.6
     },
     {
         "date":333936000000,
@@ -2454,12 +3726,6 @@
         "value_inflation":83.9
     },
     {
-        "date":339206400000,
-        "value_emp":null,
-        "value_gdp":2985.557,
-        "value_inflation":84.7
-    },
-    {
         "date":341884800000,
         "value_emp":null,
         "value_gdp":null,
@@ -2470,12 +3736,6 @@
         "value_emp":null,
         "value_gdp":null,
         "value_inflation":86.4
-    },
-    {
-        "date":347155200000,
-        "value_emp":null,
-        "value_gdp":3124.206,
-        "value_inflation":87.2
     },
     {
         "date":349833600000,
@@ -2490,12 +3750,6 @@
         "value_inflation":88.6
     },
     {
-        "date":354931200000,
-        "value_emp":null,
-        "value_gdp":3162.532,
-        "value_inflation":89.1
-    },
-    {
         "date":357523200000,
         "value_emp":null,
         "value_gdp":null,
@@ -2506,12 +3760,6 @@
         "value_emp":null,
         "value_gdp":null,
         "value_inflation":90.5
-    },
-    {
-        "date":362793600000,
-        "value_emp":null,
-        "value_gdp":3260.609,
-        "value_inflation":91.5
     },
     {
         "date":365472000000,
@@ -2526,12 +3774,6 @@
         "value_inflation":93.1
     },
     {
-        "date":370742400000,
-        "value_emp":null,
-        "value_gdp":3280.818,
-        "value_inflation":93.4
-    },
-    {
         "date":373420800000,
         "value_emp":null,
         "value_gdp":null,
@@ -2542,12 +3784,6 @@
         "value_emp":null,
         "value_gdp":null,
         "value_inflation":94.1
-    },
-    {
-        "date":378691200000,
-        "value_emp":null,
-        "value_gdp":3274.302,
-        "value_inflation":94.4
     },
     {
         "date":381369600000,
@@ -2562,12 +3798,6 @@
         "value_inflation":94.7
     },
     {
-        "date":386467200000,
-        "value_emp":null,
-        "value_gdp":3331.972,
-        "value_inflation":95.0
-    },
-    {
         "date":389059200000,
         "value_emp":null,
         "value_gdp":null,
@@ -2578,12 +3808,6 @@
         "value_emp":null,
         "value_gdp":null,
         "value_inflation":97.0
-    },
-    {
-        "date":394329600000,
-        "value_emp":null,
-        "value_gdp":3366.322,
-        "value_inflation":97.5
     },
     {
         "date":397008000000,
@@ -2598,12 +3822,6 @@
         "value_inflation":97.7
     },
     {
-        "date":402278400000,
-        "value_emp":null,
-        "value_gdp":3402.561,
-        "value_inflation":98.1
-    },
-    {
         "date":404956800000,
         "value_emp":null,
         "value_gdp":null,
@@ -2614,12 +3832,6 @@
         "value_emp":null,
         "value_gdp":null,
         "value_inflation":97.7
-    },
-    {
-        "date":410227200000,
-        "value_emp":null,
-        "value_gdp":3473.413,
-        "value_inflation":97.9
     },
     {
         "date":412905600000,
@@ -2634,12 +3846,6 @@
         "value_inflation":98.1
     },
     {
-        "date":418003200000,
-        "value_emp":null,
-        "value_gdp":3578.848,
-        "value_inflation":98.8
-    },
-    {
         "date":420595200000,
         "value_emp":null,
         "value_gdp":null,
@@ -2650,12 +3856,6 @@
         "value_emp":null,
         "value_gdp":null,
         "value_inflation":99.4
-    },
-    {
-        "date":425865600000,
-        "value_emp":null,
-        "value_gdp":3689.179,
-        "value_inflation":99.8
     },
     {
         "date":428544000000,
@@ -2670,12 +3870,6 @@
         "value_inflation":100.4
     },
     {
-        "date":433814400000,
-        "value_emp":null,
-        "value_gdp":3794.706,
-        "value_inflation":100.8
-    },
-    {
         "date":436492800000,
         "value_emp":null,
         "value_gdp":null,
@@ -2686,12 +3880,6 @@
         "value_emp":null,
         "value_gdp":null,
         "value_inflation":101.4
-    },
-    {
-        "date":441763200000,
-        "value_emp":null,
-        "value_gdp":3908.054,
-        "value_inflation":102.1
     },
     {
         "date":444441600000,
@@ -2706,12 +3894,6 @@
         "value_inflation":102.9
     },
     {
-        "date":449625600000,
-        "value_emp":null,
-        "value_gdp":4009.601,
-        "value_inflation":103.3
-    },
-    {
         "date":452217600000,
         "value_emp":null,
         "value_gdp":null,
@@ -2722,12 +3904,6 @@
         "value_emp":null,
         "value_gdp":null,
         "value_inflation":103.7
-    },
-    {
-        "date":457488000000,
-        "value_emp":null,
-        "value_gdp":4084.25,
-        "value_inflation":104.1
     },
     {
         "date":460166400000,
@@ -2742,12 +3918,6 @@
         "value_inflation":104.7
     },
     {
-        "date":465436800000,
-        "value_emp":null,
-        "value_gdp":4148.551,
-        "value_inflation":105.1
-    },
-    {
         "date":468115200000,
         "value_emp":null,
         "value_gdp":null,
@@ -2758,12 +3928,6 @@
         "value_emp":null,
         "value_gdp":null,
         "value_inflation":105.5
-    },
-    {
-        "date":473385600000,
-        "value_emp":null,
-        "value_gdp":4230.168,
-        "value_inflation":105.7
     },
     {
         "date":476064000000,
@@ -2778,12 +3942,6 @@
         "value_inflation":106.8
     },
     {
-        "date":481161600000,
-        "value_emp":null,
-        "value_gdp":4294.887,
-        "value_inflation":107.0
-    },
-    {
         "date":483753600000,
         "value_emp":null,
         "value_gdp":null,
@@ -2794,12 +3952,6 @@
         "value_emp":null,
         "value_gdp":null,
         "value_inflation":107.5
-    },
-    {
-        "date":489024000000,
-        "value_emp":null,
-        "value_gdp":4386.773,
-        "value_inflation":107.7
     },
     {
         "date":491702400000,
@@ -2814,12 +3966,6 @@
         "value_inflation":108.1
     },
     {
-        "date":496972800000,
-        "value_emp":null,
-        "value_gdp":4444.094,
-        "value_inflation":108.5
-    },
-    {
         "date":499651200000,
         "value_emp":null,
         "value_gdp":null,
@@ -2830,12 +3976,6 @@
         "value_emp":null,
         "value_gdp":null,
         "value_inflation":109.5
-    },
-    {
-        "date":504921600000,
-        "value_emp":null,
-        "value_gdp":4507.894,
-        "value_inflation":109.9
     },
     {
         "date":507600000000,
@@ -2850,12 +3990,6 @@
         "value_inflation":109.1
     },
     {
-        "date":512697600000,
-        "value_emp":null,
-        "value_gdp":4545.34,
-        "value_inflation":108.7
-    },
-    {
         "date":515289600000,
         "value_emp":null,
         "value_gdp":null,
@@ -2866,12 +4000,6 @@
         "value_emp":null,
         "value_gdp":null,
         "value_inflation":109.4
-    },
-    {
-        "date":520560000000,
-        "value_emp":null,
-        "value_gdp":4607.669,
-        "value_inflation":109.5
     },
     {
         "date":523238400000,
@@ -2886,12 +4014,6 @@
         "value_inflation":110.0
     },
     {
-        "date":528508800000,
-        "value_emp":null,
-        "value_gdp":4657.627,
-        "value_inflation":110.2
-    },
-    {
         "date":531187200000,
         "value_emp":null,
         "value_gdp":null,
@@ -2902,12 +4024,6 @@
         "value_emp":null,
         "value_gdp":null,
         "value_inflation":110.8
-    },
-    {
-        "date":536457600000,
-        "value_emp":null,
-        "value_gdp":4722.156,
-        "value_inflation":111.4
     },
     {
         "date":539136000000,
@@ -2922,12 +4038,6 @@
         "value_inflation":112.2
     },
     {
-        "date":544233600000,
-        "value_emp":null,
-        "value_gdp":4806.16,
-        "value_inflation":112.7
-    },
-    {
         "date":546825600000,
         "value_emp":null,
         "value_gdp":null,
@@ -2938,12 +4048,6 @@
         "value_emp":null,
         "value_gdp":null,
         "value_inflation":113.5
-    },
-    {
-        "date":552096000000,
-        "value_emp":null,
-        "value_gdp":4884.555,
-        "value_inflation":113.8
     },
     {
         "date":554774400000,
@@ -2958,12 +4062,6 @@
         "value_inflation":114.7
     },
     {
-        "date":560044800000,
-        "value_emp":null,
-        "value_gdp":5007.994,
-        "value_inflation":115.0
-    },
-    {
         "date":562723200000,
         "value_emp":null,
         "value_gdp":null,
@@ -2974,12 +4072,6 @@
         "value_emp":null,
         "value_gdp":null,
         "value_inflation":115.6
-    },
-    {
-        "date":567993600000,
-        "value_emp":null,
-        "value_gdp":5073.372,
-        "value_inflation":116.0
     },
     {
         "date":570672000000,
@@ -2994,12 +4086,6 @@
         "value_inflation":116.5
     },
     {
-        "date":575856000000,
-        "value_emp":null,
-        "value_gdp":5190.036,
-        "value_inflation":117.2
-    },
-    {
         "date":578448000000,
         "value_emp":null,
         "value_gdp":null,
@@ -3010,12 +4096,6 @@
         "value_emp":null,
         "value_gdp":null,
         "value_inflation":118.0
-    },
-    {
-        "date":583718400000,
-        "value_emp":null,
-        "value_gdp":5282.835,
-        "value_inflation":118.5
     },
     {
         "date":586396800000,
@@ -3030,12 +4110,6 @@
         "value_inflation":119.5
     },
     {
-        "date":591667200000,
-        "value_emp":null,
-        "value_gdp":5399.509,
-        "value_inflation":119.9
-    },
-    {
         "date":594345600000,
         "value_emp":null,
         "value_gdp":null,
@@ -3046,12 +4120,6 @@
         "value_emp":null,
         "value_gdp":null,
         "value_inflation":120.7
-    },
-    {
-        "date":599616000000,
-        "value_emp":null,
-        "value_gdp":5511.253,
-        "value_inflation":121.2
     },
     {
         "date":602294400000,
@@ -3066,12 +4134,6 @@
         "value_inflation":122.2
     },
     {
-        "date":607392000000,
-        "value_emp":null,
-        "value_gdp":5612.463,
-        "value_inflation":123.1
-    },
-    {
         "date":609984000000,
         "value_emp":null,
         "value_gdp":null,
@@ -3082,12 +4144,6 @@
         "value_emp":null,
         "value_gdp":null,
         "value_inflation":124.1
-    },
-    {
-        "date":615254400000,
-        "value_emp":null,
-        "value_gdp":5695.365,
-        "value_inflation":124.5
     },
     {
         "date":617932800000,
@@ -3102,12 +4158,6 @@
         "value_inflation":124.8
     },
     {
-        "date":623203200000,
-        "value_emp":null,
-        "value_gdp":5747.237,
-        "value_inflation":125.4
-    },
-    {
         "date":625881600000,
         "value_emp":null,
         "value_gdp":null,
@@ -3118,12 +4168,6 @@
         "value_emp":null,
         "value_gdp":null,
         "value_inflation":126.3
-    },
-    {
-        "date":631152000000,
-        "value_emp":null,
-        "value_gdp":5872.701,
-        "value_inflation":127.5
     },
     {
         "date":633830400000,
@@ -3138,12 +4182,6 @@
         "value_inflation":128.6
     },
     {
-        "date":638928000000,
-        "value_emp":null,
-        "value_gdp":5960.028,
-        "value_inflation":128.9
-    },
-    {
         "date":641520000000,
         "value_emp":null,
         "value_gdp":null,
@@ -3154,12 +4192,6 @@
         "value_emp":null,
         "value_gdp":null,
         "value_inflation":129.9
-    },
-    {
-        "date":646790400000,
-        "value_emp":null,
-        "value_gdp":6015.116,
-        "value_inflation":130.5
     },
     {
         "date":649468800000,
@@ -3174,12 +4206,6 @@
         "value_inflation":132.5
     },
     {
-        "date":654739200000,
-        "value_emp":null,
-        "value_gdp":6004.733,
-        "value_inflation":133.4
-    },
-    {
         "date":657417600000,
         "value_emp":null,
         "value_gdp":null,
@@ -3190,12 +4216,6 @@
         "value_emp":null,
         "value_gdp":null,
         "value_inflation":134.2
-    },
-    {
-        "date":662688000000,
-        "value_emp":null,
-        "value_gdp":6035.178,
-        "value_inflation":134.7
     },
     {
         "date":665366400000,
@@ -3210,12 +4230,6 @@
         "value_inflation":134.8
     },
     {
-        "date":670464000000,
-        "value_emp":null,
-        "value_gdp":6126.862,
-        "value_inflation":135.1
-    },
-    {
         "date":673056000000,
         "value_emp":null,
         "value_gdp":null,
@@ -3226,12 +4240,6 @@
         "value_emp":null,
         "value_gdp":null,
         "value_inflation":136.0
-    },
-    {
-        "date":678326400000,
-        "value_emp":null,
-        "value_gdp":6205.937,
-        "value_inflation":136.2
     },
     {
         "date":681004800000,
@@ -3246,12 +4254,6 @@
         "value_inflation":137.0
     },
     {
-        "date":686275200000,
-        "value_emp":null,
-        "value_gdp":6264.54,
-        "value_inflation":137.2
-    },
-    {
         "date":688953600000,
         "value_emp":null,
         "value_gdp":null,
@@ -3262,12 +4264,6 @@
         "value_emp":null,
         "value_gdp":null,
         "value_inflation":138.2
-    },
-    {
-        "date":694224000000,
-        "value_emp":null,
-        "value_gdp":6363.102,
-        "value_inflation":138.3
     },
     {
         "date":696902400000,
@@ -3282,12 +4278,6 @@
         "value_inflation":139.1
     },
     {
-        "date":702086400000,
-        "value_emp":null,
-        "value_gdp":6470.763,
-        "value_inflation":139.4
-    },
-    {
         "date":704678400000,
         "value_emp":null,
         "value_gdp":null,
@@ -3298,12 +4288,6 @@
         "value_emp":null,
         "value_gdp":null,
         "value_inflation":140.1
-    },
-    {
-        "date":709948800000,
-        "value_emp":null,
-        "value_gdp":6566.641,
-        "value_inflation":140.5
     },
     {
         "date":712627200000,
@@ -3318,12 +4302,6 @@
         "value_inflation":141.1
     },
     {
-        "date":717897600000,
-        "value_emp":null,
-        "value_gdp":6680.803,
-        "value_inflation":141.7
-    },
-    {
         "date":720576000000,
         "value_emp":null,
         "value_gdp":null,
@@ -3334,12 +4312,6 @@
         "value_emp":null,
         "value_gdp":null,
         "value_inflation":142.3
-    },
-    {
-        "date":725846400000,
-        "value_emp":null,
-        "value_gdp":6729.459,
-        "value_inflation":142.8
     },
     {
         "date":728524800000,
@@ -3354,12 +4326,6 @@
         "value_inflation":143.3
     },
     {
-        "date":733622400000,
-        "value_emp":null,
-        "value_gdp":6808.939,
-        "value_inflation":143.8
-    },
-    {
         "date":736214400000,
         "value_emp":null,
         "value_gdp":null,
@@ -3370,12 +4336,6 @@
         "value_emp":null,
         "value_gdp":null,
         "value_inflation":144.3
-    },
-    {
-        "date":741484800000,
-        "value_emp":null,
-        "value_gdp":6882.098,
-        "value_inflation":144.5
     },
     {
         "date":744163200000,
@@ -3390,12 +4350,6 @@
         "value_inflation":145.0
     },
     {
-        "date":749433600000,
-        "value_emp":null,
-        "value_gdp":7013.738,
-        "value_inflation":145.6
-    },
-    {
         "date":752112000000,
         "value_emp":null,
         "value_gdp":null,
@@ -3405,12 +4359,6 @@
         "date":754704000000,
         "value_emp":null,
         "value_gdp":null,
-        "value_inflation":146.3
-    },
-    {
-        "date":757382400000,
-        "value_emp":null,
-        "value_gdp":7115.652,
         "value_inflation":146.3
     },
     {
@@ -3426,12 +4374,6 @@
         "value_inflation":147.1
     },
     {
-        "date":765158400000,
-        "value_emp":null,
-        "value_gdp":7246.931,
-        "value_inflation":147.2
-    },
-    {
         "date":767750400000,
         "value_emp":null,
         "value_gdp":null,
@@ -3442,12 +4384,6 @@
         "value_emp":null,
         "value_gdp":null,
         "value_inflation":147.9
-    },
-    {
-        "date":773020800000,
-        "value_emp":null,
-        "value_gdp":7331.075,
-        "value_inflation":148.4
     },
     {
         "date":775699200000,
@@ -3462,12 +4398,6 @@
         "value_inflation":149.3
     },
     {
-        "date":780969600000,
-        "value_emp":null,
-        "value_gdp":7455.288,
-        "value_inflation":149.4
-    },
-    {
         "date":783648000000,
         "value_emp":null,
         "value_gdp":null,
@@ -3478,12 +4408,6 @@
         "value_emp":null,
         "value_gdp":null,
         "value_inflation":150.1
-    },
-    {
-        "date":788918400000,
-        "value_emp":null,
-        "value_gdp":7522.289,
-        "value_inflation":150.5
     },
     {
         "date":791596800000,
@@ -3498,12 +4422,6 @@
         "value_inflation":151.2
     },
     {
-        "date":796694400000,
-        "value_emp":null,
-        "value_gdp":7580.997,
-        "value_inflation":151.8
-    },
-    {
         "date":799286400000,
         "value_emp":null,
         "value_gdp":null,
@@ -3514,12 +4432,6 @@
         "value_emp":null,
         "value_gdp":null,
         "value_inflation":152.4
-    },
-    {
-        "date":804556800000,
-        "value_emp":null,
-        "value_gdp":7683.125,
-        "value_inflation":152.6
     },
     {
         "date":807235200000,
@@ -3534,12 +4446,6 @@
         "value_inflation":153.1
     },
     {
-        "date":812505600000,
-        "value_emp":null,
-        "value_gdp":7772.586,
-        "value_inflation":153.5
-    },
-    {
         "date":815184000000,
         "value_emp":null,
         "value_gdp":null,
@@ -3550,12 +4456,6 @@
         "value_emp":null,
         "value_gdp":null,
         "value_inflation":153.9
-    },
-    {
-        "date":820454400000,
-        "value_emp":null,
-        "value_gdp":7868.468,
-        "value_inflation":154.7
     },
     {
         "date":823132800000,
@@ -3570,12 +4470,6 @@
         "value_inflation":155.5
     },
     {
-        "date":828316800000,
-        "value_emp":null,
-        "value_gdp":8032.84,
-        "value_inflation":156.1
-    },
-    {
         "date":830908800000,
         "value_emp":null,
         "value_gdp":null,
@@ -3586,12 +4480,6 @@
         "value_emp":null,
         "value_gdp":null,
         "value_inflation":156.7
-    },
-    {
-        "date":836179200000,
-        "value_emp":null,
-        "value_gdp":8131.408,
-        "value_inflation":157.0
     },
     {
         "date":838857600000,
@@ -3606,12 +4494,6 @@
         "value_inflation":157.7
     },
     {
-        "date":844128000000,
-        "value_emp":null,
-        "value_gdp":8259.771,
-        "value_inflation":158.2
-    },
-    {
         "date":846806400000,
         "value_emp":null,
         "value_gdp":null,
@@ -3622,12 +4504,6 @@
         "value_emp":null,
         "value_gdp":null,
         "value_inflation":159.1
-    },
-    {
-        "date":852076800000,
-        "value_emp":null,
-        "value_gdp":8362.655,
-        "value_inflation":159.4
     },
     {
         "date":854755200000,
@@ -3642,12 +4518,6 @@
         "value_inflation":159.8
     },
     {
-        "date":859852800000,
-        "value_emp":null,
-        "value_gdp":8518.825,
-        "value_inflation":159.9
-    },
-    {
         "date":862444800000,
         "value_emp":null,
         "value_gdp":null,
@@ -3658,12 +4528,6 @@
         "value_emp":null,
         "value_gdp":null,
         "value_inflation":160.2
-    },
-    {
-        "date":867715200000,
-        "value_emp":null,
-        "value_gdp":8662.823,
-        "value_inflation":160.4
     },
     {
         "date":870393600000,
@@ -3678,12 +4542,6 @@
         "value_inflation":161.2
     },
     {
-        "date":875664000000,
-        "value_emp":null,
-        "value_gdp":8765.907,
-        "value_inflation":161.5
-    },
-    {
         "date":878342400000,
         "value_emp":null,
         "value_gdp":null,
@@ -3694,12 +4552,6 @@
         "value_emp":null,
         "value_gdp":null,
         "value_inflation":161.8
-    },
-    {
-        "date":883612800000,
-        "value_emp":null,
-        "value_gdp":8866.48,
-        "value_inflation":162.0
     },
     {
         "date":886291200000,
@@ -3714,12 +4566,6 @@
         "value_inflation":162.0
     },
     {
-        "date":891388800000,
-        "value_emp":null,
-        "value_gdp":8969.699,
-        "value_inflation":162.2
-    },
-    {
         "date":893980800000,
         "value_emp":null,
         "value_gdp":null,
@@ -3730,12 +4576,6 @@
         "value_emp":null,
         "value_gdp":null,
         "value_inflation":162.8
-    },
-    {
-        "date":899251200000,
-        "value_emp":null,
-        "value_gdp":9121.097,
-        "value_inflation":163.2
     },
     {
         "date":901929600000,
@@ -3750,12 +4590,6 @@
         "value_inflation":163.5
     },
     {
-        "date":907200000000,
-        "value_emp":null,
-        "value_gdp":9293.991,
-        "value_inflation":163.9
-    },
-    {
         "date":909878400000,
         "value_emp":null,
         "value_gdp":null,
@@ -3766,12 +4600,6 @@
         "value_emp":null,
         "value_gdp":null,
         "value_inflation":164.4
-    },
-    {
-        "date":915148800000,
-        "value_emp":null,
-        "value_gdp":9411.682,
-        "value_inflation":164.7
     },
     {
         "date":917827200000,
@@ -3786,12 +4614,6 @@
         "value_inflation":164.8
     },
     {
-        "date":922924800000,
-        "value_emp":null,
-        "value_gdp":9526.21,
-        "value_inflation":165.9
-    },
-    {
         "date":925516800000,
         "value_emp":null,
         "value_gdp":null,
@@ -3802,12 +4624,6 @@
         "value_emp":null,
         "value_gdp":null,
         "value_inflation":166.0
-    },
-    {
-        "date":930787200000,
-        "value_emp":null,
-        "value_gdp":9686.626,
-        "value_inflation":166.7
     },
     {
         "date":933465600000,
@@ -3822,12 +4638,6 @@
         "value_inflation":167.8
     },
     {
-        "date":938736000000,
-        "value_emp":null,
-        "value_gdp":9900.169,
-        "value_inflation":168.1
-    },
-    {
         "date":941414400000,
         "value_emp":null,
         "value_gdp":null,
@@ -3838,12 +4648,6 @@
         "value_emp":null,
         "value_gdp":null,
         "value_inflation":168.8
-    },
-    {
-        "date":946684800000,
-        "value_emp":null,
-        "value_gdp":10002.179,
-        "value_inflation":169.3
     },
     {
         "date":949363200000,
@@ -3858,12 +4662,6 @@
         "value_inflation":171.0
     },
     {
-        "date":954547200000,
-        "value_emp":null,
-        "value_gdp":10247.72,
-        "value_inflation":170.9
-    },
-    {
         "date":957139200000,
         "value_emp":null,
         "value_gdp":null,
@@ -3874,12 +4672,6 @@
         "value_emp":null,
         "value_gdp":null,
         "value_inflation":172.2
-    },
-    {
-        "date":962409600000,
-        "value_emp":null,
-        "value_gdp":10318.165,
-        "value_inflation":172.7
     },
     {
         "date":965088000000,
@@ -3894,12 +4686,6 @@
         "value_inflation":173.6
     },
     {
-        "date":970358400000,
-        "value_emp":null,
-        "value_gdp":10435.744,
-        "value_inflation":173.9
-    },
-    {
         "date":973036800000,
         "value_emp":null,
         "value_gdp":null,
@@ -3910,12 +4696,6 @@
         "value_emp":null,
         "value_gdp":null,
         "value_inflation":174.6
-    },
-    {
-        "date":978307200000,
-        "value_emp":null,
-        "value_gdp":10470.231,
-        "value_inflation":175.6
     },
     {
         "date":980985600000,
@@ -3930,12 +4710,6 @@
         "value_inflation":176.1
     },
     {
-        "date":986083200000,
-        "value_emp":null,
-        "value_gdp":10599.0,
-        "value_inflation":176.4
-    },
-    {
         "date":988675200000,
         "value_emp":null,
         "value_gdp":null,
@@ -3946,12 +4720,6 @@
         "value_emp":null,
         "value_gdp":null,
         "value_inflation":177.7
-    },
-    {
-        "date":993945600000,
-        "value_emp":null,
-        "value_gdp":10598.02,
-        "value_inflation":177.4
     },
     {
         "date":996624000000,
@@ -3966,12 +4734,6 @@
         "value_inflation":178.1
     },
     {
-        "date":1001894400000,
-        "value_emp":null,
-        "value_gdp":10660.465,
-        "value_inflation":177.6
-    },
-    {
         "date":1004572800000,
         "value_emp":null,
         "value_gdp":null,
@@ -3982,12 +4744,6 @@
         "value_emp":null,
         "value_gdp":null,
         "value_inflation":177.4
-    },
-    {
-        "date":1009843200000,
-        "value_emp":null,
-        "value_gdp":10783.5,
-        "value_inflation":177.7
     },
     {
         "date":1012521600000,
@@ -4002,12 +4758,6 @@
         "value_inflation":178.5
     },
     {
-        "date":1017619200000,
-        "value_emp":null,
-        "value_gdp":10887.46,
-        "value_inflation":179.3
-    },
-    {
         "date":1020211200000,
         "value_emp":null,
         "value_gdp":null,
@@ -4018,12 +4768,6 @@
         "value_emp":null,
         "value_gdp":null,
         "value_inflation":179.6
-    },
-    {
-        "date":1025481600000,
-        "value_emp":null,
-        "value_gdp":10984.04,
-        "value_inflation":180.0
     },
     {
         "date":1028160000000,
@@ -4038,12 +4782,6 @@
         "value_inflation":180.8
     },
     {
-        "date":1033430400000,
-        "value_emp":null,
-        "value_gdp":11061.433,
-        "value_inflation":181.2
-    },
-    {
         "date":1036108800000,
         "value_emp":null,
         "value_gdp":null,
@@ -4054,12 +4792,6 @@
         "value_emp":null,
         "value_gdp":null,
         "value_inflation":181.8
-    },
-    {
-        "date":1041379200000,
-        "value_emp":null,
-        "value_gdp":11174.129,
-        "value_inflation":182.6
     },
     {
         "date":1044057600000,
@@ -4074,12 +4806,6 @@
         "value_inflation":183.9
     },
     {
-        "date":1049155200000,
-        "value_emp":null,
-        "value_gdp":11312.766,
-        "value_inflation":183.2
-    },
-    {
         "date":1051747200000,
         "value_emp":null,
         "value_gdp":null,
@@ -4090,12 +4816,6 @@
         "value_emp":null,
         "value_gdp":null,
         "value_inflation":183.1
-    },
-    {
-        "date":1057017600000,
-        "value_emp":null,
-        "value_gdp":11566.669,
-        "value_inflation":183.7
     },
     {
         "date":1059696000000,
@@ -4110,12 +4830,6 @@
         "value_inflation":185.1
     },
     {
-        "date":1064966400000,
-        "value_emp":null,
-        "value_gdp":11772.234,
-        "value_inflation":184.9
-    },
-    {
         "date":1067644800000,
         "value_emp":null,
         "value_gdp":null,
@@ -4126,12 +4840,6 @@
         "value_emp":null,
         "value_gdp":null,
         "value_inflation":185.5
-    },
-    {
-        "date":1072915200000,
-        "value_emp":null,
-        "value_gdp":11923.447,
-        "value_inflation":186.3
     },
     {
         "date":1075593600000,
@@ -4146,12 +4854,6 @@
         "value_inflation":187.1
     },
     {
-        "date":1080777600000,
-        "value_emp":null,
-        "value_gdp":12112.815,
-        "value_inflation":187.4
-    },
-    {
         "date":1083369600000,
         "value_emp":null,
         "value_gdp":null,
@@ -4162,12 +4864,6 @@
         "value_emp":null,
         "value_gdp":null,
         "value_inflation":188.9
-    },
-    {
-        "date":1088640000000,
-        "value_emp":null,
-        "value_gdp":12305.307,
-        "value_inflation":189.1
     },
     {
         "date":1091318400000,
@@ -4182,12 +4878,6 @@
         "value_inflation":189.8
     },
     {
-        "date":1096588800000,
-        "value_emp":null,
-        "value_gdp":12527.214,
-        "value_inflation":190.8
-    },
-    {
         "date":1099267200000,
         "value_emp":null,
         "value_gdp":null,
@@ -4198,12 +4888,6 @@
         "value_emp":null,
         "value_gdp":null,
         "value_inflation":191.7
-    },
-    {
-        "date":1104537600000,
-        "value_emp":null,
-        "value_gdp":12767.286,
-        "value_inflation":191.6
     },
     {
         "date":1107216000000,
@@ -4218,12 +4902,6 @@
         "value_inflation":193.1
     },
     {
-        "date":1112313600000,
-        "value_emp":null,
-        "value_gdp":12922.656,
-        "value_inflation":193.7
-    },
-    {
         "date":1114905600000,
         "value_emp":null,
         "value_gdp":null,
@@ -4234,12 +4912,6 @@
         "value_emp":null,
         "value_gdp":null,
         "value_inflation":193.7
-    },
-    {
-        "date":1120176000000,
-        "value_emp":null,
-        "value_gdp":13142.642,
-        "value_inflation":194.9
     },
     {
         "date":1122854400000,
@@ -4254,12 +4926,6 @@
         "value_inflation":198.8
     },
     {
-        "date":1128124800000,
-        "value_emp":null,
-        "value_gdp":13324.204,
-        "value_inflation":199.1
-    },
-    {
         "date":1130803200000,
         "value_emp":null,
         "value_gdp":null,
@@ -4270,12 +4936,6 @@
         "value_emp":null,
         "value_gdp":null,
         "value_inflation":198.1
-    },
-    {
-        "date":1136073600000,
-        "value_emp":null,
-        "value_gdp":13599.16,
-        "value_inflation":199.3
     },
     {
         "date":1138752000000,
@@ -4290,12 +4950,6 @@
         "value_inflation":199.7
     },
     {
-        "date":1143849600000,
-        "value_emp":null,
-        "value_gdp":13753.424,
-        "value_inflation":200.7
-    },
-    {
         "date":1146441600000,
         "value_emp":null,
         "value_gdp":null,
@@ -4306,12 +4960,6 @@
         "value_emp":null,
         "value_gdp":null,
         "value_inflation":201.8
-    },
-    {
-        "date":1151712000000,
-        "value_emp":null,
-        "value_gdp":13870.188,
-        "value_inflation":202.9
     },
     {
         "date":1154390400000,
@@ -4326,12 +4974,6 @@
         "value_inflation":202.8
     },
     {
-        "date":1159660800000,
-        "value_emp":null,
-        "value_gdp":14039.56,
-        "value_inflation":201.9
-    },
-    {
         "date":1162339200000,
         "value_emp":null,
         "value_gdp":null,
@@ -4342,12 +4984,6 @@
         "value_emp":null,
         "value_gdp":null,
         "value_inflation":203.1
-    },
-    {
-        "date":1167609600000,
-        "value_emp":null,
-        "value_gdp":14215.651,
-        "value_inflation":203.437
     },
     {
         "date":1170288000000,
@@ -4362,12 +4998,6 @@
         "value_inflation":205.288
     },
     {
-        "date":1175385600000,
-        "value_emp":null,
-        "value_gdp":14402.082,
-        "value_inflation":205.904
-    },
-    {
         "date":1177977600000,
         "value_emp":null,
         "value_gdp":null,
@@ -4378,12 +5008,6 @@
         "value_emp":null,
         "value_gdp":null,
         "value_inflation":207.234
-    },
-    {
-        "date":1183248000000,
-        "value_emp":null,
-        "value_gdp":14564.117,
-        "value_inflation":207.603
     },
     {
         "date":1185926400000,
@@ -4398,12 +5022,6 @@
         "value_inflation":208.547
     },
     {
-        "date":1191196800000,
-        "value_emp":null,
-        "value_gdp":14715.058,
-        "value_inflation":209.19
-    },
-    {
         "date":1193875200000,
         "value_emp":null,
         "value_gdp":null,
@@ -4414,12 +5032,6 @@
         "value_emp":null,
         "value_gdp":null,
         "value_inflation":211.445
-    },
-    {
-        "date":1199145600000,
-        "value_emp":null,
-        "value_gdp":14706.538,
-        "value_inflation":212.174
     },
     {
         "date":1201824000000,
@@ -4434,12 +5046,6 @@
         "value_inflation":213.448
     },
     {
-        "date":1207008000000,
-        "value_emp":null,
-        "value_gdp":14865.701,
-        "value_inflation":213.942
-    },
-    {
         "date":1209600000000,
         "value_emp":null,
         "value_gdp":null,
@@ -4450,12 +5056,6 @@
         "value_emp":null,
         "value_gdp":null,
         "value_inflation":217.463
-    },
-    {
-        "date":1214870400000,
-        "value_emp":null,
-        "value_gdp":14898.999,
-        "value_inflation":219.016
     },
     {
         "date":1217548800000,
@@ -4470,12 +5070,6 @@
         "value_inflation":218.877
     },
     {
-        "date":1222819200000,
-        "value_emp":null,
-        "value_gdp":14608.209,
-        "value_inflation":216.995
-    },
-    {
         "date":1225497600000,
         "value_emp":null,
         "value_gdp":null,
@@ -4486,12 +5080,6 @@
         "value_emp":null,
         "value_gdp":null,
         "value_inflation":211.398
-    },
-    {
-        "date":1230768000000,
-        "value_emp":null,
-        "value_gdp":14430.902,
-        "value_inflation":211.933
     },
     {
         "date":1233446400000,
@@ -4506,12 +5094,6 @@
         "value_inflation":212.495
     },
     {
-        "date":1238544000000,
-        "value_emp":null,
-        "value_gdp":14381.236,
-        "value_inflation":212.709
-    },
-    {
         "date":1241136000000,
         "value_emp":null,
         "value_gdp":null,
@@ -4522,12 +5104,6 @@
         "value_emp":null,
         "value_gdp":null,
         "value_inflation":214.79
-    },
-    {
-        "date":1246406400000,
-        "value_emp":null,
-        "value_gdp":14448.882,
-        "value_inflation":214.726
     },
     {
         "date":1249084800000,
@@ -4542,12 +5118,6 @@
         "value_inflation":215.861
     },
     {
-        "date":1254355200000,
-        "value_emp":null,
-        "value_gdp":14651.249,
-        "value_inflation":216.509
-    },
-    {
         "date":1257033600000,
         "value_emp":null,
         "value_gdp":null,
@@ -4558,12 +5128,6 @@
         "value_emp":null,
         "value_gdp":null,
         "value_inflation":217.347
-    },
-    {
-        "date":1262304000000,
-        "value_emp":null,
-        "value_gdp":14764.61,
-        "value_inflation":217.488
     },
     {
         "date":1264982400000,
@@ -4578,12 +5142,6 @@
         "value_inflation":217.353
     },
     {
-        "date":1270080000000,
-        "value_emp":null,
-        "value_gdp":14980.193,
-        "value_inflation":217.403
-    },
-    {
         "date":1272672000000,
         "value_emp":null,
         "value_gdp":null,
@@ -4594,12 +5152,6 @@
         "value_emp":null,
         "value_gdp":null,
         "value_inflation":217.199
-    },
-    {
-        "date":1277942400000,
-        "value_emp":null,
-        "value_gdp":15141.607,
-        "value_inflation":217.605
     },
     {
         "date":1280620800000,
@@ -4614,12 +5166,6 @@
         "value_inflation":218.275
     },
     {
-        "date":1285891200000,
-        "value_emp":null,
-        "value_gdp":15309.474,
-        "value_inflation":219.035
-    },
-    {
         "date":1288569600000,
         "value_emp":null,
         "value_gdp":null,
@@ -4630,12 +5176,6 @@
         "value_emp":null,
         "value_gdp":null,
         "value_inflation":220.472
-    },
-    {
-        "date":1293840000000,
-        "value_emp":null,
-        "value_gdp":15351.448,
-        "value_inflation":221.187
     },
     {
         "date":1296518400000,
@@ -4650,12 +5190,6 @@
         "value_inflation":223.046
     },
     {
-        "date":1301616000000,
-        "value_emp":null,
-        "value_gdp":15557.539,
-        "value_inflation":224.093
-    },
-    {
         "date":1304208000000,
         "value_emp":null,
         "value_gdp":null,
@@ -4666,12 +5200,6 @@
         "value_emp":null,
         "value_gdp":null,
         "value_inflation":224.806
-    },
-    {
-        "date":1309478400000,
-        "value_emp":null,
-        "value_gdp":15647.68,
-        "value_inflation":225.395
     },
     {
         "date":1312156800000,
@@ -4686,12 +5214,6 @@
         "value_inflation":226.597
     },
     {
-        "date":1317427200000,
-        "value_emp":null,
-        "value_gdp":15842.259,
-        "value_inflation":226.75
-    },
-    {
         "date":1320105600000,
         "value_emp":null,
         "value_gdp":null,
@@ -4702,12 +5224,6 @@
         "value_emp":null,
         "value_gdp":null,
         "value_inflation":227.223
-    },
-    {
-        "date":1325376000000,
-        "value_emp":null,
-        "value_gdp":16068.805,
-        "value_inflation":227.842
     },
     {
         "date":1328054400000,
@@ -4722,12 +5238,6 @@
         "value_inflation":228.807
     },
     {
-        "date":1333238400000,
-        "value_emp":null,
-        "value_gdp":16207.115,
-        "value_inflation":229.187
-    },
-    {
         "date":1335830400000,
         "value_emp":null,
         "value_gdp":null,
@@ -4738,12 +5248,6 @@
         "value_emp":null,
         "value_gdp":null,
         "value_inflation":228.524
-    },
-    {
-        "date":1341100800000,
-        "value_emp":null,
-        "value_gdp":16319.541,
-        "value_inflation":228.59
     },
     {
         "date":1343779200000,
@@ -4758,12 +5262,6 @@
         "value_inflation":231.015
     },
     {
-        "date":1349049600000,
-        "value_emp":null,
-        "value_gdp":16420.419,
-        "value_inflation":231.638
-    },
-    {
         "date":1351728000000,
         "value_emp":null,
         "value_gdp":null,
@@ -4774,12 +5272,6 @@
         "value_emp":null,
         "value_gdp":null,
         "value_inflation":231.221
-    },
-    {
-        "date":1356998400000,
-        "value_emp":null,
-        "value_gdp":16648.189,
-        "value_inflation":231.679
     },
     {
         "date":1359676800000,
@@ -4794,12 +5286,6 @@
         "value_inflation":232.282
     },
     {
-        "date":1364774400000,
-        "value_emp":null,
-        "value_gdp":16728.687,
-        "value_inflation":231.797
-    },
-    {
         "date":1367366400000,
         "value_emp":null,
         "value_gdp":null,
@@ -4810,12 +5296,6 @@
         "value_emp":null,
         "value_gdp":null,
         "value_inflation":232.445
-    },
-    {
-        "date":1372636800000,
-        "value_emp":null,
-        "value_gdp":16953.838,
-        "value_inflation":232.9
     },
     {
         "date":1375315200000,
@@ -4830,12 +5310,6 @@
         "value_inflation":233.544
     },
     {
-        "date":1380585600000,
-        "value_emp":null,
-        "value_gdp":17192.019,
-        "value_inflation":233.669
-    },
-    {
         "date":1383264000000,
         "value_emp":null,
         "value_gdp":null,
@@ -4846,12 +5320,6 @@
         "value_emp":null,
         "value_gdp":null,
         "value_inflation":234.719
-    },
-    {
-        "date":1388534400000,
-        "value_emp":null,
-        "value_gdp":17197.738,
-        "value_inflation":235.288
     },
     {
         "date":1391212800000,
@@ -4866,12 +5334,6 @@
         "value_inflation":236.028
     },
     {
-        "date":1396310400000,
-        "value_emp":null,
-        "value_gdp":17518.508,
-        "value_inflation":236.468
-    },
-    {
         "date":1398902400000,
         "value_emp":null,
         "value_gdp":null,
@@ -4882,12 +5344,6 @@
         "value_emp":null,
         "value_gdp":null,
         "value_inflation":237.231
-    },
-    {
-        "date":1404172800000,
-        "value_emp":null,
-        "value_gdp":17804.228,
-        "value_inflation":237.498
     },
     {
         "date":1406851200000,
@@ -4902,12 +5358,6 @@
         "value_inflation":237.477
     },
     {
-        "date":1412121600000,
-        "value_emp":null,
-        "value_gdp":17912.079,
-        "value_inflation":237.43
-    },
-    {
         "date":1414800000000,
         "value_emp":null,
         "value_gdp":null,
@@ -4918,12 +5368,6 @@
         "value_emp":null,
         "value_gdp":null,
         "value_inflation":236.252
-    },
-    {
-        "date":1420070400000,
-        "value_emp":null,
-        "value_gdp":18063.529,
-        "value_inflation":234.747
     },
     {
         "date":1422748800000,
@@ -4938,18 +5382,6 @@
         "value_inflation":235.976
     },
     {
-        "date":1427760000000,
-        "value_emp":140772.6666666667,
-        "value_gdp":null,
-        "value_inflation":null
-    },
-    {
-        "date":1427846400000,
-        "value_emp":null,
-        "value_gdp":18279.784,
-        "value_inflation":236.222
-    },
-    {
         "date":1430438400000,
         "value_emp":null,
         "value_gdp":null,
@@ -4960,18 +5392,6 @@
         "value_emp":null,
         "value_gdp":null,
         "value_inflation":237.657
-    },
-    {
-        "date":1435622400000,
-        "value_emp":141478.6666666667,
-        "value_gdp":null,
-        "value_inflation":null
-    },
-    {
-        "date":1435708800000,
-        "value_emp":null,
-        "value_gdp":18401.626,
-        "value_inflation":238.034
     },
     {
         "date":1438387200000,
@@ -4986,18 +5406,6 @@
         "value_inflation":237.498
     },
     {
-        "date":1443571200000,
-        "value_emp":142128.0,
-        "value_gdp":null,
-        "value_inflation":null
-    },
-    {
-        "date":1443657600000,
-        "value_emp":null,
-        "value_gdp":18435.137,
-        "value_inflation":237.733
-    },
-    {
         "date":1446336000000,
         "value_emp":null,
         "value_gdp":null,
@@ -5008,18 +5416,6 @@
         "value_emp":null,
         "value_gdp":null,
         "value_inflation":237.761
-    },
-    {
-        "date":1451520000000,
-        "value_emp":142825.6666666667,
-        "value_gdp":null,
-        "value_inflation":null
-    },
-    {
-        "date":1451606400000,
-        "value_emp":null,
-        "value_gdp":18525.933,
-        "value_inflation":237.652
     },
     {
         "date":1454284800000,
@@ -5034,18 +5430,6 @@
         "value_inflation":238.08
     },
     {
-        "date":1459382400000,
-        "value_emp":143424.3333333333,
-        "value_gdp":null,
-        "value_inflation":null
-    },
-    {
-        "date":1459468800000,
-        "value_emp":null,
-        "value_gdp":18711.702,
-        "value_inflation":238.992
-    },
-    {
         "date":1462060800000,
         "value_emp":null,
         "value_gdp":null,
@@ -5056,18 +5440,6 @@
         "value_emp":null,
         "value_gdp":null,
         "value_inflation":240.222
-    },
-    {
-        "date":1467244800000,
-        "value_emp":143969.6666666667,
-        "value_gdp":null,
-        "value_inflation":null
-    },
-    {
-        "date":1467331200000,
-        "value_emp":null,
-        "value_gdp":18892.639,
-        "value_inflation":240.101
     },
     {
         "date":1470009600000,
@@ -5082,18 +5454,6 @@
         "value_inflation":241.176
     },
     {
-        "date":1475193600000,
-        "value_emp":144713.3333333333,
-        "value_gdp":null,
-        "value_inflation":null
-    },
-    {
-        "date":1475280000000,
-        "value_emp":null,
-        "value_gdp":19089.379,
-        "value_inflation":241.741
-    },
-    {
         "date":1477958400000,
         "value_emp":null,
         "value_gdp":null,
@@ -5104,18 +5464,6 @@
         "value_emp":null,
         "value_gdp":null,
         "value_inflation":242.637
-    },
-    {
-        "date":1483142400000,
-        "value_emp":145222.3333333333,
-        "value_gdp":null,
-        "value_inflation":null
-    },
-    {
-        "date":1483228800000,
-        "value_emp":null,
-        "value_gdp":19280.084,
-        "value_inflation":243.618
     },
     {
         "date":1485907200000,
@@ -5130,18 +5478,6 @@
         "value_inflation":243.892
     },
     {
-        "date":1490918400000,
-        "value_emp":145820.0,
-        "value_gdp":null,
-        "value_inflation":null
-    },
-    {
-        "date":1491004800000,
-        "value_emp":null,
-        "value_gdp":19438.643,
-        "value_inflation":244.193
-    },
-    {
         "date":1493596800000,
         "value_emp":null,
         "value_gdp":null,
@@ -5152,18 +5488,6 @@
         "value_emp":null,
         "value_gdp":null,
         "value_inflation":244.163
-    },
-    {
-        "date":1498780800000,
-        "value_emp":146383.3333333333,
-        "value_gdp":null,
-        "value_inflation":null
-    },
-    {
-        "date":1498867200000,
-        "value_emp":null,
-        "value_gdp":19692.595,
-        "value_inflation":244.243
     },
     {
         "date":1501545600000,
@@ -5178,18 +5502,6 @@
         "value_inflation":246.435
     },
     {
-        "date":1506729600000,
-        "value_emp":146892.6666666667,
-        "value_gdp":null,
-        "value_inflation":null
-    },
-    {
-        "date":1506816000000,
-        "value_emp":null,
-        "value_gdp":20037.088,
-        "value_inflation":246.626
-    },
-    {
         "date":1509494400000,
         "value_emp":null,
         "value_gdp":null,
@@ -5200,18 +5512,6 @@
         "value_emp":null,
         "value_gdp":null,
         "value_inflation":247.805
-    },
-    {
-        "date":1514678400000,
-        "value_emp":147347.3333333333,
-        "value_gdp":null,
-        "value_inflation":null
-    },
-    {
-        "date":1514764800000,
-        "value_emp":null,
-        "value_gdp":20328.553,
-        "value_inflation":248.859
     },
     {
         "date":1517443200000,
@@ -5226,18 +5526,6 @@
         "value_inflation":249.577
     },
     {
-        "date":1522454400000,
-        "value_emp":148000.3333333333,
-        "value_gdp":null,
-        "value_inflation":null
-    },
-    {
-        "date":1522540800000,
-        "value_emp":null,
-        "value_gdp":20580.912,
-        "value_inflation":250.227
-    },
-    {
         "date":1525132800000,
         "value_emp":null,
         "value_gdp":null,
@@ -5248,18 +5536,6 @@
         "value_emp":null,
         "value_gdp":null,
         "value_inflation":251.018
-    },
-    {
-        "date":1530316800000,
-        "value_emp":148716.3333333333,
-        "value_gdp":null,
-        "value_inflation":null
-    },
-    {
-        "date":1530403200000,
-        "value_emp":null,
-        "value_gdp":20798.73,
-        "value_inflation":251.214
     },
     {
         "date":1533081600000,
@@ -5274,18 +5550,6 @@
         "value_inflation":252.182
     },
     {
-        "date":1538265600000,
-        "value_emp":149219.3333333333,
-        "value_gdp":null,
-        "value_inflation":null
-    },
-    {
-        "date":1538352000000,
-        "value_emp":null,
-        "value_gdp":20917.867,
-        "value_inflation":252.772
-    },
-    {
         "date":1541030400000,
         "value_emp":null,
         "value_gdp":null,
@@ -5296,18 +5560,6 @@
         "value_emp":null,
         "value_gdp":null,
         "value_inflation":252.767
-    },
-    {
-        "date":1546214400000,
-        "value_emp":149650.3333333333,
-        "value_gdp":null,
-        "value_inflation":null
-    },
-    {
-        "date":1546300800000,
-        "value_emp":null,
-        "value_gdp":21111.6,
-        "value_inflation":252.561
     },
     {
         "date":1548979200000,
@@ -5322,18 +5574,6 @@
         "value_inflation":254.277
     },
     {
-        "date":1553990400000,
-        "value_emp":150141.0,
-        "value_gdp":null,
-        "value_inflation":null
-    },
-    {
-        "date":1554076800000,
-        "value_emp":null,
-        "value_gdp":21397.938,
-        "value_inflation":255.233
-    },
-    {
         "date":1556668800000,
         "value_emp":null,
         "value_gdp":null,
@@ -5344,18 +5584,6 @@
         "value_emp":null,
         "value_gdp":null,
         "value_inflation":255.213
-    },
-    {
-        "date":1561852800000,
-        "value_emp":150695.3333333333,
-        "value_gdp":null,
-        "value_inflation":null
-    },
-    {
-        "date":1561939200000,
-        "value_emp":null,
-        "value_gdp":21717.171,
-        "value_inflation":255.802
     },
     {
         "date":1564617600000,
@@ -5370,18 +5598,6 @@
         "value_inflation":256.43
     },
     {
-        "date":1569801600000,
-        "value_emp":151149.0,
-        "value_gdp":null,
-        "value_inflation":null
-    },
-    {
-        "date":1569888000000,
-        "value_emp":null,
-        "value_gdp":21933.217,
-        "value_inflation":257.155
-    },
-    {
         "date":1572566400000,
         "value_emp":null,
         "value_gdp":null,
@@ -5392,18 +5608,6 @@
         "value_emp":null,
         "value_gdp":null,
         "value_inflation":258.63
-    },
-    {
-        "date":1577750400000,
-        "value_emp":151638.6666666667,
-        "value_gdp":null,
-        "value_inflation":null
-    },
-    {
-        "date":1577836800000,
-        "value_emp":null,
-        "value_gdp":21727.657,
-        "value_inflation":258.906
     },
     {
         "date":1580515200000,
@@ -5418,18 +5622,6 @@
         "value_inflation":258.15
     },
     {
-        "date":1585612800000,
-        "value_emp":151750.6666666667,
-        "value_gdp":null,
-        "value_inflation":null
-    },
-    {
-        "date":1585699200000,
-        "value_emp":null,
-        "value_gdp":19935.444,
-        "value_inflation":256.126
-    },
-    {
         "date":1588291200000,
         "value_emp":null,
         "value_gdp":null,
@@ -5440,18 +5632,6 @@
         "value_emp":null,
         "value_gdp":null,
         "value_inflation":257.004
-    },
-    {
-        "date":1593475200000,
-        "value_emp":133705.3333333333,
-        "value_gdp":null,
-        "value_inflation":null
-    },
-    {
-        "date":1593561600000,
-        "value_emp":null,
-        "value_gdp":21684.551,
-        "value_inflation":258.408
     },
     {
         "date":1596240000000,
@@ -5466,18 +5646,6 @@
         "value_inflation":259.951
     },
     {
-        "date":1601424000000,
-        "value_emp":140611.3333333333,
-        "value_gdp":null,
-        "value_inflation":null
-    },
-    {
-        "date":1601510400000,
-        "value_emp":null,
-        "value_gdp":22068.767,
-        "value_inflation":260.249
-    },
-    {
         "date":1604188800000,
         "value_emp":null,
         "value_gdp":null,
@@ -5488,18 +5656,6 @@
         "value_emp":null,
         "value_gdp":null,
         "value_inflation":262.005
-    },
-    {
-        "date":1609372800000,
-        "value_emp":142590.6666666667,
-        "value_gdp":null,
-        "value_inflation":null
-    },
-    {
-        "date":1609459200000,
-        "value_emp":null,
-        "value_gdp":22656.793,
-        "value_inflation":262.518
     },
     {
         "date":1612137600000,
@@ -5514,18 +5670,6 @@
         "value_inflation":264.91
     },
     {
-        "date":1617148800000,
-        "value_emp":143544.3333333333,
-        "value_gdp":null,
-        "value_inflation":null
-    },
-    {
-        "date":1617235200000,
-        "value_emp":null,
-        "value_gdp":23368.861,
-        "value_inflation":266.752
-    },
-    {
         "date":1619827200000,
         "value_emp":null,
         "value_gdp":null,
@@ -5536,18 +5680,6 @@
         "value_emp":null,
         "value_gdp":null,
         "value_inflation":270.664
-    },
-    {
-        "date":1625011200000,
-        "value_emp":145153.0,
-        "value_gdp":null,
-        "value_inflation":null
-    },
-    {
-        "date":1625097600000,
-        "value_emp":null,
-        "value_gdp":23921.991,
-        "value_inflation":271.994
     },
     {
         "date":1627776000000,
@@ -5562,18 +5694,6 @@
         "value_inflation":273.887
     },
     {
-        "date":1632960000000,
-        "value_emp":147231.0,
-        "value_gdp":null,
-        "value_inflation":null
-    },
-    {
-        "date":1633046400000,
-        "value_emp":null,
-        "value_gdp":24777.038,
-        "value_inflation":276.434
-    },
-    {
         "date":1635724800000,
         "value_emp":null,
         "value_gdp":null,
@@ -5584,18 +5704,6 @@
         "value_emp":null,
         "value_gdp":null,
         "value_inflation":280.808
-    },
-    {
-        "date":1640908800000,
-        "value_emp":149175.3333333333,
-        "value_gdp":null,
-        "value_inflation":null
-    },
-    {
-        "date":1640995200000,
-        "value_emp":null,
-        "value_gdp":25215.491,
-        "value_inflation":282.39
     },
     {
         "date":1643673600000,
@@ -5610,18 +5718,6 @@
         "value_inflation":287.553
     },
     {
-        "date":1648684800000,
-        "value_emp":150753.3333333333,
-        "value_gdp":null,
-        "value_inflation":null
-    },
-    {
-        "date":1648771200000,
-        "value_emp":null,
-        "value_gdp":25805.791,
-        "value_inflation":288.764
-    },
-    {
         "date":1651363200000,
         "value_emp":null,
         "value_gdp":null,
@@ -5632,18 +5728,6 @@
         "value_emp":null,
         "value_gdp":null,
         "value_inflation":294.996
-    },
-    {
-        "date":1656547200000,
-        "value_emp":151972.6666666667,
-        "value_gdp":null,
-        "value_inflation":null
-    },
-    {
-        "date":1656633600000,
-        "value_emp":null,
-        "value_gdp":26272.011,
-        "value_inflation":294.977
     },
     {
         "date":1659312000000,
@@ -5658,18 +5742,6 @@
         "value_inflation":296.341
     },
     {
-        "date":1664496000000,
-        "value_emp":153285.0,
-        "value_gdp":null,
-        "value_inflation":null
-    },
-    {
-        "date":1664582400000,
-        "value_emp":null,
-        "value_gdp":26734.277,
-        "value_inflation":297.863
-    },
-    {
         "date":1667260800000,
         "value_emp":null,
         "value_gdp":null,
@@ -5680,18 +5752,6 @@
         "value_emp":null,
         "value_gdp":null,
         "value_inflation":298.812
-    },
-    {
-        "date":1672444800000,
-        "value_emp":154114.3333333333,
-        "value_gdp":null,
-        "value_inflation":null
-    },
-    {
-        "date":1672531200000,
-        "value_emp":null,
-        "value_gdp":27164.359,
-        "value_inflation":300.356
     },
     {
         "date":1675209600000,
@@ -5706,18 +5766,6 @@
         "value_inflation":301.744
     },
     {
-        "date":1680220800000,
-        "value_emp":155013.0,
-        "value_gdp":null,
-        "value_inflation":null
-    },
-    {
-        "date":1680307200000,
-        "value_emp":null,
-        "value_gdp":27453.815,
-        "value_inflation":303.032
-    },
-    {
         "date":1682899200000,
         "value_emp":null,
         "value_gdp":null,
@@ -5728,18 +5776,6 @@
         "value_emp":null,
         "value_gdp":null,
         "value_inflation":304.003
-    },
-    {
-        "date":1688083200000,
-        "value_emp":155766.0,
-        "value_gdp":null,
-        "value_inflation":null
-    },
-    {
-        "date":1688169600000,
-        "value_emp":null,
-        "value_gdp":27967.697,
-        "value_inflation":304.628
     },
     {
         "date":1690848000000,
@@ -5754,18 +5790,6 @@
         "value_inflation":307.288
     },
     {
-        "date":1696032000000,
-        "value_emp":156433.0,
-        "value_gdp":null,
-        "value_inflation":null
-    },
-    {
-        "date":1696118400000,
-        "value_emp":null,
-        "value_gdp":28296.967,
-        "value_inflation":307.531
-    },
-    {
         "date":1698796800000,
         "value_emp":null,
         "value_gdp":null,
@@ -5776,18 +5800,6 @@
         "value_emp":null,
         "value_gdp":null,
         "value_inflation":308.742
-    },
-    {
-        "date":1703980800000,
-        "value_emp":157050.0,
-        "value_gdp":null,
-        "value_inflation":null
-    },
-    {
-        "date":1704067200000,
-        "value_emp":null,
-        "value_gdp":28624.069,
-        "value_inflation":309.685
     },
     {
         "date":1706745600000,
@@ -5802,12 +5814,6 @@
         "value_inflation":312.23
     },
     {
-        "date":1711929600000,
-        "value_emp":null,
-        "value_gdp":29016.714,
-        "value_inflation":313.207
-    },
-    {
         "date":1714521600000,
         "value_emp":null,
         "value_gdp":null,
@@ -5820,12 +5826,6 @@
         "value_inflation":313.049
     },
     {
-        "date":1719792000000,
-        "value_emp":null,
-        "value_gdp":null,
-        "value_inflation":313.534
-    },
-    {
         "date":1722470400000,
         "value_emp":null,
         "value_gdp":null,
@@ -5836,5 +5836,17 @@
         "value_emp":null,
         "value_gdp":null,
         "value_inflation":314.686
+    },
+    {
+        "date":1727740800000,
+        "value_emp":null,
+        "value_gdp":null,
+        "value_inflation":315.454
+    },
+    {
+        "date":1730419200000,
+        "value_emp":null,
+        "value_gdp":null,
+        "value_inflation":316.441
     }
 ]
