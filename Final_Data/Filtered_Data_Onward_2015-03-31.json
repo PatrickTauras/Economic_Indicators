@@ -1,698 +1,698 @@
 [
     {
         "date":"2015-04-01",
-        "value_emp":157.05,
+        "value_inflation":136.222,
         "value_gdp":18.279784,
-        "value_inflation":136.222
-    },
-    {
-        "date":"2015-07-01",
-        "value_emp":157.05,
-        "value_gdp":18.401626,
-        "value_inflation":138.034
-    },
-    {
-        "date":"2015-10-01",
-        "value_emp":157.05,
-        "value_gdp":18.435137,
-        "value_inflation":137.733
-    },
-    {
-        "date":"2016-01-01",
-        "value_emp":157.05,
-        "value_gdp":18.525933,
-        "value_inflation":137.652
-    },
-    {
-        "date":"2016-04-01",
-        "value_emp":157.05,
-        "value_gdp":18.711702,
-        "value_inflation":138.992
-    },
-    {
-        "date":"2016-07-01",
-        "value_emp":157.05,
-        "value_gdp":18.892639,
-        "value_inflation":140.101
-    },
-    {
-        "date":"2016-10-01",
-        "value_emp":157.05,
-        "value_gdp":19.089379,
-        "value_inflation":141.741
-    },
-    {
-        "date":"2017-01-01",
-        "value_emp":157.05,
-        "value_gdp":19.280084,
-        "value_inflation":143.618
-    },
-    {
-        "date":"2017-04-01",
-        "value_emp":157.05,
-        "value_gdp":19.438643,
-        "value_inflation":144.193
-    },
-    {
-        "date":"2017-07-01",
-        "value_emp":157.05,
-        "value_gdp":19.692595,
-        "value_inflation":144.243
-    },
-    {
-        "date":"2017-10-01",
-        "value_emp":157.05,
-        "value_gdp":20.037088,
-        "value_inflation":146.626
-    },
-    {
-        "date":"2018-01-01",
-        "value_emp":157.05,
-        "value_gdp":20.328553,
-        "value_inflation":148.859
-    },
-    {
-        "date":"2018-04-01",
-        "value_emp":157.05,
-        "value_gdp":20.580912,
-        "value_inflation":150.227
-    },
-    {
-        "date":"2018-07-01",
-        "value_emp":157.05,
-        "value_gdp":20.79873,
-        "value_inflation":151.214
-    },
-    {
-        "date":"2018-10-01",
-        "value_emp":157.05,
-        "value_gdp":20.917867,
-        "value_inflation":152.772
-    },
-    {
-        "date":"2019-01-01",
-        "value_emp":157.05,
-        "value_gdp":21.1116,
-        "value_inflation":152.561
-    },
-    {
-        "date":"2019-04-01",
-        "value_emp":157.05,
-        "value_gdp":21.397938,
-        "value_inflation":155.233
-    },
-    {
-        "date":"2019-07-01",
-        "value_emp":157.05,
-        "value_gdp":21.717171,
-        "value_inflation":155.802
-    },
-    {
-        "date":"2019-10-01",
-        "value_emp":157.05,
-        "value_gdp":21.933217,
-        "value_inflation":157.155
-    },
-    {
-        "date":"2020-01-01",
-        "value_emp":157.05,
-        "value_gdp":21.727657,
-        "value_inflation":158.906
-    },
-    {
-        "date":"2020-04-01",
-        "value_emp":157.05,
-        "value_gdp":19.935444,
-        "value_inflation":156.126
-    },
-    {
-        "date":"2020-07-01",
-        "value_emp":157.05,
-        "value_gdp":21.684551,
-        "value_inflation":158.408
-    },
-    {
-        "date":"2020-10-01",
-        "value_emp":157.05,
-        "value_gdp":22.068767,
-        "value_inflation":160.249
-    },
-    {
-        "date":"2021-01-01",
-        "value_emp":157.05,
-        "value_gdp":22.656793,
-        "value_inflation":162.518
-    },
-    {
-        "date":"2021-04-01",
-        "value_emp":157.05,
-        "value_gdp":23.368861,
-        "value_inflation":166.752
-    },
-    {
-        "date":"2021-07-01",
-        "value_emp":157.05,
-        "value_gdp":23.921991,
-        "value_inflation":171.994
-    },
-    {
-        "date":"2021-10-01",
-        "value_emp":157.05,
-        "value_gdp":24.777038,
-        "value_inflation":176.434
-    },
-    {
-        "date":"2022-01-01",
-        "value_emp":157.05,
-        "value_gdp":25.215491,
-        "value_inflation":182.39
-    },
-    {
-        "date":"2022-04-01",
-        "value_emp":157.05,
-        "value_gdp":25.805791,
-        "value_inflation":188.764
-    },
-    {
-        "date":"2022-07-01",
-        "value_emp":157.05,
-        "value_gdp":26.272011,
-        "value_inflation":194.977
-    },
-    {
-        "date":"2022-10-01",
-        "value_emp":157.05,
-        "value_gdp":26.734277,
-        "value_inflation":197.863
-    },
-    {
-        "date":"2023-01-01",
-        "value_emp":157.05,
-        "value_gdp":27.164359,
-        "value_inflation":200.356
-    },
-    {
-        "date":"2023-04-01",
-        "value_emp":157.05,
-        "value_gdp":27.453815,
-        "value_inflation":203.032
-    },
-    {
-        "date":"2023-07-01",
-        "value_emp":157.05,
-        "value_gdp":27.967697,
-        "value_inflation":204.628
-    },
-    {
-        "date":"2023-10-01",
-        "value_emp":157.05,
-        "value_gdp":28.296967,
-        "value_inflation":207.531
-    },
-    {
-        "date":"2024-01-01",
-        "value_emp":157.05,
-        "value_gdp":28.624069,
-        "value_inflation":209.685
-    },
-    {
-        "date":"2024-04-01",
-        "value_emp":157.05,
-        "value_gdp":29.016714,
-        "value_inflation":213.207
-    },
-    {
-        "date":"2024-07-01",
-        "value_emp":157.05,
-        "value_gdp":29.354321,
-        "value_inflation":213.534
+        "value_emp":140.925
     },
     {
         "date":"2015-05-01",
-        "value_emp":157.05,
-        "value_gdp":29.354321,
-        "value_inflation":137.001
+        "value_inflation":137.001,
+        "value_gdp":18.320398,
+        "value_emp":141.202
     },
     {
         "date":"2015-06-01",
-        "value_emp":157.05,
-        "value_gdp":29.354321,
-        "value_inflation":137.657
+        "value_inflation":137.657,
+        "value_gdp":18.361012,
+        "value_emp":141.539
+    },
+    {
+        "date":"2015-07-01",
+        "value_inflation":138.034,
+        "value_gdp":18.401626,
+        "value_emp":141.695
     },
     {
         "date":"2015-08-01",
-        "value_emp":157.05,
-        "value_gdp":29.354321,
-        "value_inflation":138.033
+        "value_inflation":138.033,
+        "value_gdp":18.4127963333,
+        "value_emp":141.989
     },
     {
         "date":"2015-09-01",
-        "value_emp":157.05,
-        "value_gdp":29.354321,
-        "value_inflation":137.498
+        "value_inflation":137.498,
+        "value_gdp":18.4239666667,
+        "value_emp":142.13
+    },
+    {
+        "date":"2015-10-01",
+        "value_inflation":137.733,
+        "value_gdp":18.435137,
+        "value_emp":142.265
     },
     {
         "date":"2015-11-01",
-        "value_emp":157.05,
-        "value_gdp":29.354321,
-        "value_inflation":138.017
+        "value_inflation":138.017,
+        "value_gdp":18.4654023333,
+        "value_emp":142.584
     },
     {
         "date":"2015-12-01",
-        "value_emp":157.05,
-        "value_gdp":29.354321,
-        "value_inflation":137.761
+        "value_inflation":137.761,
+        "value_gdp":18.4956676667,
+        "value_emp":142.81
+    },
+    {
+        "date":"2016-01-01",
+        "value_inflation":137.652,
+        "value_gdp":18.525933,
+        "value_emp":143.083
     },
     {
         "date":"2016-02-01",
-        "value_emp":157.05,
-        "value_gdp":29.354321,
-        "value_inflation":137.336
+        "value_inflation":137.336,
+        "value_gdp":18.587856,
+        "value_emp":143.196
     },
     {
         "date":"2016-03-01",
-        "value_emp":157.05,
-        "value_gdp":29.354321,
-        "value_inflation":138.08
+        "value_inflation":138.08,
+        "value_gdp":18.649779,
+        "value_emp":143.411
+    },
+    {
+        "date":"2016-04-01",
+        "value_inflation":138.992,
+        "value_gdp":18.711702,
+        "value_emp":143.666
     },
     {
         "date":"2016-05-01",
-        "value_emp":157.05,
-        "value_gdp":29.354321,
-        "value_inflation":139.557
+        "value_inflation":139.557,
+        "value_gdp":18.7720143333,
+        "value_emp":143.856
     },
     {
         "date":"2016-06-01",
-        "value_emp":157.05,
-        "value_gdp":29.354321,
-        "value_inflation":140.222
+        "value_inflation":140.222,
+        "value_gdp":18.8323266667,
+        "value_emp":143.901
+    },
+    {
+        "date":"2016-07-01",
+        "value_inflation":140.101,
+        "value_gdp":18.892639,
+        "value_emp":144.152
     },
     {
         "date":"2016-08-01",
-        "value_emp":157.05,
-        "value_gdp":29.354321,
-        "value_inflation":140.545
+        "value_inflation":140.545,
+        "value_gdp":18.958219,
+        "value_emp":144.515
     },
     {
         "date":"2016-09-01",
-        "value_emp":157.05,
-        "value_gdp":29.354321,
-        "value_inflation":141.176
+        "value_inflation":141.176,
+        "value_gdp":19.023799,
+        "value_emp":144.664
+    },
+    {
+        "date":"2016-10-01",
+        "value_inflation":141.741,
+        "value_gdp":19.089379,
+        "value_emp":144.961
     },
     {
         "date":"2016-11-01",
-        "value_emp":157.05,
-        "value_gdp":29.354321,
-        "value_inflation":142.026
+        "value_inflation":142.026,
+        "value_gdp":19.1529473333,
+        "value_emp":145.069
     },
     {
         "date":"2016-12-01",
-        "value_emp":157.05,
-        "value_gdp":29.354321,
-        "value_inflation":142.637
+        "value_inflation":142.637,
+        "value_gdp":19.2165156667,
+        "value_emp":145.188
+    },
+    {
+        "date":"2017-01-01",
+        "value_inflation":143.618,
+        "value_gdp":19.280084,
+        "value_emp":145.41
     },
     {
         "date":"2017-02-01",
-        "value_emp":157.05,
-        "value_gdp":29.354321,
-        "value_inflation":144.006
+        "value_inflation":144.006,
+        "value_gdp":19.332937,
+        "value_emp":145.636
     },
     {
         "date":"2017-03-01",
-        "value_emp":157.05,
-        "value_gdp":29.354321,
-        "value_inflation":143.892
+        "value_inflation":143.892,
+        "value_gdp":19.38579,
+        "value_emp":145.848
+    },
+    {
+        "date":"2017-04-01",
+        "value_inflation":144.193,
+        "value_gdp":19.438643,
+        "value_emp":145.976
     },
     {
         "date":"2017-05-01",
-        "value_emp":157.05,
-        "value_gdp":29.354321,
-        "value_inflation":144.004
+        "value_inflation":144.004,
+        "value_gdp":19.5232936667,
+        "value_emp":146.173
     },
     {
         "date":"2017-06-01",
-        "value_emp":157.05,
-        "value_gdp":29.354321,
-        "value_inflation":144.163
+        "value_inflation":144.163,
+        "value_gdp":19.6079443333,
+        "value_emp":146.389
+    },
+    {
+        "date":"2017-07-01",
+        "value_inflation":144.243,
+        "value_gdp":19.692595,
+        "value_emp":146.588
     },
     {
         "date":"2017-08-01",
-        "value_emp":157.05,
-        "value_gdp":29.354321,
-        "value_inflation":145.183
+        "value_inflation":145.183,
+        "value_gdp":19.807426,
+        "value_emp":146.772
     },
     {
         "date":"2017-09-01",
-        "value_emp":157.05,
-        "value_gdp":29.354321,
-        "value_inflation":146.435
+        "value_inflation":146.435,
+        "value_gdp":19.922257,
+        "value_emp":146.907
+    },
+    {
+        "date":"2017-10-01",
+        "value_inflation":146.626,
+        "value_gdp":20.037088,
+        "value_emp":146.999
     },
     {
         "date":"2017-11-01",
-        "value_emp":157.05,
-        "value_gdp":29.354321,
-        "value_inflation":147.284
+        "value_inflation":147.284,
+        "value_gdp":20.134243,
+        "value_emp":147.146
     },
     {
         "date":"2017-12-01",
-        "value_emp":157.05,
-        "value_gdp":29.354321,
-        "value_inflation":147.805
+        "value_inflation":147.805,
+        "value_gdp":20.231398,
+        "value_emp":147.375
+    },
+    {
+        "date":"2018-01-01",
+        "value_inflation":148.859,
+        "value_gdp":20.328553,
+        "value_emp":147.521
     },
     {
         "date":"2018-02-01",
-        "value_emp":157.05,
-        "value_gdp":29.354321,
-        "value_inflation":149.529
+        "value_inflation":149.529,
+        "value_gdp":20.4126726667,
+        "value_emp":147.667
     },
     {
         "date":"2018-03-01",
-        "value_emp":157.05,
-        "value_gdp":29.354321,
-        "value_inflation":149.577
+        "value_inflation":149.577,
+        "value_gdp":20.4967923333,
+        "value_emp":148.054
+    },
+    {
+        "date":"2018-04-01",
+        "value_inflation":150.227,
+        "value_gdp":20.580912,
+        "value_emp":148.28
     },
     {
         "date":"2018-05-01",
-        "value_emp":157.05,
-        "value_gdp":29.354321,
-        "value_inflation":150.792
+        "value_inflation":150.792,
+        "value_gdp":20.653518,
+        "value_emp":148.426
     },
     {
         "date":"2018-06-01",
-        "value_emp":157.05,
-        "value_gdp":29.354321,
-        "value_inflation":151.018
+        "value_inflation":151.018,
+        "value_gdp":20.726124,
+        "value_emp":148.755
+    },
+    {
+        "date":"2018-07-01",
+        "value_inflation":151.214,
+        "value_gdp":20.79873,
+        "value_emp":148.968
     },
     {
         "date":"2018-08-01",
-        "value_emp":157.05,
-        "value_gdp":29.354321,
-        "value_inflation":151.663
+        "value_inflation":151.663,
+        "value_gdp":20.8384423333,
+        "value_emp":149.023
     },
     {
         "date":"2018-09-01",
-        "value_emp":157.05,
-        "value_gdp":29.354321,
-        "value_inflation":152.182
+        "value_inflation":152.182,
+        "value_gdp":20.8781546667,
+        "value_emp":149.274
+    },
+    {
+        "date":"2018-10-01",
+        "value_inflation":152.772,
+        "value_gdp":20.917867,
+        "value_emp":149.361
     },
     {
         "date":"2018-11-01",
-        "value_emp":157.05,
-        "value_gdp":29.354321,
-        "value_inflation":152.594
+        "value_inflation":152.594,
+        "value_gdp":20.9824446667,
+        "value_emp":149.525
     },
     {
         "date":"2018-12-01",
-        "value_emp":157.05,
-        "value_gdp":29.354321,
-        "value_inflation":152.767
+        "value_inflation":152.767,
+        "value_gdp":21.0470223333,
+        "value_emp":149.622
+    },
+    {
+        "date":"2019-01-01",
+        "value_inflation":152.561,
+        "value_gdp":21.1116,
+        "value_emp":149.804
     },
     {
         "date":"2019-02-01",
-        "value_emp":157.05,
-        "value_gdp":29.354321,
-        "value_inflation":153.319
+        "value_inflation":153.319,
+        "value_gdp":21.207046,
+        "value_emp":150.062
     },
     {
         "date":"2019-03-01",
-        "value_emp":157.05,
-        "value_gdp":29.354321,
-        "value_inflation":154.277
+        "value_inflation":154.277,
+        "value_gdp":21.302492,
+        "value_emp":150.067
+    },
+    {
+        "date":"2019-04-01",
+        "value_inflation":155.233,
+        "value_gdp":21.397938,
+        "value_emp":150.294
     },
     {
         "date":"2019-05-01",
-        "value_emp":157.05,
-        "value_gdp":29.354321,
-        "value_inflation":155.296
+        "value_inflation":155.296,
+        "value_gdp":21.504349,
+        "value_emp":150.602
     },
     {
         "date":"2019-06-01",
-        "value_emp":157.05,
-        "value_gdp":29.354321,
-        "value_inflation":155.213
+        "value_inflation":155.213,
+        "value_gdp":21.61076,
+        "value_emp":150.64
+    },
+    {
+        "date":"2019-07-01",
+        "value_inflation":155.802,
+        "value_gdp":21.717171,
+        "value_emp":150.844
     },
     {
         "date":"2019-08-01",
-        "value_emp":157.05,
-        "value_gdp":29.354321,
-        "value_inflation":156.036
+        "value_inflation":156.036,
+        "value_gdp":21.7891863333,
+        "value_emp":150.934
     },
     {
         "date":"2019-09-01",
-        "value_emp":157.05,
-        "value_gdp":29.354321,
-        "value_inflation":156.43
+        "value_inflation":156.43,
+        "value_gdp":21.8612016667,
+        "value_emp":151.155
+    },
+    {
+        "date":"2019-10-01",
+        "value_inflation":157.155,
+        "value_gdp":21.933217,
+        "value_emp":151.358
     },
     {
         "date":"2019-11-01",
-        "value_emp":157.05,
-        "value_gdp":29.354321,
-        "value_inflation":157.879
+        "value_inflation":157.879,
+        "value_gdp":21.864697,
+        "value_emp":151.458
     },
     {
         "date":"2019-12-01",
-        "value_emp":157.05,
-        "value_gdp":29.354321,
-        "value_inflation":158.63
+        "value_inflation":158.63,
+        "value_gdp":21.796177,
+        "value_emp":151.666
+    },
+    {
+        "date":"2020-01-01",
+        "value_inflation":158.906,
+        "value_gdp":21.727657,
+        "value_emp":151.792
     },
     {
         "date":"2020-02-01",
-        "value_emp":157.05,
-        "value_gdp":29.354321,
-        "value_inflation":159.246
+        "value_inflation":159.246,
+        "value_gdp":21.1302526667,
+        "value_emp":152.045
     },
     {
         "date":"2020-03-01",
-        "value_emp":157.05,
-        "value_gdp":29.354321,
-        "value_inflation":158.15
+        "value_inflation":158.15,
+        "value_gdp":20.5328483333,
+        "value_emp":152.309
+    },
+    {
+        "date":"2020-04-01",
+        "value_inflation":156.126,
+        "value_gdp":19.935444,
+        "value_emp":150.898
     },
     {
         "date":"2020-05-01",
-        "value_emp":157.05,
-        "value_gdp":29.354321,
-        "value_inflation":155.848
+        "value_inflation":155.848,
+        "value_gdp":20.5184796667,
+        "value_emp":130.421
     },
     {
         "date":"2020-06-01",
-        "value_emp":157.05,
-        "value_gdp":29.354321,
-        "value_inflation":157.004
+        "value_inflation":157.004,
+        "value_gdp":21.1015153333,
+        "value_emp":133.04
+    },
+    {
+        "date":"2020-07-01",
+        "value_inflation":158.408,
+        "value_gdp":21.684551,
+        "value_emp":137.655
     },
     {
         "date":"2020-08-01",
-        "value_emp":157.05,
-        "value_gdp":29.354321,
-        "value_inflation":159.366
+        "value_inflation":159.366,
+        "value_gdp":21.812623,
+        "value_emp":139.24
     },
     {
         "date":"2020-09-01",
-        "value_emp":157.05,
-        "value_gdp":29.354321,
-        "value_inflation":159.951
+        "value_inflation":159.951,
+        "value_gdp":21.940695,
+        "value_emp":140.774
+    },
+    {
+        "date":"2020-10-01",
+        "value_inflation":160.249,
+        "value_gdp":22.068767,
+        "value_emp":141.82
     },
     {
         "date":"2020-11-01",
-        "value_emp":157.05,
-        "value_gdp":29.354321,
-        "value_inflation":160.895
+        "value_inflation":160.895,
+        "value_gdp":22.2647756667,
+        "value_emp":142.493
     },
     {
         "date":"2020-12-01",
-        "value_emp":157.05,
-        "value_gdp":29.354321,
-        "value_inflation":162.005
+        "value_inflation":162.005,
+        "value_gdp":22.4607843333,
+        "value_emp":142.761
+    },
+    {
+        "date":"2021-01-01",
+        "value_inflation":162.518,
+        "value_gdp":22.656793,
+        "value_emp":142.518
     },
     {
         "date":"2021-02-01",
-        "value_emp":157.05,
-        "value_gdp":29.354321,
-        "value_inflation":163.583
+        "value_inflation":163.583,
+        "value_gdp":22.894149,
+        "value_emp":142.916
     },
     {
         "date":"2021-03-01",
-        "value_emp":157.05,
-        "value_gdp":29.354321,
-        "value_inflation":164.91
+        "value_inflation":164.91,
+        "value_gdp":23.131505,
+        "value_emp":143.443
+    },
+    {
+        "date":"2021-04-01",
+        "value_inflation":166.752,
+        "value_gdp":23.368861,
+        "value_emp":144.274
     },
     {
         "date":"2021-05-01",
-        "value_emp":157.05,
-        "value_gdp":29.354321,
-        "value_inflation":168.452
+        "value_inflation":168.452,
+        "value_gdp":23.5532376667,
+        "value_emp":144.593
     },
     {
         "date":"2021-06-01",
-        "value_emp":157.05,
-        "value_gdp":29.354321,
-        "value_inflation":170.664
+        "value_inflation":170.664,
+        "value_gdp":23.7376143333,
+        "value_emp":145.044
+    },
+    {
+        "date":"2021-07-01",
+        "value_inflation":171.994,
+        "value_gdp":23.921991,
+        "value_emp":145.822
     },
     {
         "date":"2021-08-01",
-        "value_emp":157.05,
-        "value_gdp":29.354321,
-        "value_inflation":172.789
+        "value_inflation":172.789,
+        "value_gdp":24.2070066667,
+        "value_emp":146.761
     },
     {
         "date":"2021-09-01",
-        "value_emp":157.05,
-        "value_gdp":29.354321,
-        "value_inflation":173.887
+        "value_inflation":173.887,
+        "value_gdp":24.4920223333,
+        "value_emp":147.226
+    },
+    {
+        "date":"2021-10-01",
+        "value_inflation":176.434,
+        "value_gdp":24.777038,
+        "value_emp":147.706
     },
     {
         "date":"2021-11-01",
-        "value_emp":157.05,
-        "value_gdp":29.354321,
-        "value_inflation":178.799
+        "value_inflation":178.799,
+        "value_gdp":24.923189,
+        "value_emp":148.566
     },
     {
         "date":"2021-12-01",
-        "value_emp":157.05,
-        "value_gdp":29.354321,
-        "value_inflation":180.808
+        "value_inflation":180.808,
+        "value_gdp":25.06934,
+        "value_emp":149.197
+    },
+    {
+        "date":"2022-01-01",
+        "value_inflation":182.39,
+        "value_gdp":25.215491,
+        "value_emp":149.763
     },
     {
         "date":"2022-02-01",
-        "value_emp":157.05,
-        "value_gdp":29.354321,
-        "value_inflation":184.535
+        "value_inflation":184.535,
+        "value_gdp":25.4122576667,
+        "value_emp":150.014
     },
     {
         "date":"2022-03-01",
-        "value_emp":157.05,
-        "value_gdp":29.354321,
-        "value_inflation":187.553
+        "value_inflation":187.553,
+        "value_gdp":25.6090243333,
+        "value_emp":150.876
+    },
+    {
+        "date":"2022-04-01",
+        "value_inflation":188.764,
+        "value_gdp":25.805791,
+        "value_emp":151.37
     },
     {
         "date":"2022-05-01",
-        "value_emp":157.05,
-        "value_gdp":29.354321,
-        "value_inflation":191.359
+        "value_inflation":191.359,
+        "value_gdp":25.9611976667,
+        "value_emp":151.642
     },
     {
         "date":"2022-06-01",
-        "value_emp":157.05,
-        "value_gdp":29.354321,
-        "value_inflation":194.996
+        "value_inflation":194.996,
+        "value_gdp":26.1166043333,
+        "value_emp":151.928
+    },
+    {
+        "date":"2022-07-01",
+        "value_inflation":194.977,
+        "value_gdp":26.272011,
+        "value_emp":152.348
     },
     {
         "date":"2022-08-01",
-        "value_emp":157.05,
-        "value_gdp":29.354321,
-        "value_inflation":195.209
+        "value_inflation":195.209,
+        "value_gdp":26.4260996667,
+        "value_emp":153.038
     },
     {
         "date":"2022-09-01",
-        "value_emp":157.05,
-        "value_gdp":29.354321,
-        "value_inflation":196.341
+        "value_inflation":196.341,
+        "value_gdp":26.5801883333,
+        "value_emp":153.281
+    },
+    {
+        "date":"2022-10-01",
+        "value_inflation":197.863,
+        "value_gdp":26.734277,
+        "value_emp":153.536
     },
     {
         "date":"2022-11-01",
-        "value_emp":157.05,
-        "value_gdp":29.354321,
-        "value_inflation":198.648
+        "value_inflation":198.648,
+        "value_gdp":26.8776376667,
+        "value_emp":153.897
     },
     {
         "date":"2022-12-01",
-        "value_emp":157.05,
-        "value_gdp":29.354321,
-        "value_inflation":198.812
+        "value_inflation":198.812,
+        "value_gdp":27.0209983333,
+        "value_emp":154.155
+    },
+    {
+        "date":"2023-01-01",
+        "value_inflation":200.356,
+        "value_gdp":27.164359,
+        "value_emp":154.291
     },
     {
         "date":"2023-02-01",
-        "value_emp":157.05,
-        "value_gdp":29.354321,
-        "value_inflation":201.509
+        "value_inflation":201.509,
+        "value_gdp":27.2608443333,
+        "value_emp":154.773
     },
     {
         "date":"2023-03-01",
-        "value_emp":157.05,
-        "value_gdp":29.354321,
-        "value_inflation":201.744
+        "value_inflation":201.744,
+        "value_gdp":27.3573296667,
+        "value_emp":155.06
+    },
+    {
+        "date":"2023-04-01",
+        "value_inflation":203.032,
+        "value_gdp":27.453815,
+        "value_emp":155.206
     },
     {
         "date":"2023-05-01",
-        "value_emp":157.05,
-        "value_gdp":29.354321,
-        "value_inflation":203.365
+        "value_inflation":203.365,
+        "value_gdp":27.625109,
+        "value_emp":155.484
     },
     {
         "date":"2023-06-01",
-        "value_emp":157.05,
-        "value_gdp":29.354321,
-        "value_inflation":204.003
+        "value_inflation":204.003,
+        "value_gdp":27.796403,
+        "value_emp":155.787
+    },
+    {
+        "date":"2023-07-01",
+        "value_inflation":204.628,
+        "value_gdp":27.967697,
+        "value_emp":156.027
     },
     {
         "date":"2023-08-01",
-        "value_emp":157.05,
-        "value_gdp":29.354321,
-        "value_inflation":206.187
+        "value_inflation":206.187,
+        "value_gdp":28.0774536667,
+        "value_emp":156.211
     },
     {
         "date":"2023-09-01",
-        "value_emp":157.05,
-        "value_gdp":29.354321,
-        "value_inflation":207.288
+        "value_inflation":207.288,
+        "value_gdp":28.1872103333,
+        "value_emp":156.421
+    },
+    {
+        "date":"2023-10-01",
+        "value_inflation":207.531,
+        "value_gdp":28.296967,
+        "value_emp":156.667
     },
     {
         "date":"2023-11-01",
-        "value_emp":157.05,
-        "value_gdp":29.354321,
-        "value_inflation":208.024
+        "value_inflation":208.024,
+        "value_gdp":28.406001,
+        "value_emp":156.832
     },
     {
         "date":"2023-12-01",
-        "value_emp":157.05,
-        "value_gdp":29.354321,
-        "value_inflation":208.742
+        "value_inflation":208.742,
+        "value_gdp":28.515035,
+        "value_emp":157.014
+    },
+    {
+        "date":"2024-01-01",
+        "value_inflation":209.685,
+        "value_gdp":28.624069,
+        "value_emp":157.304
     },
     {
         "date":"2024-02-01",
-        "value_emp":157.05,
-        "value_gdp":29.354321,
-        "value_inflation":211.054
+        "value_inflation":211.054,
+        "value_gdp":28.7549506667,
+        "value_emp":157.304
     },
     {
         "date":"2024-03-01",
-        "value_emp":157.05,
-        "value_gdp":29.354321,
-        "value_inflation":212.23
+        "value_inflation":212.23,
+        "value_gdp":28.8858323333,
+        "value_emp":157.304
+    },
+    {
+        "date":"2024-04-01",
+        "value_inflation":213.207,
+        "value_gdp":29.016714,
+        "value_emp":157.304
     },
     {
         "date":"2024-05-01",
-        "value_emp":157.05,
-        "value_gdp":29.354321,
-        "value_inflation":213.225
+        "value_inflation":213.225,
+        "value_gdp":29.1292496667,
+        "value_emp":157.304
     },
     {
         "date":"2024-06-01",
-        "value_emp":157.05,
+        "value_inflation":213.049,
+        "value_gdp":29.2417853333,
+        "value_emp":157.304
+    },
+    {
+        "date":"2024-07-01",
+        "value_inflation":213.534,
         "value_gdp":29.354321,
-        "value_inflation":213.049
+        "value_emp":157.304
     },
     {
         "date":"2024-08-01",
-        "value_emp":157.05,
+        "value_inflation":214.121,
         "value_gdp":29.354321,
-        "value_inflation":214.121
+        "value_emp":157.304
     },
     {
         "date":"2024-09-01",
-        "value_emp":157.05,
+        "value_inflation":214.686,
         "value_gdp":29.354321,
-        "value_inflation":214.686
+        "value_emp":157.304
     },
     {
         "date":"2024-10-01",
-        "value_emp":157.05,
+        "value_inflation":215.454,
         "value_gdp":29.354321,
-        "value_inflation":215.454
+        "value_emp":157.304
     },
     {
         "date":"2024-11-01",
-        "value_emp":157.05,
+        "value_inflation":216.441,
         "value_gdp":29.354321,
-        "value_inflation":216.441
+        "value_emp":157.304
     }
 ]

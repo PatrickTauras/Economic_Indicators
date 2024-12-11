@@ -16,8 +16,7 @@ df['value_emp'] = df['value_emp'].interpolate(method='linear')
 df['value_gdp'] = df['value_gdp'].interpolate(method='linear')
 df['value_inflation'] = df['value_inflation'].interpolate(method='linear')
 
-#remove remaining null values
-df.dropna(subset=['value_gdp', 'value_inflation'], how='all', inplace=True)
+
 
 # Convert timestamp
 df['date'] = pd.to_datetime(df['date'], unit='ms')

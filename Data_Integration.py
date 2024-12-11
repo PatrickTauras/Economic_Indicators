@@ -1,4 +1,5 @@
 import pandas as pd
+from datetime import timedelta
 import json
 
 # Load Employment Data
@@ -33,7 +34,8 @@ employment_df = employment_df.dropna(subset=['date'])
 employment_df['value'] = pd.to_numeric(employment_df['value'], errors='coerce')
 
 # Resample Employment Data to Quarterly Frequency
-employment_df = employment_df.set_index('date')[['value']].resample('Q').mean().reset_index()
+employment_df = employment_df.set_index('date')[['value']].resample('M').mean().reset_index()
+employment_df['date'] = employment_df['date'] + timedelta(days=1)
 
 # Rename Columns for Clarity in Employment Data
 employment_df.rename(columns={'value': 'value_emp'}, inplace=True)
@@ -50,9 +52,20 @@ inflation_df['value'] = pd.to_numeric(inflation_df['value'], errors='coerce')
 gdp_df.rename(columns={'value': 'value_gdp'}, inplace=True)
 inflation_df.rename(columns={'value': 'value_inflation'}, inplace=True)
 
+#saving in case need to see inbetween steps of data transform
+#gdp_df['date'] = gdp_df['date'].dt.strftime('%Y-%m-%d')
+#inflation_df['date'] = inflation_df['date'].dt.strftime('%Y-%m-%d')
+#employment_df['date'] = employment_df['date'].dt.strftime('%Y-%m-%d')
+
+#gdp_df.to_json("Cleaning_Data/GDP_Cleaned.json", orient="records", indent=4)
+#inflation_df.to_json("Cleaning_Data/Inflation_Cleaned.json", orient="records", indent=4)
+#employment_df.to_json("Cleaning_Data/Employment_Cleaned.json", orient="records", indent=4)
+
+
+
 # Merge Employment, GDP, and Inflation DataFrames
-integrated_df = pd.merge(employment_df, gdp_df[['date', 'value_gdp']], on="date", how="outer")
-integrated_df = pd.merge(integrated_df, inflation_df[['date', 'value_inflation']], on="date", how="outer")
+integrated_df = pd.merge(inflation_df[['date', 'value_inflation']], gdp_df[['date', 'value_gdp']], on="date", how="outer")
+integrated_df = pd.merge(integrated_df, employment_df, on="date", how="outer")
 
 # Save the Integrated Data to a JSON File
 integrated_df.to_json("Cleaning_Data/Data_Integration.json", orient="records", indent=4)

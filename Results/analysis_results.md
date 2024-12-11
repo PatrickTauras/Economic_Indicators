@@ -2,14 +2,14 @@
 
 ## Correlation Matrix
                  value_emp  value_gdp  value_inflation
-value_emp              NaN        NaN              NaN
-value_gdp              NaN   1.000000         0.328956
-value_inflation        NaN   0.328956         1.000000
+value_emp         1.000000   0.777883         0.782354
+value_gdp         0.777883   1.000000         0.995524
+value_inflation   0.782354   0.995524         1.000000
 
 ## Regression Analysis
-Intercept: 157.04999999999995
-Coefficients (GDP, Inflation): [ 2.51553825e-30 -1.65738004e-30]
-R^2 Score: 0.0
+Intercept: 120.4975395014578
+Coefficients (GDP, Inflation): [-0.16806037  0.19132109]
+R^2 Score: 0.6121820403579545
 
 ## Graphs Generated:
 1. Line Plot: Trends over Time
