@@ -4,7 +4,7 @@
 **How do changes in GDP and inflation impact employment trends across different industries in the United States?**
 
 ## Link to Archival Record
-[Zenodo Archive](https://doi.org/XXXX/zenodo.XXXXXX) (Add this once available)
+[Zenodo Archive] 10.5072/zenodo.141708
 
 ## Contributors
 - **Patrick Tauras (Data Engineer)**: Data acquisition, integration, cleaning, and workflow automation.
@@ -148,7 +148,7 @@ By refining our analytical approach, future studies could capture the complexiti
 
 2. Nagivate to project directory:
     cd is477-fa24-TEAM_NAME
-    
+
 3. Install dependencies:
     pip install -r requirements.txt (in terminal)
 
