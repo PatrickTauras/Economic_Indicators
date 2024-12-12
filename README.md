@@ -145,14 +145,27 @@ By refining our analytical approach, future studies could capture the complexiti
 1. Clone the repository:
    ```bash
    git clone https://github.com/illinois-data-curation/is477-fa24-TEAM_NAME.git
+
 2. Nagivate to project directory:
     cd is477-fa24-TEAM_NAME
+    
 3. Install dependencies:
     pip install -r requirements.txt (in terminal)
-4. Run the analysis and visualization script:
-    python analyze_and_visualize.py (in terminal)
-5. Execute automated workflows (if applicable):
-    snakemake --cores 4
+
+4. Create a new folder named "api_keys", then HAVE PAT FILL IN HOW TO GET THE KEYS. Then 
+create a file in the api_keys folder named bls_apikey.txt and paste your private API key
+for the BLS data into the text file. Then create another file in the api_keys folder named
+fred_apikey.txt and paste your private API key for the FRED data into that text file.
+
+5. If running an integrity check with the hashes, you must manually input the initially
+calculated hashes in file_hashes.json to the according values in hash_integrity_check.py
+lines 37-39 for the hashes for each data file.
+
+6. Once everything is ready, simply use the command 'snakemake --cores 1' to run it all
+
+
+## Results
+Stored in the following shared Box folder: https://uofi.box.com/s/hvkw5ibc10e2880vecvn1mndmrejvrmh
 
 
 ## References
@@ -168,5 +181,6 @@ By refining our analytical approach, future studies could capture the complexiti
 - requests
 - sklearn.linear_model
 - sklearn.metrics
+- snakemake
 
 
