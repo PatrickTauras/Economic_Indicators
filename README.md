@@ -152,10 +152,7 @@ By refining our analytical approach, future studies could capture the complexiti
 3. Install dependencies:
     pip install -r requirements.txt (in terminal)
 
-4. Create a new folder named "api_keys", then HAVE PAT FILL IN HOW TO GET THE KEYS. Then 
-create a file in the api_keys folder named bls_apikey.txt and paste your private API key
-for the BLS data into the text file. Then create another file in the api_keys folder named
-fred_apikey.txt and paste your private API key for the FRED data into that text file.
+4. Create a new folder named "api_keys", then go to https://fred.stlouisfed.org/docs/api/fred/ and make an account in the top right(or sign into your account). Next, log into your account and click on "API Keys" in the my account drop down menu. Next, either request an API Key or if you have one it should be shown at the bottom left of the page. Finally, create another file in the api_keys folder named fred_apikey.txt and paste your private API key for the FRED data into that text file. Next, lets retrieve the BLS API Key. Go to https://www.bls.gov/developers/home.htm and click on the link "Registration" in the middle. Next, fill out the form for your organization name and email. After completing this step you should have recieved an email from BLS with your API Key in it and needing to confirm your account.  Confirm your account and create a file in the api_keys folder named bls_apikey.txt and paste your private API key from the email for the BLS data into the text file. 
 
 5. If running an integrity check with the hashes, you must manually input the initially
 calculated hashes in file_hashes.json to the according values in hash_integrity_check.py
