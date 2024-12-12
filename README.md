@@ -1,7 +1,7 @@
 # Economic Indicators and Employment Trends
 
 ## Research Question
-**How do changes in GDP and inflation impact employment trends across different industries in the United States?**
+**How have changes in GDP and inflation influenced employment trends in the United States from 2015 onward, with a specific focus on the economic disruptions caused by the COVID-19 pandemic?**
 
 ## Link to Archival Record
 [Zenodo Archive] 10.5072/zenodo.141708
@@ -16,7 +16,7 @@ This project explores the relationship between GDP, inflation, and employment tr
 
 Our motivation for this project was to better understand how major economic shocks, like the pandemic, ripple through different indicators and affect the workforce. The pandemic created an unprecedented economic crisis. In 2020, widespread lockdowns and restrictions halted industries, disrupted supply chains, and slashed consumer demand. This led to a sharp decline in GDP, massive job losses, and a temporary dip in inflation before it began climbing again. By 2021, the economy started showing signs of recovery, but not all indicators rebounded at the same pace. While GDP grew steadily, inflation surged due to supply shortages and pent-up demand, and employment lagged behind as businesses faced challenges in rehiring and restructuring.
 
-The central goal of this project was to delve deeper into these trends and explore how GDP, inflation, and employment interact. Our research question, "How do changes in GDP and inflation impact employment trends across different industries in the United States?", guided our analysis. We wanted to understand whether employment trends closely followed GDP and inflation or were driven by other factors. The pandemic years, in particular, offered valuable insights into how the economy crashed and began to recover.
+The central goal of this project was to delve deeper into these trends and explore how GDP, inflation, and employment interact. Our research question, "How have changes in GDP and inflation influenced employment trends in the United States from 2015 onward, with a specific focus on the economic disruptions caused by the COVID-19 pandemic?", guided our analysis. We wanted to understand whether employment trends closely followed GDP and inflation or were driven by other factors. The pandemic years, in particular, offered valuable insights into how the economy crashed and began to recover.
 
 Understanding the economic effects of the COVID-19 pandemic was a core focus of this project. We aimed to answer questions like: How quickly did employment recover after the initial shock of 2020? Did inflation simply lag behind GDP growth, or did it develop independently during the recovery? Were there observable patterns in the economy’s rebound, and what lessons could be drawn to help policymakers prepare for future crises?
 
