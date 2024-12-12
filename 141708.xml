@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4.3/metadata.xsd">
+  <identifier identifierType="DOI">10.5072/zenodo.141708</identifier>
+  <alternateIdentifiers>
+    <alternateIdentifier alternateIdentifierType="URL">https://sandbox.zenodo.org/records/141708</alternateIdentifier>
+    <alternateIdentifier alternateIdentifierType="oai">oai:zenodo.org:141708</alternateIdentifier>
+  </alternateIdentifiers>
+  <creators>
+    <creator>
+      <creatorName nameType="Personal">Justin Kutsor</creatorName>
+      <familyName>Justin Kutsor</familyName>
+      <nameIdentifier nameIdentifierScheme="ORCID">0009-0003-2568-4525</nameIdentifier>
+      <affiliation affiliationIdentifier="https://ror.org/047426m28" affiliationIdentifierScheme="ROR">University of Illinois Urbana-Champaign</affiliation>
+    </creator>
+    <creator>
+      <creatorName nameType="Personal">Patrick Tauras</creatorName>
+      <familyName>Patrick Tauras</familyName>
+      <nameIdentifier nameIdentifierScheme="ORCID">0009-0005-7457-0473</nameIdentifier>
+      <affiliation affiliationIdentifier="https://ror.org/047426m28" affiliationIdentifierScheme="ROR">University of Illinois Urbana-Champaign</affiliation>
+    </creator>
+  </creators>
+  <titles>
+    <title>IS477 FA24 Economic Indicator Analysis Project</title>
+  </titles>
+  <publisher>Zenodo</publisher>
+  <publicationYear>2024</publicationYear>
+  <dates>
+    <date dateType="Issued">2024-12-12</date>
+    <date dateType="Submitted">2024-12-12</date>
+    <date dateType="Updated">2024-12-12</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Software"></resourceType>
+  <relatedIdentifiers>
+    <relatedIdentifier relatedIdentifierType="URL" relationType="IsSupplementTo" resourceTypeGeneral="Software">https://github.com/illinois-data-curation/Team-Economic-Indicators</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="DOI" relationType="IsVersionOf">10.5072/zenodo.141707</relatedIdentifier>
+  </relatedIdentifiers>
+  <rightsList>
+    <rights rightsURI="https://creativecommons.org/licenses/by/4.0/legalcode" rightsIdentifierScheme="spdx" rightsIdentifier="cc-by-4.0">Creative Commons Attribution 4.0 International</rights>
+  </rightsList>
+  <descriptions>
+    <description descriptionType="Abstract">This contains our project analyzing employment, inflation, and gdp in the United States to compare how they interact with each other and affect the economy. The employment data came from the Buruea of Labor Statistics and it contained data about the number of employed workers in the US economy (in thousands) each month from 2015 to current day. The GDP and inflation datasets both came from FRED - the St. Louis Fed- and contained data from 1946 to current day as well. The GDP data contained quarterly nominal GDP amounts, while the inflation data contained monthly measurements on the inflation index in the US. These datasets were ultimately merged into one, which only contained data from 2015 onward, and then were visualized and compared to see how they interacted with each other.</description>
+  </descriptions>
+</resource>
